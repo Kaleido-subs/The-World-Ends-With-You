@@ -24,4 +24,4 @@ Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:12:32.06,0:12:33.69,Sign,,0,0,0,,== Mailbox sign ==
 Dialogue: 0,0:12:32.06,0:12:33.69,Sign,,0,0,0,,{\an7\pos(890.29,808.57)\fscx100\fscy100\bord0\shad0\c&H3A3D50&\blur1\p1}m -73.15 -52 l 83.42 -36 84.57 63.43 -73.15 45.14
-Dialogue: 1,0:12:32.06,0:12:33.69,Sign,,0,0,0,,{\pos(890.29,808.57)\frz-6.93\fax0.11\c&HB5CDD1&}Mail {## lol nice meme}
+Dialogue: 1,0:12:32.06,0:12:33.69,Sign,,0,0,0,,{\pos(890.29,808.57)\frz-6.93\fax0.11\c&HB5CDD1&}Mail

@@ -3,18 +3,15 @@
 ; http://www.aegisub.org/
 Title: Kaleido-subs
 ScriptType: v4.00+
+PlayDepth: 0
 WrapStyle: 0
+ScaledBorderAndShadow: yes
 PlayResX: 1920
 PlayResY: 1080
-ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Kaleido-subs] Yuru Camp△ Season 2 (Comfy Camp) - 01 (WEB 1080p EAC3) [C576595E].mkv
-Video File: [Kaleido-subs] Yuru Camp△ Season 2 (Comfy Camp) - 01 (WEB 1080p EAC3) [C576595E].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,4 +20,393 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
+Comment: 0,0:00:06.99,0:00:06.99,Default,chapter,0,0,0,,{Intro}
+Dialogue: 10,0:00:25.08,0:00:27.70,Default,,0,0,0,,Where am I?
+Dialogue: 10,0:00:32.08,0:00:34.66,Default,,0,0,0,,Pins? Why do I have these?
+Dialogue: 10,0:00:35.70,0:00:37.58,Default,,0,0,0,,Oh, no. It'll turn red!
+Dialogue: 10,0:00:40.29,0:00:42.90,Default,,0,0,0,,What was that?
+Dialogue: 10,0:00:41.00,0:00:42.91,Alt,,0,0,0,,Scramble Crossing is too crowded.
+Dialogue: 10,0:00:42.91,0:00:44.54,Default,,0,0,0,,Where's Hachiko?
+Dialogue: 10,0:00:45.79,0:00:48.95,Default,,0,0,0,,Eiji Oji was totally cool.
+Dialogue: 10,0:00:48.95,0:00:51.75,Default,,0,0,0,,What happened to me?
+Dialogue: 10,0:00:59.50,0:01:02.45,Default,,0,0,0,,Can't they see me?
+Dialogue: 10,0:01:06.37,0:01:07.58,Default,,0,0,0,,Whoa!
+Dialogue: 10,0:01:19.75,0:01:22.41,Default,,0,0,0,,What's going on?
+Dialogue: 10,0:01:27.37,0:01:28.23,Default,,0,0,0,,I'll take it.
+Dialogue: 10,0:01:28.23,0:01:29.33,Default,,0,0,0,,Okay.
+Dialogue: 10,0:01:30.41,0:01:31.37,Default,,0,0,0,,Like it?
+Dialogue: 10,0:01:31.37,0:01:33.33,Default,,0,0,0,,Send it to me later.
+Dialogue: 10,0:01:33.33,0:01:37.04,Default,,0,0,0,,There are weird walls everywhere I look.
+Dialogue: 10,0:01:37.04,0:01:39.62,Default,,0,0,0,,I can't go anywhere.
+Dialogue: 10,0:01:39.62,0:01:42.00,Default,,0,0,0,,I'm completely trapped.
+Dialogue: 10,0:01:42.00,0:01:44.00,Default,,0,0,0,,How do I get out of here?
+Dialogue: 10,0:01:46.12,0:01:48.66,Default,,0,0,0,,"Reach 104"?
+Dialogue: 10,0:01:50.16,0:01:51.37,Default,,0,0,0,,What?
+Dialogue: 10,0:01:53.50,0:01:54.75,Default,,0,0,0,,Numbers?
+Dialogue: 10,0:02:01.45,0:02:04.50,Default,,0,0,0,,A person... disappeared?!
+Dialogue: 10,0:02:04.50,0:02:06.75,Default,,0,0,0,,What's going on?!
+Dialogue: 10,0:02:06.75,0:02:08.62,Default,,0,0,0,,His hand!
+Dialogue: 10,0:02:08.62,0:02:10.04,Default,,0,0,0,,You're also--
+Dialogue: 10,0:02:21.04,0:02:22.33,Default,,0,0,0,,Run!
+Dialogue: 10,0:02:24.54,0:02:27.20,Default,,0,0,0,,Hey! What's going on here?!
+Dialogue: 10,0:02:27.20,0:02:28.62,Default,,0,0,0,,Please.
+Dialogue: 10,0:02:28.62,0:02:29.91,Default,,0,0,0,,Huh?
+Dialogue: 10,0:02:29.91,0:02:32.16,Default,,0,0,0,,Make a pact with me!
+Dialogue: 10,0:02:32.16,0:02:34.66,Default,,0,0,0,,What are you talking about?
+Dialogue: 10,0:02:35.75,0:02:39.25,Default,,0,0,0,,If we don't beat the Noise, \Nwe'll be erased too!
+Dialogue: 10,0:02:39.25,0:02:42.70,Default,,0,0,0,,Please! Trust me!
+Dialogue: 10,0:02:42.70,0:02:44.50,Default,,0,0,0,,F-Fine.
+Dialogue: 10,0:02:45.87,0:02:47.20,Default,,0,0,0,,I'll do it.
+Dialogue: 10,0:02:50.25,0:02:53.50,Default,,0,0,0,,What's this light?
+Dialogue: 10,0:02:53.50,0:02:56.04,Default,,0,0,0,,Our Partner Pact is complete.
+Dialogue: 10,0:02:56.04,0:02:58.08,Default,,0,0,0,,Now, we should be able to attack!
+Dialogue: 10,0:02:58.08,0:02:59.29,Default,,0,0,0,,See?
+Dialogue: 10,0:03:03.20,0:03:05.70,Default,,0,0,0,,Hey, how'd you do that?
+Dialogue: 10,0:03:05.70,0:03:07.45,Default,,0,0,0,,You can do it too!
+Dialogue: 10,0:03:07.45,0:03:10.16,Default,,0,0,0,,Just try letting loose!
+Dialogue: 10,0:03:10.16,0:03:11.83,Default,,0,0,0,,What's that mean?
+Dialogue: 10,0:03:14.87,0:03:16.25,Default,,0,0,0,,I don't...
+Dialogue: 10,0:03:19.16,0:03:20.62,Default,,0,0,0,,...want to disappear!
+Dialogue: 10,0:03:23.33,0:03:25.83,Default,,0,0,0,,Yeah! That's the way!
+Dialogue: 10,0:04:29.00,0:04:30.79,Default,,0,0,0,,Good thing I was in time!
+Dialogue: 10,0:04:32.83,0:04:34.83,Default,,0,0,0,,Take this!
+Dialogue: 10,0:04:53.33,0:04:55.29,Default,,0,0,0,,The walls are disappearing?
+Dialogue: 10,0:04:55.29,0:04:56.79,Default,,0,0,0,,Wow!
+Dialogue: 10,0:04:57.79,0:05:00.33,Default,,0,0,0,,You're great at using psychs.
+Dialogue: 10,0:05:00.33,0:05:01.79,Default,,0,0,0,,What're those?
+Dialogue: 10,0:05:01.79,0:05:04.91,Default,,0,0,0,,The fire you just used is one.
+Dialogue: 10,0:05:04.91,0:05:09.66,Default,,0,0,0,,We'll have to keep fighting Noise, so I \Nmight be lucky I got you as my partner.
+Dialogue: 10,0:05:11.83,0:05:15.12,Default,,0,0,0,,I'm Shiki Misaki. Call me Shiki.
+Dialogue: 10,0:05:16.20,0:05:18.04,Default,,0,0,0,,Your hand...
+Dialogue: 10,0:05:18.04,0:05:23.08,Default,,0,0,0,,A countdown to our mission's deadline. \NJust like yours.
+Dialogue: 10,0:05:23.08,0:05:27.37,Default,,0,0,0,,But it should go away \Nif we clear the mission.
+Dialogue: 10,0:05:27.37,0:05:30.95,Default,,0,0,0,,Umm, what's your name?
+Dialogue: 10,0:05:30.95,0:05:34.41,Default,,0,0,0,,I'm... Neku.
+Dialogue: 10,0:05:34.41,0:05:36.20,Default,,0,0,0,,First or last name?
+Dialogue: 10,0:05:38.41,0:05:40.20,Default,,0,0,0,,OK...
+Dialogue: 10,0:05:40.20,0:05:43.62,Default,,0,0,0,,You need a partner with you to use psychs.
+Dialogue: 10,0:05:44.83,0:05:46.83,Default,,0,0,0,,So, let's team up.
+Dialogue: 10,0:05:46.83,0:05:50.66,Default,,0,0,0,,We'll clear this mission \Nif we make it to 104.
+Dialogue: 10,0:05:52.58,0:05:56.25,Default,,0,0,0,,Why do we have to bother with that?
+Dialogue: 10,0:05:56.25,0:06:00.91,Default,,0,0,0,,You saw someone get attacked \Nby Noise and disappear, right?
+Dialogue: 10,0:06:02.41,0:06:06.16,Default,,0,0,0,,We're Players in the Reapers' Game.
+Dialogue: 10,0:06:06.16,0:06:09.91,Default,,0,0,0,,We have to survive seven days, \Nor we'll be erased.
+Dialogue: 10,0:06:15.58,0:06:19.45,Default,,0,0,0,,Partner Pact between Neku Sakuraba \Nand Shiki Misaki confirmed.
+Dialogue: 10,0:06:19.45,0:06:21.16,Default,,0,0,0,,Man, what a pain.
+Dialogue: 10,0:06:21.16,0:06:24.83,Default,,0,0,0,,Take this seriously! \NThis is why you never get promoted!
+Dialogue: 10,0:06:24.83,0:06:26.00,Default,,0,0,0,,Yeah, yeah.
+Dialogue: 10,0:06:26.00,0:06:29.66,Default,,0,0,0,,You got right to hunting Players \Non the first day, huh, Uzuki.
+Dialogue: 10,0:06:29.66,0:06:34.45,Default,,0,0,0,,Of course I did. I'm going to get ahead, \Nunlike someone I know.
+Dialogue: 10,0:06:34.45,0:06:38.58,Default,,0,0,0,,Still, I expected a bit better results.
+Dialogue: 10,0:06:38.70,0:06:41.58,Default,,0,0,0,,That kid might not be a pushover.
+Dialogue: 10,0:06:43.29,0:06:46.75,Default,,0,0,0,,Was someone just watching me?
+Dialogue: 10,0:06:46.75,0:06:48.70,Default,,0,0,0,,We're at 104!
+Dialogue: 10,0:06:49.54,0:06:51.87,Default,,0,0,0,,Nothing happened on the way here.
+Dialogue: 10,0:06:51.87,0:06:53.62,Default,,0,0,0,,Think this counts?
+Dialogue: 10,0:06:54.87,0:06:56.41,Default,,0,0,0,,The timer's gone.
+Dialogue: 10,0:06:56.41,0:06:58.08,Default,,0,0,0,,Oh, thank goodness!
+Dialogue: 10,0:06:59.91,0:07:01.29,Default,,0,0,0,,Who's there?!
+Dialogue: 10,0:07:02.37,0:07:06.45,Default,,0,0,0,,I honestly didn't think much of you, \Nbut you're pretty sharp.
+Dialogue: 10,0:07:07.87,0:07:09.12,Default,,0,0,0,,Black wings...
+Dialogue: 10,0:07:09.12,0:07:11.75,Default,,0,0,0,,Are you... Reapers?
+Dialogue: 10,0:07:11.75,0:07:12.91,Default,,0,0,0,,That's right.
+Dialogue: 10,0:07:12.91,0:07:16.62,Default,,0,0,0,,The more Players a Reaper erases, \Nthe higher they rise in the ranks.
+Dialogue: 10,0:07:16.62,0:07:19.54,Default,,0,0,0,,Huh? What's that mean?!
+Dialogue: 10,0:07:19.54,0:07:23.45,Default,,0,0,0,,Do your best and entertain us.
+Dialogue: 10,0:07:27.00,0:07:28.62,Default,,0,0,0,,What's going on?
+Dialogue: 10,0:07:30.04,0:07:35.37,Default,,0,0,0,,Am I... going to be erased like this?
+Dialogue: 10,0:07:35.37,0:07:38.08,Default,,0,0,0,,I... I...
+Dialogue: 10,0:07:42.33,0:07:43.91,Default,,0,0,0,,Where...?
+Dialogue: 10,0:07:44.91,0:07:46.91,Default,,0,0,0,,Oh! You're awake?
+Dialogue: 10,0:07:46.91,0:07:47.36,Default,,0,0,0,,What?!
+Dialogue: 10,0:07:47.36,0:07:48.58,Default,,0,0,0,,Whoa!
+Dialogue: 10,0:07:49.66,0:07:51.79,Default,,0,0,0,,You startled me, too.
+Dialogue: 10,0:07:51.79,0:07:52.83,Default,,0,0,0,,Where...?
+Dialogue: 10,0:07:52.83,0:07:56.66,Default,,0,0,0,,Scramble Crossing, same as yesterday.
+Dialogue: 10,0:07:56.66,0:07:59.20,Default,,0,0,0,,It must be day two of the Reapers' Game.
+Dialogue: 10,0:08:02.16,0:08:05.08,Default,,0,0,0,,I wonder how far those walls go.
+Dialogue: 10,0:08:07.08,0:08:08.04,Default,,0,0,0,,Hey, you.
+Dialogue: 10,0:08:08.04,0:08:09.20,Default,,0,0,0,,Shiki.
+Dialogue: 10,0:08:12.12,0:08:16.08,Default,,0,0,0,,Tell me everything you \Nknow about this world.
+Dialogue: 10,0:08:16.08,0:08:19.37,Default,,0,0,0,,Didn't they tell you when \Nyou joined the game?
+Dialogue: 10,0:08:19.37,0:08:23.04,Default,,0,0,0,,No. When I came to, \NI was lying over there.
+Dialogue: 10,0:08:23.04,0:08:24.62,Default,,0,0,0,,What?
+Dialogue: 10,0:08:26.33,0:08:30.00,Default,,0,0,0,,This place is Shibuya, \Nbut it's not Shibuya.
+Dialogue: 10,0:08:30.00,0:08:32.04,Default,,0,0,0,,It's like a parallel world.
+Dialogue: 10,0:08:32.04,0:08:34.75,Default,,0,0,0,,It's called the Underground.
+Dialogue: 10,0:08:34.75,0:08:40.12,Default,,0,0,0,,It's like... it's the same place, \Nbut only we are in a different world.
+Dialogue: 10,0:08:40.12,0:08:42.66,Default,,0,0,0,,Those people are in the Realground.
+Dialogue: 10,0:08:42.66,0:08:46.08,Default,,0,0,0,,They can't see or hear us.
+Dialogue: 10,0:08:46.08,0:08:47.83,Default,,0,0,0,,But instead...
+Dialogue: 10,0:08:47.83,0:08:49.45,Default,,0,0,0,,Try touching one.
+Dialogue: 10,0:08:51.00,0:08:54.79,Default,,0,0,0,,I can't wait for 777's concert.
+Dialogue: 10,0:08:54.79,0:08:55.95,Default,,0,0,0,,Hear it?
+Dialogue: 10,0:08:55.95,0:08:58.08,Default,,0,0,0,,That's called "scanning."
+Dialogue: 10,0:08:58.08,0:08:59.16,Default,,0,0,0,,Scanning?
+Dialogue: 10,0:08:59.16,0:09:01.04,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:09:01.04,0:09:04.04,Default,,0,0,0,,We can't talk to people in the Realground,
+Dialogue: 10,0:09:04.04,0:09:08.08,Default,,0,0,0,,but we get the power to read their minds.
+Dialogue: 10,0:09:09.20,0:09:11.70,Default,,0,0,0,,I don't want to deal with people.
+Dialogue: 10,0:09:11.70,0:09:15.54,Default,,0,0,0,,Knowing what they think without \Nhaving to talk is fine by me.
+Dialogue: 10,0:09:15.54,0:09:16.75,Default,,0,0,0,,Yo!
+Dialogue: 10,0:09:18.83,0:09:22.04,Default,,0,0,0,,Hands off, you damn Reaper!
+Dialogue: 10,0:09:22.04,0:09:24.20,Default,,0,0,0,,Hey, Beat!
+Dialogue: 10,0:09:24.20,0:09:25.83,Default,,0,0,0,,R-Reaper?
+Dialogue: 10,0:09:25.83,0:09:26.91,Default,,0,0,0,,Who's this guy?
+Dialogue: 10,0:09:26.91,0:09:30.79,Default,,0,0,0,,Don't play dumb! You're one of them!
+Dialogue: 10,0:09:30.79,0:09:31.75,Default,,0,0,0,,"Them"?
+Dialogue: 10,0:09:31.75,0:09:32.70,Default,,0,0,0,,Yeah!
+Dialogue: 10,0:09:32.70,0:09:36.70,Default,,0,0,0,,I couldn't scan you, so you've \Ngotta be a Reaper!
+Dialogue: 10,0:09:36.70,0:09:37.60,Default,,0,0,0,,Hey, stop it!
+Dialogue: 10,0:09:37.60,0:09:39.16,Default,,0,0,0,,Stop, Beat!
+Dialogue: 10,0:09:39.16,0:09:40.41,Default,,0,0,0,,Stay out of this, Rhyme!
+Dialogue: 10,0:09:40.41,0:09:43.79,Default,,0,0,0,,They're Players just like us!
+Dialogue: 10,0:09:43.79,0:09:45.45,Default,,0,0,0,,What?
+Dialogue: 10,0:09:45.45,0:09:47.16,Default,,0,0,0,,Look, Player pins!
+Dialogue: 10,0:09:47.16,0:09:49.87,Default,,0,0,0,,Players can't read each other's minds!
+Dialogue: 10,0:09:49.87,0:09:52.75,Default,,0,0,0,,You can't scan me either, right, Beat?
+Dialogue: 10,0:09:52.75,0:09:54.33,Default,,0,0,0,,It's the same thing.
+Dialogue: 10,0:09:59.45,0:10:01.00,Default,,0,0,0,,I'm Beat.
+Dialogue: 10,0:10:01.00,0:10:03.25,Default,,0,0,0,,And this is my partner, Rhyme.
+Dialogue: 10,0:10:03.25,0:10:04.54,Default,,0,0,0,,Nice to meet you.
+Dialogue: 10,0:10:04.54,0:10:05.50,Default,,0,0,0,,Sorry.
+Dialogue: 10,0:10:05.50,0:10:08.37,Default,,0,0,0,,A pink-haired chick set \Nus up yesterday, and...
+Dialogue: 10,0:10:08.37,0:10:10.00,Default,,0,0,0,,We know her!
+Dialogue: 10,0:10:10.00,0:10:12.50,Default,,0,0,0,,For real?! You too, huh?
+Dialogue: 10,0:10:12.50,0:10:15.79,Default,,0,0,0,,But thanks to Neku, we managed \Nto clear the mission.
+Dialogue: 10,0:10:15.79,0:10:18.45,Default,,0,0,0,,Oh, so you're tough, huh?
+Dialogue: 10,0:10:20.91,0:10:23.58,Default,,0,0,0,,Does he ever take his headphones off?
+Dialogue: 10,0:10:23.58,0:10:27.50,Default,,0,0,0,,Don't let it bother you! \NI'm sure he's confused.
+Dialogue: 10,0:10:27.50,0:10:29.08,Default,,0,0,0,,Oh, our mission.
+Dialogue: 10,0:10:30.25,0:10:35.45,Default,,0,0,0,,"Set the cursed sculpture free. \NFail, and face erasure," huh?
+Dialogue: 10,0:10:41.87,0:10:43.37,Default,,0,0,0,,There they are.
+Dialogue: 10,0:10:43.37,0:10:44.79,Default,,0,0,0,,Hey, Neku!
+Dialogue: 10,0:10:45.08,0:10:46.29,Default,,0,0,0,,Hey!
+Dialogue: 10,0:10:51.75,0:10:53.37,Default,,0,0,0,,Wait, Neku!
+Dialogue: 10,0:10:55.50,0:10:56.70,Default,,0,0,0,,Neku!
+Dialogue: 10,0:11:06.70,0:11:08.87,Default,,0,0,0,,Don't run off on your own!
+Dialogue: 10,0:11:08.87,0:11:10.62,Default,,0,0,0,,We should fight them together!
+Dialogue: 10,0:11:10.62,0:11:12.41,Default,,0,0,0,,Shut up!
+Dialogue: 10,0:11:12.41,0:11:16.37,Default,,0,0,0,,I don't want strangers I just met \Ntelling me what to do!
+Dialogue: 10,0:11:19.41,0:11:22.41,Default,,0,0,0,,Maybe I should send out some better Noise.
+Dialogue: 10,0:11:22.41,0:11:23.79,Default,,0,0,0,,Don't overdo it.
+Dialogue: 10,0:11:23.79,0:11:25.25,Default,,0,0,0,,This is nothing!
+Dialogue: 10,0:11:25.25,0:11:28.45,Default,,0,0,0,,Angry Boy will self-destruct on his own.
+Dialogue: 10,0:11:28.45,0:11:31.62,Default,,0,0,0,,Negative emotions attract Noise.
+Dialogue: 10,0:11:31.62,0:11:36.54,Default,,0,0,0,,A human who gets possessed by noise \Nand turns negative might do anything.
+Dialogue: 10,0:11:36.54,0:11:37.95,Default,,0,0,0,,Damn!
+Dialogue: 10,0:11:37.95,0:11:39.95,Default,,0,0,0,,What an annoying sound.
+Dialogue: 10,0:11:39.95,0:11:41.00,Default,,0,0,0,,Why...?
+Dialogue: 10,0:11:41.00,0:11:43.45,Default,,0,0,0,,Why am I...
+Dialogue: 10,0:11:43.45,0:11:45.33,Default,,0,0,0,,...so angry?!
+Dialogue: 10,0:11:47.41,0:11:48.95,Default,,0,0,0,,Whoa.
+Dialogue: 10,0:11:50.37,0:11:52.91,Default,,0,0,0,,We cleared it already?
+Dialogue: 10,0:11:52.91,0:11:54.37,Default,,0,0,0,,Neku! You OK?!
+Dialogue: 10,0:11:54.37,0:11:57.33,Default,,0,0,0,,Oh, how dull.
+Dialogue: 10,0:11:57.33,0:12:00.20,Default,,0,0,0,,You're that Reaper from yesterday!
+Dialogue: 10,0:12:00.20,0:12:02.75,Default,,0,0,0,,Are you sending us these missions?
+Dialogue: 10,0:12:02.75,0:12:06.58,Default,,0,0,0,,So what if I am, Neku Sakuraba?
+Dialogue: 10,0:12:06.58,0:12:08.83,Default,,0,0,0,,Neku... Sakuraba?
+Dialogue: 10,0:12:08.83,0:12:10.70,Default,,0,0,0,,That's my name?
+Dialogue: 10,0:12:10.70,0:12:14.25,Default,,0,0,0,,Neku Sakuraba, I want to offer you a deal.
+Dialogue: 10,0:12:14.25,0:12:15.41,Default,,0,0,0,,Huh?
+Dialogue: 10,0:12:15.41,0:12:20.04,Default,,0,0,0,,If you kill that girl, Shiki Misaki,
+Dialogue: 10,0:12:20.04,0:12:22.58,Default,,0,0,0,,I'll release you from this game.
+Dialogue: 10,0:12:22.58,0:12:24.66,Default,,0,0,0,,Huh? The hell did you say?!
+Dialogue: 10,0:12:24.66,0:12:28.29,Default,,0,0,0,,Yo! Don't let a Reaper \Ntell you what to do!
+Dialogue: 10,0:12:28.29,0:12:30.66,Default,,0,0,0,,If you can't clear it,
+Dialogue: 10,0:12:30.66,0:12:33.87,Default,,0,0,0,,you'll face erasure.
+Dialogue: 10,0:12:33.87,0:12:35.95,Default,,0,0,0,,No, Neku! Don't listen to her!
+Dialogue: 10,0:12:37.20,0:12:39.16,Default,,0,0,0,,I...
+Dialogue: 10,0:12:39.16,0:12:41.50,Default,,0,0,0,,I will...
+Dialogue: 10,0:12:43.87,0:12:45.16,Default,,0,0,0,,Neku...
+Dialogue: 10,0:12:48.50,0:12:50.12,Default,,0,0,0,,Neku...!
+Dialogue: 10,0:12:50.12,0:12:54.04,Default,,0,0,0,,Please... don't kill me.
+Dialogue: 10,0:12:56.29,0:12:57.50,Default,,0,0,0,,Ne...
+Dialogue: 10,0:12:58.83,0:13:00.04,Default,,0,0,0,,Neku.
+Dialogue: 10,0:13:00.04,0:13:01.91,Default,,0,0,0,,I will...
+Dialogue: 10,0:13:02.95,0:13:07.29,Default,,0,0,0,,That's right. Just follow your heart.
+Dialogue: 10,0:13:07.29,0:13:09.25,Default,,0,0,0,,That's enough of that.
+Dialogue: 10,0:13:10.37,0:13:12.58,Default,,0,0,0,,Stop.
+Dialogue: 10,0:13:12.58,0:13:13.79,Default,,0,0,0,,What?
+Dialogue: 10,0:13:14.95,0:13:16.62,Default,,0,0,0,,Are you OK?!
+Dialogue: 10,0:13:16.62,0:13:18.29,Default,,0,0,0,,I'm fine.
+Dialogue: 10,0:13:18.29,0:13:19.70,Default,,0,0,0,,What did I...?
+Dialogue: 10,0:13:19.70,0:13:21.95,Default,,0,0,0,,Hey! How dumb can you be?!
+Dialogue: 10,0:13:21.95,0:13:24.00,Default,,0,0,0,,Resist negative emotions.
+Dialogue: 10,0:13:24.00,0:13:26.83,Default,,0,0,0,,They consume you when Noise possesses you.
+Dialogue: 10,0:13:28.75,0:13:32.95,Default,,0,0,0,,You stay out of this. \NIt was just getting good.
+Dialogue: 10,0:13:32.95,0:13:35.91,Default,,0,0,0,,You've got to follow the rules, lady.
+Dialogue: 10,0:13:35.91,0:13:38.08,Default,,0,0,0,,What? Where did this come from?
+Dialogue: 10,0:13:38.08,0:13:40.29,Default,,0,0,0,,Who are you, anyway?
+Dialogue: 10,0:13:40.29,0:13:42.45,Default,,0,0,0,,The rules are one mission per day,
+Dialogue: 10,0:13:42.45,0:13:46.08,Default,,0,0,0,,and only the Game Master can send them.
+Dialogue: 10,0:13:46.08,0:13:51.45,Default,,0,0,0,,And even the Game Master can only \Ndirectly attack Players on day seven.
+Dialogue: 10,0:13:51.45,0:13:53.70,Default,,0,0,0,,You're well informed.
+Dialogue: 10,0:13:53.70,0:13:57.70,Default,,0,0,0,,The Game Master is way \Nstronger than any noise.
+Dialogue: 10,0:13:57.70,0:14:01.58,Default,,0,0,0,,To survive all seven days, \Nyou'll need to work together.
+Dialogue: 10,0:14:02.95,0:14:07.62,Default,,0,0,0,,Only those who can trust \Ntheir partners can survive.
+Dialogue: 10,0:14:07.62,0:14:11.50,Default,,0,0,0,,Who trust their partners...
+Dialogue: 10,0:14:16.91,0:14:19.04,Default,,0,0,0,,Another day's gone by?
+Dialogue: 10,0:14:20.87,0:14:22.16,Default,,0,0,0,,She's...
+Dialogue: 10,0:14:23.87,0:14:25.08,Default,,0,0,0,,...not here.
+Dialogue: 10,0:14:25.08,0:14:26.54,Default,,0,0,0,,Of course not.
+Dialogue: 10,0:14:26.54,0:14:30.62,Default,,0,0,0,,Not... after what I did.
+Dialogue: 10,0:14:37.12,0:14:38.58,Default,,0,0,0,,Whoa!
+Dialogue: 10,0:14:38.58,0:14:40.20,Default,,0,0,0,,Oh, sorry.
+Dialogue: 10,0:14:40.20,0:14:42.79,Default,,0,0,0,,Your surprise startled me again.
+Dialogue: 10,0:14:42.79,0:14:45.00,Default,,0,0,0,,I panicked because you weren't nearby.
+Dialogue: 10,0:14:45.00,0:14:47.70,Default,,0,0,0,,I figured you'd be in \Nthe same place, but...
+Dialogue: 10,0:14:47.70,0:14:48.95,Default,,0,0,0,,Sorry.
+Dialogue: 10,0:14:48.95,0:14:50.66,Default,,0,0,0,,What I did to you was awful.
+Dialogue: 10,0:14:50.66,0:14:52.54,Default,,0,0,0,,Huh?! I-It's fine!
+Dialogue: 10,0:14:52.54,0:14:57.04,Default,,0,0,0,,Um, I mean, I guess you couldn't \Nhelp it in that situation, or--
+Dialogue: 10,0:14:57.04,0:14:58.75,Default,,0,0,0,,U-Umm...
+Dialogue: 10,0:14:58.75,0:15:00.08,Default,,0,0,0,,Let's talk more!
+Dialogue: 10,0:15:00.08,0:15:02.70,Default,,0,0,0,,I said we should team up,
+Dialogue: 10,0:15:02.70,0:15:06.66,Default,,0,0,0,,but I didn't tell you anything about me.
+Dialogue: 10,0:15:06.66,0:15:10.08,Default,,0,0,0,,You can't trust a total stranger, right?
+Dialogue: 10,0:15:10.08,0:15:10.81,Default,,0,0,0,,That's not it.
+Dialogue: 10,0:15:10.81,0:15:11.54,Default,,0,0,0,,Huh?
+Dialogue: 10,0:15:11.54,0:15:14.83,Default,,0,0,0,,I... don't know about myself.
+Dialogue: 10,0:15:14.83,0:15:19.37,Default,,0,0,0,,The name "Neku" is pretty \Nmuch all I remember.
+Dialogue: 10,0:15:19.37,0:15:22.41,Default,,0,0,0,,Until that Reaper said so yesterday,
+Dialogue: 10,0:15:22.41,0:15:25.20,Default,,0,0,0,,I didn't know I was Neku Sakuraba.
+Dialogue: 10,0:15:26.41,0:15:30.20,Default,,0,0,0,,You mean... you have amnesia?
+Dialogue: 10,0:15:30.20,0:15:31.87,Default,,0,0,0,,I see.
+Dialogue: 10,0:15:33.50,0:15:34.95,Default,,0,0,0,,A mission?
+Dialogue: 10,0:15:36.50,0:15:38.87,Default,,0,0,0,,"Defeat the master of O-East"?
+Dialogue: 10,0:15:38.87,0:15:41.83,Default,,0,0,0,,Oh, O-East is a concert hall.
+Dialogue: 10,0:15:41.83,0:15:45.70,Default,,0,0,0,,I think... it's over that way.
+Dialogue: 10,0:15:47.12,0:15:48.91,Default,,0,0,0,,I've been a bunch of times.
+Dialogue: 10,0:15:48.91,0:15:51.45,Default,,0,0,0,,The most popular band \Nright now is Death March.
+Dialogue: 10,0:15:51.45,0:15:52.79,Default,,0,0,0,,My friends like them and--
+Dialogue: 10,0:15:52.79,0:15:55.16,Default,,0,0,0,,Man, what a drag.
+Dialogue: 10,0:15:55.16,0:15:57.25,Default,,0,0,0,,He yells at me every single day.
+Dialogue: 10,0:15:57.25,0:16:00.16,Default,,0,0,0,,I hope the concert gets canceled!
+Dialogue: 10,0:16:00.16,0:16:01.75,Default,,0,0,0,,Noise...
+Dialogue: 10,0:16:01.75,0:16:04.20,Default,,0,0,0,,He's like you were yesterday, Neku.
+Dialogue: 10,0:16:04.20,0:16:05.16,Default,,0,0,0,,Sorry.
+Dialogue: 10,0:16:05.16,0:16:07.95,Default,,0,0,0,,Huh?! That's not what I--!
+Dialogue: 10,0:16:07.95,0:16:11.33,Default,,0,0,0,,OK, then let's beat that Noise first!
+Dialogue: 10,0:16:11.33,0:16:13.62,Default,,0,0,0,,Wait. That's not our mission.
+Dialogue: 10,0:16:13.62,0:16:16.33,Default,,0,0,0,,Yeah, but I can't ignore him.
+Dialogue: 10,0:16:21.75,0:16:23.41,Default,,0,0,0,,Guess we've got no choice.
+Dialogue: 10,0:16:23.41,0:16:24.62,Default,,0,0,0,,Yup.
+Dialogue: 10,0:16:50.75,0:16:53.91,Default,,0,0,0,,Wow! We were on fire just now!
+Dialogue: 10,0:16:53.91,0:16:56.04,Default,,0,0,0,,Like we synced up or something.
+Dialogue: 10,0:16:56.04,0:16:57.12,Default,,0,0,0,,Really?
+Dialogue: 10,0:16:57.12,0:17:01.08,Default,,0,0,0,,Excuse me, was I, like, \Npossessed by Noise just now?
+Dialogue: 10,0:17:01.08,0:17:03.37,Default,,0,0,0,,Yup. A pretty big one.
+Dialogue: 10,0:17:03.37,0:17:06.12,Default,,0,0,0,,Ugh! I'm way too weak.
+Dialogue: 10,0:17:06.12,0:17:08.79,Default,,0,0,0,,Thanks for saving me.
+Dialogue: 10,0:17:08.79,0:17:09.91,Default,,0,0,0,,You're welcome.
+Dialogue: 10,0:17:09.91,0:17:11.95,Default,,0,0,0,,Hey, you satisfied now?
+Dialogue: 10,0:17:11.95,0:17:13.70,Default,,0,0,0,,We've got to hurry to O-East.
+Dialogue: 10,0:17:13.70,0:17:16.50,Default,,0,0,0,,Oh, what a coincidence.
+Dialogue: 10,0:17:16.50,0:17:18.04,Default,,0,0,0,,Let's go together.
+Dialogue: 10,0:17:23.04,0:17:24.16,Default,,0,0,0,,Hey there...
+Dialogue: 10,0:17:24.16,0:17:25.79,Default,,0,0,0,,You're late!
+Dialogue: 10,0:17:25.79,0:17:27.37,Default,,0,0,0,,I'm sorry!
+Dialogue: 10,0:17:29.66,0:17:32.58,Default,,0,0,0,,777! Death March's vocalist!
+Dialogue: 10,0:17:32.58,0:17:34.79,Default,,0,0,0,,Oh, you know us?
+Dialogue: 10,0:17:34.79,0:17:35.79,Default,,0,0,0,,Yes!
+Dialogue: 10,0:17:35.79,0:17:37.54,Default,,0,0,0,,Glad to hear it.
+Dialogue: 10,0:17:37.54,0:17:40.62,Default,,0,0,0,,Oh, these guys saved my life.
+Dialogue: 10,0:17:40.62,0:17:42.62,Default,,0,0,0,,I kind of messed up with some Noise.
+Dialogue: 10,0:17:42.62,0:17:45.87,Default,,0,0,0,,What? You're hopeless.
+Dialogue: 10,0:17:45.87,0:17:49.25,Default,,0,0,0,,In that case, I've got to thank you.
+Dialogue: 10,0:17:49.25,0:17:52.54,Default,,0,0,0,,Take this. It's special concert merch.
+Dialogue: 10,0:17:52.54,0:17:53.70,Default,,0,0,0,,You mean it?!
+Dialogue: 10,0:17:53.70,0:17:55.00,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:17:55.00,0:17:58.00,Default,,0,0,0,,How valuable it ends up \Nbeing depends on you.
+Dialogue: 10,0:17:59.70,0:18:02.04,Default,,0,0,0,,You can go in.
+Dialogue: 10,0:18:02.04,0:18:03.62,Default,,0,0,0,,Thank you so much!
+Dialogue: 10,0:18:05.12,0:18:07.04,Default,,0,0,0,,You seem pretty happy.
+Dialogue: 10,0:18:07.04,0:18:12.29,Default,,0,0,0,,Of course! We got to help someone, \Nmeet 777, and go inside!
+Dialogue: 10,0:18:12.29,0:18:14.29,Default,,0,0,0,,Three birds with one stone!
+Dialogue: 10,0:18:18.83,0:18:21.66,Default,,0,0,0,,Make sure you listen till the end.
+Dialogue: 10,0:18:26.00,0:18:28.45,Default,,0,0,0,,There should be a "master" in here.
+Dialogue: 10,0:18:30.04,0:18:31.75,Default,,0,0,0,,We're short on time.
+Dialogue: 10,0:18:35.50,0:18:36.62,Default,,0,0,0,,Noise!
+Dialogue: 10,0:18:36.62,0:18:38.04,Default,,0,0,0,,Hey, Neku!
+Dialogue: 10,0:18:44.41,0:18:46.50,Default,,0,0,0,,Damn it! There's too many!
+Dialogue: 10,0:18:47.50,0:18:48.70,Default,,0,0,0,,Neku!
+Dialogue: 10,0:18:51.12,0:18:52.54,Default,,0,0,0,,At this rate...
+Dialogue: 10,0:18:57.58,0:18:59.45,Default,,0,0,0,,Neku!
+Dialogue: 10,0:18:59.45,0:19:01.66,Default,,0,0,0,,Don't try to fight alone!
+Dialogue: 10,0:19:03.16,0:19:04.33,Default,,0,0,0,,We're partners--
+Dialogue: 10,0:19:04.33,0:19:05.54,Default,,0,0,0,,Behind you!
+Dialogue: 10,0:19:15.33,0:19:18.04,Default,,0,0,0,,Is that the master?
+Dialogue: 10,0:19:20.20,0:19:23.08,Default,,0,0,0,,--Huh? \N--Looks like you're having a hard time.
+Dialogue: 10,0:19:26.66,0:19:28.54,Default,,0,0,0,,Let's make this flashy!
+Dialogue: 10,0:19:28.54,0:19:31.45,Default,,0,0,0,,With four of us, we're stronger than ever!
+Dialogue: 10,0:19:31.45,0:19:33.12,Default,,0,0,0,,Beat! Rhyme!
+Dialogue: 10,0:19:36.79,0:19:38.00,Default,,0,0,0,,Dodge!
+Dialogue: 10,0:19:40.16,0:19:43.20,Default,,0,0,0,,Yo! We'll draw off the small fry!
+Dialogue: 10,0:19:43.20,0:19:45.62,Default,,0,0,0,,Take out the big one while we do!
+Dialogue: 10,0:19:47.58,0:19:49.70,Default,,0,0,0,,--Hey! \N--What?!
+Dialogue: 10,0:19:52.41,0:19:55.37,Default,,0,0,0,,Can we do another move like that one time?
+Dialogue: 10,0:19:57.41,0:19:59.79,Default,,0,0,0,,We can if you trust me!
+Dialogue: 10,0:20:01.20,0:20:02.41,Default,,0,0,0,,I'll try.
+Dialogue: 10,0:20:05.37,0:20:06.83,Default,,0,0,0,,OK!
+Dialogue: 10,0:20:06.83,0:20:09.37,Default,,0,0,0,,Well then, let's go!
+Dialogue: 10,0:20:09.37,0:20:10.58,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:20:34.25,0:20:35.45,Default,,0,0,0,,Neku!
+Dialogue: 10,0:20:37.91,0:20:38.91,Default,,0,0,0,,Let's go!
+Dialogue: 10,0:20:38.91,0:20:40.12,Default,,0,0,0,,Yeah!
+Dialogue: 10,0:20:54.70,0:20:56.95,Default,,0,0,0,,Go!
+Dialogue: 10,0:21:13.33,0:21:14.41,Default,,0,0,0,,We cleared it?
+Dialogue: 10,0:21:14.41,0:21:15.70,Default,,0,0,0,,Neku!
+Dialogue: 10,0:21:15.70,0:21:17.04,Default,,0,0,0,,Are you OK?!
+Dialogue: 10,0:21:17.04,0:21:18.25,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:21:21.29,0:21:23.62,Default,,0,0,0,,Thanks, Neku.
+Dialogue: 10,0:21:27.37,0:21:29.87,Default,,0,0,0,,I can stand up on my own.
+Dialogue: 10,0:21:29.87,0:21:31.33,Default,,0,0,0,,Huh?
+Dialogue: 10,0:21:31.33,0:21:33.00,Default,,0,0,0,,But...
+Dialogue: 10,0:21:33.00,0:21:35.25,Default,,0,0,0,,...thanks for earlier.
+Dialogue: 10,0:21:38.62,0:21:40.33,Default,,0,0,0,,You're welcome.
+Dialogue: 10,0:21:42.20,0:21:44.79,Default,,0,0,0,,Hey, are you OK?
+Dialogue: 10,0:21:46.25,0:21:48.25,Default,,0,0,0,,Yup! We're fine!
+Dialogue: 10,0:21:48.25,0:21:50.25,Default,,0,0,0,,Thank you so much.
+Dialogue: 10,0:21:50.25,0:21:53.29,Default,,0,0,0,,This stuff is give-and-take.
+Dialogue: 10,0:21:54.37,0:21:56.00,Default,,0,0,0,,Hey, I've got an idea!
+Dialogue: 10,0:21:56.00,0:21:59.16,Default,,0,0,0,,Starting tomorrow, \Nlet's do our missions together.
+Dialogue: 10,0:21:59.16,0:22:00.87,Default,,0,0,0,,Oh! Count me in!
+Dialogue: 10,0:22:00.87,0:22:04.08,Default,,0,0,0,,If Rhyme's down, then so am I,
+Dialogue: 10,0:22:04.08,0:22:06.12,Default,,0,0,0,,but what about Phones there?
+Dialogue: 10,0:22:06.12,0:22:10.75,Default,,0,0,0,,He couldn't help it before. \NThe Noise was affecting him.
+Dialogue: 10,0:22:10.75,0:22:14.83,Default,,0,0,0,,Plus, Neku doesn't remember \Nanything before he got here.
+Dialogue: 10,0:22:16.54,0:22:18.70,Default,,0,0,0,,He doesn't?
+Dialogue: 10,0:22:18.70,0:22:21.50,Default,,0,0,0,,That weird guy told us, remember?
+Dialogue: 10,0:22:21.50,0:22:25.45,Default,,0,0,0,,To survive all seven days, \Nwe'll have to work together.
+Dialogue: 10,0:22:29.83,0:22:33.91,Default,,0,0,0,,Over half the Players in this Reapers' \NGame have already been erased.
+Dialogue: 10,0:22:33.91,0:22:36.70,Default,,0,0,0,,It's entered the final stage.
+Dialogue: 10,0:22:36.70,0:22:37.66,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:22:37.66,0:22:40.41,Default,,0,0,0,,Let's kill 'em all and get it over with.
+Dialogue: 10,0:22:40.41,0:22:41.70,Default,,0,0,0,,Minamimoto.
+Dialogue: 10,0:22:41.70,0:22:45.16,Default,,0,0,0,,You're 9 minutes and 42 seconds late.
+Dialogue: 10,0:22:45.16,0:22:48.00,Default,,0,0,0,,And you're as annoying as ever, Konishi.
+Dialogue: 10,0:22:48.00,0:22:49.25,Default,,0,0,0,,Hm?
+Dialogue: 10,0:22:49.25,0:22:52.29,Default,,0,0,0,,I see an unfamiliar beast.
+Dialogue: 10,0:22:52.29,0:22:55.33,Default,,0,0,0,,Stop. You're being rude.
+Dialogue: 10,0:22:55.33,0:22:59.29,Default,,0,0,0,,He's the current Game Master, Higashizawa.
+Dialogue: 10,0:22:59.29,0:23:01.12,Default,,0,0,0,,I shall meet your expectations
+Dialogue: 10,0:23:01.12,0:23:04.75,Default,,0,0,0,,and prepare the ultimate \Nfeast for you, Mr. Kitaniji.
+Dialogue: 10,0:23:04.75,0:23:06.25,Default,,0,0,0,,Suck-up.
+Dialogue: 10,0:23:06.25,0:23:09.87,Default,,0,0,0,,Don't underestimate Higashizawa. \NHe's a capable worker.
+Dialogue: 10,0:23:09.87,0:23:14.00,Default,,0,0,0,,Above all, he's far more \Ncooperative than you, Minamimoto.
+Dialogue: 10,0:23:15.08,0:23:16.62,Default,,0,0,0,,"Cooperative"!
+Dialogue: 10,0:23:16.62,0:23:21.25,Default,,0,0,0,,I've gotten the Composer's permission \Nto promote you, Higashizawa.
+Dialogue: 10,0:23:21.25,0:23:24.16,Default,,0,0,0,,I am grateful and delighted.
+Dialogue: 10,0:23:24.16,0:23:26.75,Default,,0,0,0,,But there is one condition.
+Dialogue: 10,0:23:27.79,0:23:32.12,Default,,0,0,0,,Erase ever single Player.
+Dialogue: 10,0:23:34.00,0:23:35.58,Default,,0,0,0,,He was so cool!
+Dialogue: 10,0:23:35.58,0:23:38.50,Default,,0,0,0,,"I'm gonna start a revolution \Nin the music world!"
+Dialogue: 10,0:23:38.50,0:23:39.79,Default,,0,0,0,,How's that?
+Dialogue: 10,0:23:39.79,0:23:41.50,Default,,0,0,0,,Oh!
+Dialogue: 10,0:23:41.50,0:23:46.62,Default,,0,0,0,,Speaking of which, how come \N777 was able to see us?
+Dialogue: 10,0:23:46.62,0:23:49.12,Default,,0,0,0,,Isn't it obvious?
+Dialogue: 10,0:23:50.50,0:23:52.12,Default,,0,0,0,,Those guys...
+Dialogue: 10,0:23:54.83,0:23:56.58,Default,,0,0,0,,...are Reapers.
+Dialogue: 10,0:23:59.54,0:24:01.91,Default,,0,0,0,,Next time: "Shiki."

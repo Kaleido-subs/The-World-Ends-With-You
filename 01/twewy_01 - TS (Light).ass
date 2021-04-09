@@ -22,6 +22,10 @@ Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:04:52.87,0:04:53.33,Sign,,0,0,0,,{\an8}"#01: The Reapers' Game"
+Dialogue: 0,0:10:30.07,0:10:35.07,Sign,,0,0,0,,Set the cursed sculpture free. \NFail, and face erasure. \N-The Reapers
+Dialogue: 10,0:15:36.50,0:15:38.87,Sign,,0,0,0,,Defeat the master of O-East
+Dialogue: 10,0:15:46.08,0:15:48.91,Sign,,0,0,0,,Dogenzaka
 Dialogue: 0,0:01:46.88,0:01:49.88,Sign,phone,0,0,0,,{\an7\pos(0,0)\c&H646464&\blur2\p1}m 810 288 l 960 300 956 342 806 328
 Dialogue: 1,0:01:46.88,0:01:49.88,Sign,phone,0,0,0,,{\pos(846.86,311.36)\frz-4.74\fry0.44\frx2.62\fax0.02\fnFOT-NewRodin Pro B\fs26\b1\c&HDF8F2B&\blur1}Mailbox
 Dialogue: 0,0:01:46.88,0:01:49.88,Sign,phone,0,0,0,,{\an7\pos(0,0)\c&H555555&\blur2\p1}m 1162 368 l 1280 384 1278 418 1157 408

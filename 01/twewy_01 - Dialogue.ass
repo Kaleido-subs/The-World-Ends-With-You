@@ -18,9 +18,9 @@ Video File: ../../../Downloads/TWEWY/[SubsPlease] Subarashiki Kono Sekai The Ani
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 37
-Active Line: 51
-Video Position: 6547
+Scroll Position: 85
+Active Line: 91
+Video Position: 11107
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,53 +82,53 @@ Dialogue: 10,0:03:23.32,0:03:25.84,Default,Shiki,0,0,0,,Yeah! That's the spirit!
 Dialogue: 10,0:04:29.03,0:04:30.61,Default,Shiki,0,0,0,,Phew! That was really close! {Original line sounds condescending - a more liberal TL would be Close one! or something for ma ni au}
 Dialogue: 10,0:04:33.03,0:04:34.55,Default,Shiki,0,0,0,,Take this!
 Comment: 0,0:04:52.90,0:04:52.90,Default,chapter,0,0,0,,{Part A}
-Dialogue: 10,0:04:53.29,0:04:55.28,Default,,0,0,0,,The walls are disappearing?
-Dialogue: 10,0:04:55.28,0:04:56.86,Default,,0,0,0,,Wow!
-Dialogue: 10,0:04:57.65,0:05:00.32,Default,,0,0,0,,You're a pro at using psychs.
-Dialogue: 10,0:05:00.32,0:05:01.71,Default,,0,0,0,,Psychs?
-Dialogue: 10,0:05:01.71,0:05:04.35,Default,,0,0,0,,Yeah, like the flame you just used.
-Dialogue: 10,0:05:04.89,0:05:09.63,Default,,0,0,0,,We'll have to keep fighting Noise, so \NI might be lucky I patnered with you
-Dialogue: 10,0:05:11.86,0:05:14.79,Default,,0,0,0,,I'm Misaki Shiki. Just call me Shiki. {Name order changed}
-Dialogue: 10,0:05:16.19,0:05:17.59,Default,,0,0,0,,Your hand...
-Dialogue: 10,0:05:18.04,0:05:22.19,Default,,0,0,0,,A countdown to the mission's deadline. \NJust like yours.
-Dialogue: 10,0:05:23.02,0:05:26.03,Default,,0,0,0,,But it should go away \Nif we clear the mission.
-Dialogue: 10,0:05:27.33,0:05:30.18,Default,,0,0,0,,Umm, what's your name?
-Dialogue: 10,0:05:30.93,0:05:33.51,Default,,0,0,0,,I'm... Neku.
-Dialogue: 10,0:05:34.19,0:05:35.81,Default,,0,0,0,,First or last name?
-Dialogue: 10,0:05:38.39,0:05:39.69,Default,,0,0,0,,Uhh...
-Dialogue: 10,0:05:39.94,0:05:43.59,Default,,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(0,233,\3c&H000000&\4c&H000000&)}You can't use psychs without your partner.
-Dialogue: 10,0:05:44.85,0:05:46.38,Default,,0,0,0,,So, let's team up.
-Dialogue: 10,0:05:46.84,0:05:50.65,Default,,0,0,0,,We'll clear this mission \Nif we make it to 104.
-Dialogue: 10,0:05:52.53,0:05:55.21,Default,,0,0,0,,Why do we have to bother with that?
-Dialogue: 10,0:05:56.35,0:06:01.22,Default,,0,0,0,,You saw someone get attacked \Nby the Noise and disappear, right?
-Dialogue: 10,0:06:02.41,0:06:05.26,Default,,0,0,0,,{\t(4511,4870,\3c&HFFFFFF&\4c&HFFFFFF&)}We're Players in the Reapers' Game.
-Dialogue: 10,0:06:06.09,0:06:09.70,Default,,0,0,0,,We have to survive for seven days, \Nor else we'll be erased.
-Dialogue: 10,0:06:15.54,0:06:19.43,Default,,0,0,0,,Partner Pact between Neku Sakuraba \Nand Shiki Misaki confirmed.
-Dialogue: 10,0:06:19.43,0:06:21.17,Default,,0,0,0,,Man, what a pain.
-Dialogue: 10,0:06:21.17,0:06:24.53,Default,,0,0,0,,Take this seriously! \NThis is why you never get promoted!
-Dialogue: 10,0:06:24.82,0:06:25.98,Default,,0,0,0,,Yeah, yeah.
-Dialogue: 10,0:06:25.98,0:06:29.62,Default,,0,0,0,,You got right to hunting Players \Non the first day, huh, Uzuki.
-Dialogue: 10,0:06:29.62,0:06:33.66,Default,,0,0,0,,Of course I did. Unlike a certain someone here, \NI intend to get promoted.
-Dialogue: 10,0:06:34.50,0:06:37.93,Default,,0,0,0,,Still, I expected slightly better results.
-Dialogue: 10,0:06:38.54,0:06:41.23,Default,,0,0,0,,That kid ain't half bad, isn't he? {Isn't he can be removed here, added it because it's phrased like a question}
-Dialogue: 10,0:06:43.24,0:06:46.21,Default,,0,0,0,,Was someone just watching me?
-Dialogue: 10,0:06:46.69,0:06:48.74,Default,,0,0,0,,We're at 104!
-Dialogue: 10,0:06:49.18,0:06:51.84,Default,,0,0,0,,Nothing happened on the way here.
-Dialogue: 10,0:06:51.84,0:06:53.54,Default,,0,0,0,,Think this counts?
-Dialogue: 10,0:06:54.87,0:06:56.31,Default,,0,0,0,,The timer's gone.
-Dialogue: 10,0:06:56.31,0:06:57.89,Default,,0,0,0,,Oh, thank goodness!
-Dialogue: 10,0:06:59.90,0:07:00.86,Default,,0,0,0,,Who's there?!
-Dialogue: 10,0:07:02.44,0:07:06.22,Default,,0,0,0,,I honestly didn't think much of you, \Nbut you're pretty capable.
-Dialogue: 10,0:07:07.82,0:07:09.18,Default,,0,0,0,,Black wings...
-Dialogue: 10,0:07:09.18,0:07:11.45,Default,,0,0,0,,Are you two... Reapers?
-Dialogue: 10,0:07:11.75,0:07:12.91,Default,,0,0,0,,That's right.
-Dialogue: 10,0:07:12.91,0:07:16.54,Default,,0,0,0,,The more Players a Reaper erases, \Nthe higher they rise in the ranks.
-Dialogue: 10,0:07:16.54,0:07:19.00,Default,,0,0,0,,Huh? What did you just say?!
-Dialogue: 10,0:07:19.53,0:07:23.27,Default,,0,0,0,,Do your best and entertain us.
-Dialogue: 10,0:07:27.09,0:07:28.34,Default,,0,0,0,,What's going on?
-Dialogue: 10,0:07:29.85,0:07:34.52,Default,,0,0,0,,Am I... going to be erased just like this?
-Dialogue: 10,0:07:35.34,0:07:37.90,Default,,0,0,0,,I... I...
-Dialogue: 10,0:07:42.30,0:07:43.60,Default,,0,0,0,,Where...?
+Dialogue: 10,0:04:53.29,0:04:55.28,Default,Neku,0,0,0,,The walls... are dissipating?
+Dialogue: 10,0:04:55.28,0:04:56.86,Default,Shiki,0,0,0,,Wow!
+Dialogue: 10,0:04:57.65,0:05:00.32,Default,Shiki,0,0,0,,You're a natural at using the psychs.
+Dialogue: 10,0:05:00.32,0:05:01.71,Default,Neku,0,0,0,,Psychs?
+Dialogue: 10,0:05:01.71,0:05:04.35,Default,Shiki,0,0,0,,Yeah, like the flame power you just used.
+Dialogue: 10,0:05:04.89,0:05:09.63,Default,Shiki,0,0,0,,That isn't the end of the Noise, so \NI'm sure glad I patnered up with you
+Dialogue: 10,0:05:11.86,0:05:14.79,Default,Shiki,0,0,0,,I'm Misaki Shiki. But you can just call me Shiki. {Name order changed}
+Dialogue: 10,0:05:16.19,0:05:17.59,Default,Neku,0,0,0,,Your hand...
+Dialogue: 10,0:05:18.04,0:05:22.19,Default,Shiki,0,0,0,,It's a countdown to the mission deadline. \NJust like on your hand.
+Dialogue: 10,0:05:23.02,0:05:26.03,Default,Shiki,0,0,0,,But it goes away when \Nwe clear the mission
+Dialogue: 10,0:05:27.33,0:05:30.18,Default,Shiki,0,0,0,,Umm, what's your name?
+Dialogue: 10,0:05:30.93,0:05:33.51,Default,Neku,0,0,0,,I'm... Neku.
+Dialogue: 10,0:05:34.19,0:05:35.81,Default,Shiki,0,0,0,,Is that your first or last name?
+Dialogue: 10,0:05:38.39,0:05:39.69,Default,Shiki,0,0,0,,Uhh...
+Dialogue: 10,0:05:39.94,0:05:43.59,Default,Shiki,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(0,233,\3c&H000000&\4c&H000000&)}You can't use your psychs without your partner.
+Dialogue: 10,0:05:44.85,0:05:46.38,Default,Shiki,0,0,0,,That means we should team up!
+Dialogue: 10,0:05:46.84,0:05:50.65,Default,Shiki,0,0,0,,We'll clear this mission when\N we make it to the 104 building.
+Dialogue: 10,0:05:52.53,0:05:55.21,Default,Neku,0,0,0,,Why do we have to bother with that?
+Dialogue: 10,0:05:56.35,0:06:01.22,Default,Shiki,0,0,0,,You saw someone get attacked \Nby the Noise and get erased, right?
+Dialogue: 10,0:06:02.41,0:06:05.26,Default,Shiki,0,0,0,,{\t(4511,4870,\3c&HFFFFFF&\4c&HFFFFFF&)}We're all Players in the Reapers' Game.
+Dialogue: 10,0:06:06.09,0:06:09.70,Default,Shiki,0,0,0,,We need to survive for seven days, \Nor else we'll be erased.
+Dialogue: 10,0:06:15.54,0:06:19.43,Default,Uzuki,0,0,0,,Partner Pact between Neku Sakuraba \Nand Shiki Misaki has been confirmed.
+Dialogue: 10,0:06:19.43,0:06:21.17,Default,Koki,0,0,0,,Man, what a pain in the ass.
+Dialogue: 10,0:06:21.17,0:06:24.53,Default,Uzuki,0,0,0,,Hey! Take this more seriously! \NThis is why you never get promotions!
+Dialogue: 10,0:06:24.82,0:06:25.98,Default,Koki,0,0,0,,Yeah, yeah.
+Dialogue: 10,0:06:25.98,0:06:29.62,Default,Koki,0,0,0,,You really get right down to hunting Players. \NOn the first day too, huh, Uzuki.
+Dialogue: 10,0:06:29.62,0:06:33.66,Default,Uzuki,0,0,0,,Of course I did. Unlike a certain slacker here, \NI actually want to get promoted.
+Dialogue: 10,0:06:34.50,0:06:37.93,Default,Uzuki,0,0,0,,Still, the results from today kinda sucked.
+Dialogue: 10,0:06:38.54,0:06:41.23,Default,Uzuki,0,0,0,,That kid ain't half bad though, isn't he? {Isn't he can be removed here, added it because it's phrased like a question}
+Dialogue: 10,0:06:43.24,0:06:46.21,Default,Neku,0,0,0,,Was someone watching me just now?
+Dialogue: 10,0:06:46.69,0:06:48.74,Default,Shiki,0,0,0,,We've arrived at 104!
+Dialogue: 10,0:06:49.18,0:06:51.84,Default,Shiki,0,0,0,,It was pretty uneventful on the way here.
+Dialogue: 10,0:06:51.84,0:06:53.54,Default,Shiki,0,0,0,,Do you think this counts?
+Dialogue: 10,0:06:54.87,0:06:56.31,Default,Neku,0,0,0,,The timer's gone.
+Dialogue: 10,0:06:56.31,0:06:57.89,Default,Shiki,0,0,0,,Yay, thank goodness!
+Dialogue: 10,0:06:59.90,0:07:00.86,Default,Neku,0,0,0,,Who's there?!
+Dialogue: 10,0:07:02.44,0:07:06.22,Default,Uzuki,0,0,0,,I honestly didn't think much of you, \Nbut you're actually pretty capable, aren't you.
+Dialogue: 10,0:07:07.82,0:07:09.18,Default,Neku,0,0,0,,Black wings...
+Dialogue: 10,0:07:09.18,0:07:11.45,Default,Shiki,0,0,0,,Are you two... Reapers?
+Dialogue: 10,0:07:11.75,0:07:12.91,Default,Uzuki,0,0,0,,That's right.
+Dialogue: 10,0:07:12.91,0:07:16.54,Default,Uzuki,0,0,0,,The more Players a Reaper erases, \Nthe higher they rise in the ranks.
+Dialogue: 10,0:07:16.54,0:07:19.00,Default,Neku,0,0,0,,Huh? What did you just say?!
+Dialogue: 10,0:07:19.53,0:07:23.27,Default,Uzuki,0,0,0,,Do your best and entertain us.
+Dialogue: 10,0:07:27.09,0:07:28.34,Default,Neku,0,0,0,,What's going on?
+Dialogue: 10,0:07:29.85,0:07:34.52,Default,Neku,0,0,0,,Am I... going to be erased just like this?
+Dialogue: 10,0:07:35.34,0:07:37.90,Default,Neku,0,0,0,,I... I...
+Dialogue: 10,0:07:42.30,0:07:43.60,Default,Neku,0,0,0,,Where...?
 Dialogue: 10,0:07:44.95,0:07:46.65,Default,,0,0,0,,Oh! You're awake?
 Dialogue: 10,0:07:46.93,0:07:47.30,Default,,0,0,0,,What?! {Could be changed to a different exclamation}{uwahh?}
 Dialogue: 10,0:07:47.30,0:07:48.06,Default,,0,0,0,,Whoa!

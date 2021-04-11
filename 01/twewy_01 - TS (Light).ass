@@ -105,7 +105,7 @@ Dialogue: 0,0:04:45.89,0:04:49.85,Light_signs,ep_title,0,0,0,01,{\pos(1285,134)\
 Dialogue: 0,0:04:45.89,0:04:49.85,Light_signs,ep_title,0,0,0,01,{\pos(1264,86)\fscx250\fscy250\frz299.6\fnSplit splat splodge\b1\c&H000000&\blur0.5}c
 Dialogue: 0,0:04:45.89,0:04:49.85,Light_signs,ep_title,0,0,0,01,{\pos(1794,108)\fscx220\fscy220\frz337.5\fnSplit splat splodge\b1\c&H000000&\blur0.5}x
 Dialogue: 0,0:04:45.89,0:04:49.85,Light_signs,ep_title,0,0,0,01,{\pos(1758,142)\fscx220\fscy220\frz299.6\fnSplit splat splodge\b1\c&H000000&\blur0.5}r
-Dialogue: 0,0:04:45.89,0:04:49.85,Light_signs,ep_title,0,0,0,01,{\pos(1327,137)\fscx50\fscy80\frz303.8\fry180\fnGhost Everywhere\fs500\shad0.01\1a&HFE&\3a&HFE&\blur0.5\fad(300,300)}z
+Dialogue: 0,0:04:45.89,0:04:49.85,Light_signs,ep_title,0,0,0,01,{\pos(1327,137)\fscx50\fscy80\frz303.8\fry180\fnGhost Everywhere\fs500\shad0.01\1a&HFE&\3a&HFE&\blur0.5}z
 Dialogue: 0,0:10:22.52,0:10:22.64,Light_signs,phone_beat,0,0,0,ui,{\an7\pos(94.24,568.86)\frz20.69\c&H6E7A54&\blur1\p1}m -92.67 -57.33 l 71.33 -57.33 71.33 -22.67 -92.67 -22.67
 Dialogue: 1,0:10:22.52,0:10:22.64,Light_signs,phone_beat,0,0,0,ui,{\an4\pos(4.79,561.69)\frz20.49\fry0.44\frx2.62\fax0.02\fnFOT-NewRodin Pro B\fs30\b1\bord0.4\xshad0.01\4c&H41AFED&\1a&HFE&\3a&HFE&\blur0.8}Mailbox
 Dialogue: 0,0:10:22.52,0:10:22.64,Light_signs,phone_beat,0,0,0,ui,{\an7\pos(466.47,488.67)\frz18.19\c&H645E33&\blur2\p1}m -68.8 -50 l 65.6 -50 65.6 -13.2 -68.8 -13.2

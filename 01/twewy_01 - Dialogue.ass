@@ -13,14 +13,15 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: ../../../Downloads/TWEWY/[SubsPlease] Subarashiki Kono Sekai The Animation - 01 (1080p) [17281D88].mkv
-Video File: ../../../Downloads/TWEWY/[SubsPlease] Subarashiki Kono Sekai The Animation - 01 (1080p) [17281D88].mkv
+Audio File: ../../../../Tools/Timing/TWEWY/01/[SubsPlease] Subarashiki Kono Sekai The Animation - 01 (1080p) [17281D88].mkv
+Video File: ../../../../Tools/Timing/TWEWY/01/[SubsPlease] Subarashiki Kono Sekai The Animation - 01 (1080p) [17281D88].mkv
+Keyframes File: ../../../../Tools/Timing/TWEWY/01/[SubsPlease] Subarashiki Kono Sekai The Animation - 01 (1080p) [17281D88]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 321
-Active Line: 336
-Video Position: 34562
+Video Zoom Percent: 0.625000
+Scroll Position: 328
+Active Line: 335
+Video Position: 28991
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -364,12 +365,14 @@ Dialogue: 10,0:19:57.38,0:19:59.64,Default,,0,0,0,,We can if you trust me!
 Dialogue: 10,0:20:01.18,0:20:02.14,Default,,0,0,0,,I'll try.
 Dialogue: 10,0:20:05.43,0:20:06.69,Default,,0,0,0,,Okay!
 Dialogue: 10,0:20:06.69,0:20:09.15,Default,,0,0,0,,Well then, let's go!
-Dialogue: 10,0:20:09.15,0:20:10.11,Default,,0,0,0,,{\move(235,1024,460,1024,0,100)}Yeah.
+Dialogue: 10,0:20:09.15,0:20:09.19,Default,,-639,1039,56,,Yeah.
+Dialogue: 10,0:20:09.19,0:20:09.21,Default,,-374,774,56,,Yeah.
+Dialogue: 10,0:20:09.21,0:20:10.11,Default,,-300,700,56,,Yeah.
 Dialogue: 10,0:20:34.37,0:20:35.17,Default,,0,0,0,,Neku!
-Dialogue: 10,0:20:38.02,0:20:38.80,Default,,0,0,0,,{\pos(1470,1024)}Let's go!
-Dialogue: 10,0:20:38.80,0:20:39.68,Default,,0,0,0,,{\pos(460,1024)}Yeah!
-Dialogue: 10,0:20:54.57,0:20:56.82,Default,,0,0,0,,{\pos(1470,1024)}Go!
-Dialogue: 10,0:20:54.57,0:20:56.82,Default,,0,0,0,,{\pos(460,1024)}Go!
+Dialogue: 10,0:20:38.02,0:20:38.80,Default,,710,-310,56,,Let's go!
+Dialogue: 10,0:20:38.80,0:20:39.68,Default,,-300,700,56,,Yeah!
+Dialogue: 10,0:20:54.57,0:20:56.82,Default,,710,-310,56,,Go!
+Dialogue: 10,0:20:54.57,0:20:56.82,Default,,-300,700,56,,Go!
 Dialogue: 10,0:21:13.41,0:21:14.59,Default,,0,0,0,,We cleared it?
 Dialogue: 10,0:21:14.59,0:21:15.55,Default,,0,0,0,,Neku!
 Dialogue: 10,0:21:15.55,0:21:17.12,Default,,0,0,0,,Are you okay?!

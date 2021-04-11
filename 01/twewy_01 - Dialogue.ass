@@ -18,8 +18,7 @@ Video File: ../../../Downloads/TWEWY/[SubsPlease] Subarashiki Kono Sekai The Ani
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 384
-Active Line: 395
+Active Line: 384
 Video Position: 34562
 
 [V4+ Styles]
@@ -36,7 +35,7 @@ Dialogue: 10,0:00:35.70,0:00:37.31,Default,,0,0,0,,Oh, no. It's gonna turn red! 
 Dialogue: 10,0:00:40.29,0:00:41.77,Default,,0,0,0,,What just happened? {What just happened? might be more fitting here}
 Dialogue: 10,0:00:40.98,0:00:42.73,Alt,,0,0,0,,Scramble Crossing is way too crowded.
 Dialogue: 10,0:00:42.73,0:00:44.65,Default,,0,0,0,,Where's Hachiko?
-Dialogue: 10,0:00:44.65,0:00:45.82,Default,,0,0,0,,{Missing line?}
+Dialogue: 10,0:00:44.65,0:00:45.82,Default,,0,0,0,,Wait, what's Hachiko? {Missing line?} {This is a weird line to TL, basically implies that he doesn't know what Hachiko is referring to as a landmark}
 Dialogue: 10,0:00:45.82,0:00:48.40,Default,,0,0,0,,Oji Eiji was so totally cool. {Name order changed}
 Dialogue: 10,0:00:48.98,0:00:51.47,Default,,0,0,0,,What is happening?
 Dialogue: 10,0:00:59.52,0:01:02.12,Default,,0,0,0,,They can't see me? {Can't and they were swapped to make it sound more like he's talking to himself}
@@ -46,7 +45,7 @@ Dialogue: 10,0:01:27.41,0:01:28.23,Default,,0,0,0,,I'm taking it.{I'm taking it 
 Dialogue: 10,0:01:28.23,0:01:29.03,Default,,0,0,0,,Okay.
 Dialogue: 10,0:01:30.55,0:01:31.32,Default,,0,0,0,,What do you think?
 Dialogue: 10,0:01:31.32,0:01:32.17,Default,,0,0,0,,Send it to me later.
-Dialogue: 10,0:01:32.17,0:01:33.03,Default,,0,0,0,,{idk if this is a missing line, but it sounds like the first girl -Laffer}{yeah I just noticed this, I thought it was part of the "send it to me later", but it could also just be "lets head off"}
+Dialogue: 10,0:01:32.17,0:01:33.03,Default,,0,0,0,,{idk if this is a missing line, but it sounds like the first girl -Laffer}{yeah I just noticed this, I thought it was part of the "send it to me later", but it could also just be "lets head off"} {This is super hard to hear so I didn't bother at first, I think it's part of the "Send it to me later" line because I'm pretty sure she's saying oboete so: Remember to send it to me later. might work; I can't really say I'm 100% on that though coz the grammar's a bit wack here}
 Dialogue: 10,0:01:33.36,0:01:37.12,Default,,0,0,0,,I'm surrounded by all these weird walls.
 Dialogue: 10,0:01:37.12,0:01:38.40,Default,,0,0,0,,I can't go anywhere.
 Dialogue: 10,0:01:39.66,0:01:41.54,Default,,0,0,0,,I'm completely trapped.
@@ -54,7 +53,7 @@ Dialogue: 10,0:01:42.00,0:01:43.89,Default,,0,0,0,,How do I get out of here?
 Dialogue: 10,0:01:45.96,0:01:48.25,Default,,0,0,0,,"Reach 104"?
 Dialogue: 10,0:01:50.20,0:01:50.89,Default,,0,0,0,,The hell? {I interpret this more like an exclamation, so went with What the hell?}
 Dialogue: 10,0:01:53.49,0:01:54.51,Default,,0,0,0,,Numbers?
-Dialogue: 10,0:02:01.36,0:02:03.52,Default,,0,0,0,,A person... disappeared?!{maybe disintigrated?}
+Dialogue: 10,0:02:01.36,0:02:03.52,Default,,0,0,0,,A person... disappeared?!{maybe disintigrated?} {Disappeared works fine imo; Waffles}
 Dialogue: 10,0:02:04.52,0:02:05.91,Default,,0,0,0,,What's going on?!
 Dialogue: 10,0:02:06.48,0:02:07.62,Default,,0,0,0,,His hand!
 Dialogue: 10,0:02:08.66,0:02:09.65,Default,,0,0,0,,You're also–
@@ -188,7 +187,7 @@ Dialogue: 10,0:10:12.52,0:10:15.73,Default,,0,0,0,,But thanks to Neku, we manage
 Dialogue: 10,0:10:15.73,0:10:18.39,Default,,0,0,0,,Oh, so you're pretty tough, huh?
 Dialogue: 10,0:10:20.89,0:10:23.54,Default,,0,0,0,,That guy always keep his headphones on?
 Dialogue: 10,0:10:23.54,0:10:26.65,Default,,0,0,0,,Don't let it bother you! \NI'm sure he's just confused. {It may seem like there's no leadout, but I wanted to time it to the buzzing phone}
-Dialogue: 10,0:10:27.52,0:10:28.91,Default,,0,0,0,,Oh, our mission.
+Dialogue: 10,0:10:27.52,0:10:28.91,Default,,0,0,0,,Oh, mission's here.
 Dialogue: 10,0:10:30.25,0:10:35.41,Default,,0,0,0,,"Set the cursed sculpture free. \NFail, and face erasure". Huh?
 Dialogue: 10,0:10:41.83,0:10:43.47,Default,,0,0,0,,Here they come.
 Dialogue: 10,0:10:43.47,0:10:44.29,Default,,0,0,0,,Hey, Neku!
@@ -245,7 +244,7 @@ Dialogue: 10,0:13:14.98,0:13:16.10,Default,,0,0,0,,Are you alright?!
 Dialogue: 10,0:13:16.65,0:13:17.99,Default,,0,0,0,,I'm fine.
 Dialogue: 10,0:13:18.29,0:13:19.68,Default,,0,0,0,,What did I...?
 Dialogue: 10,0:13:19.68,0:13:21.82,Default,,0,0,0,,Hey! You friggin' stupid, or what?!
-Dialogue: 10,0:13:21.82,0:13:24.03,Default,,0,0,0,,Don't let negative emotions control you. {Lit. "don't get swallowed up by your negative emotions}
+Dialogue: 10,0:13:21.82,0:13:24.03,Default,,0,0,0,,Don't let your negative emotions control you. {Lit. "don't get swallowed up by your negative emotions"}
 Dialogue: 10,0:13:24.03,0:13:26.83,Default,,0,0,0,,The Noise will consume you if you let them possess you.
 Dialogue: 10,0:13:28.78,0:13:32.75,Default,,0,0,0,,You stay out of this. \NIt was just getting good.
 Dialogue: 10,0:13:32.75,0:13:35.75,Default,,0,0,0,,You gotta follow the rules, lady.
@@ -383,7 +382,7 @@ Dialogue: 10,0:21:38.74,0:21:40.24,Default,,0,0,0,,You're welcome.
 Dialogue: 10,0:21:42.21,0:21:44.82,Default,,0,0,0,,Hey, you guys okay?
 Dialogue: 10,0:21:46.29,0:21:47.82,Default,,0,0,0,,Yup! We're fine!
 Dialogue: 10,0:21:48.30,0:21:49.83,Default,,0,0,0,,Thank you so much.
-Dialogue: 10,0:21:50.27,0:21:53.50,Default,,0,0,0,,It's a bit of give-and-take, y'know?
+Dialogue: 10,0:21:50.27,0:21:53.50,Default,,0,0,0,,It's just a bit of give-and-take, y'know?
 Dialogue: 10,0:21:54.37,0:21:56.04,Default,,0,0,0,,Hey, I've got an idea!
 Dialogue: 10,0:21:56.04,0:21:59.20,Default,,0,0,0,,Starting tomorrow, \Nlet's do our missions together.
 Dialogue: 10,0:21:59.20,0:22:00.76,Default,,0,0,0,,Oh! Count me in!
@@ -403,7 +402,7 @@ Dialogue: 10,0:22:41.77,0:22:44.11,Default,,0,0,0,,You're 9 minutes and 42 secon
 Dialogue: 10,0:22:45.18,0:22:48.04,Default,,0,0,0,,And you're as annoying as ever, Konishi.
 Dialogue: 10,0:22:48.04,0:22:48.89,Default,,0,0,0,,Hm?
 Dialogue: 10,0:22:49.26,0:22:52.34,Default,,0,0,0,,I see that an unfamiliar beast has joined us.
-Dialogue: 10,0:22:52.34,0:22:54.36,Default,,0,0,0,,Please refrain from making those comments. \NYou're being rude. {Formal talk to match how she speaks}
+Dialogue: 10,0:22:52.34,0:22:54.36,Default,,0,0,0,,Please refrain from such language. \NYou're being rude. {Formal talk to match how she speaks}
 Dialogue: 10,0:22:55.37,0:22:58.57,Default,,0,0,0,,He's the current Game Master, Higashizawa.
 Dialogue: 10,0:22:59.24,0:23:01.15,Default,,0,0,0,,I shall meet your expectations
 Dialogue: 10,0:23:01.15,0:23:04.20,Default,,0,0,0,,and prepare the ultimate \Nfeast for you, Mr. Kitaniji.

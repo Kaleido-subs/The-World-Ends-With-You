@@ -101,7 +101,7 @@ Dialogue: 10,0:05:45.49,0:05:48.20,Default,Neku,0,0,0,,Why do we have to bother 
 Dialogue: 10,0:05:49.29,0:05:54.17,Default,Shiki,0,0,0,,{\q2}You saw someone get attacked \Nby the Noise and get erased, right?
 Dialogue: 10,0:05:55.38,0:05:58.25,Default,Shiki,0,0,0,,{\t(4511,4870,\3c&HFFFFFF&\4c&HFFFFFF&)}We're all Players in the Reapers' Game.
 Dialogue: 10,0:05:59.05,0:06:02.63,Default,Shiki,0,0,0,,{\q2}We need to survive for seven days, \Nor else we'll be erased.
-Dialogue: 10,0:06:08.47,0:06:12.39,Default,Uzuki,0,0,0,,{\q2}Partner Pact between Neku Sakuraba \Nand Shiki Misaki has been confirmed.
+Dialogue: 10,0:06:08.47,0:06:12.39,Default,Uzuki,0,0,0,,{\q2}Partner Pact between Sakuraba Neku \Nand Misaki Shiki has been confirmed.
 Dialogue: 10,0:06:12.39,0:06:14.10,Default,Koki,0,0,0,,Man, what a pain in the ass.
 Dialogue: 10,0:06:14.10,0:06:17.52,Default,Uzuki,0,0,0,,{\q2}Hey! Take this more seriously! \NThis is why you never get promotions!
 Dialogue: 10,0:06:17.77,0:06:18.94,Default,Koki,0,0,0,,Yeah, yeah.
@@ -166,7 +166,7 @@ Dialogue: 10,0:09:19.87,0:09:23.79,Default,Beat,0,0,0,,{\q2}You ain't foolin' me
 Dialogue: 10,0:09:23.79,0:09:24.71,Default,Neku,0,0,0,,"One of 'em"?
 Dialogue: 10,0:09:24.71,0:09:25.59,Default,Beat,0,0,0,,Thats right!
 Dialogue: 10,0:09:25.59,0:09:29.63,Default,Beat,0,0,0,,{\q2}I couldn't scan ya, so you gotta be a Reaper!
-Dialogue: 10,0:09:29.63,0:09:30.67,Default,Shiki,0,0,0,TM,{\move(960,1024,960,942,481,648)}Hey, hey, wait a mo—
+Dialogue: 10,0:09:29.63,0:09:30.67,Default,Shiki,0,0,0,,{\move(960,1024,960,942,481,648)}Hey, hey, wait a mo—
 Dialogue: 10,0:09:30.09,0:09:31.55,Default,Rhyme,0,0,0,,{\move(960,1120,960,1024,21,188)}Stop with that, Beat!
 Dialogue: 10,0:09:32.09,0:09:33.34,Default,Beat,0,0,0,,Stay outta' this, Rhyme!
 Dialogue: 10,0:09:33.34,0:09:36.76,Default,Rhyme,0,0,0,,They're Players too, like us!
@@ -219,8 +219,9 @@ Dialogue: 10,0:11:59.49,0:12:01.74,Default,Neku,0,0,0,,Sakuraba... Neku? {Name o
 Dialogue: 10,0:12:01.74,0:12:03.70,Default,Neku,0,0,0,,That's my name?
 Dialogue: 10,0:12:03.70,0:12:07.25,Default,Uzuki,0,0,0,,Sakuraba Neku, let me propose a deal. {Name order}
 Dialogue: 10,0:12:07.25,0:12:08.08,Default,Neku,0,0,0,,What?
-Dialogue: 10,0:12:08.37,0:12:12.96,Default,Uzuki,0,0,0,ED,Misaki Shiki. If you kill her. {Name order}
-Dialogue: 10,0:12:12.96,0:12:15.42,Default,Uzuki,0,0,0,ED,Then I'll free you from this game.
+Dialogue: 10,0:12:08.37,0:12:10.00,Default,Uzuki,0,0,0,,Let's make a deal.
+Dialogue: 10,0:12:10.46,0:12:12.96,Default,Uzuki,0,0,0,,Kill Misaki Shiki,
+Dialogue: 10,0:12:12.96,0:12:15.42,Default,Uzuki,0,0,0,,and I'll free you from this game.
 Dialogue: 10,0:12:15.42,0:12:17.63,Default,Beat,0,0,0,,Huh? The hell did ya jus' say?!
 Dialogue: 10,0:12:17.63,0:12:21.18,Default,Beat,0,0,0,,Yo! Don't listen to that damn Reaper!
 Dialogue: 10,0:12:21.18,0:12:23.43,Default,Uzuki,0,0,0,,If you don't clear it,
@@ -260,24 +261,24 @@ Dialogue: 10,0:14:09.91,0:14:12.16,Default,Neku,0,0,0,,Guess another day's gone 
 Dialogue: 10,0:14:13.83,0:14:14.79,Default,Neku,0,0,0,TM,Shiki...!
 Dialogue: 10,0:14:16.88,0:14:18.04,Default,Neku,0,0,0,,...she's not here.
 Dialogue: 10,0:14:18.04,0:14:19.50,Default,Neku,0,0,0,,Of course she isn't.
-Dialogue: 10,0:14:19.50,0:14:22.92,Default,Neku,0,0,0,,Espcially... after what I did yesterday.
+Dialogue: 10,0:14:19.50,0:14:22.92,Default,Neku,0,0,0,,Especially... after what I did yesterday.
 Dialogue: 10,0:14:30.14,0:14:31.18,Default,Neku,0,0,0,,Uwoah!
 Dialogue: 10,0:14:31.60,0:14:33.18,Default,Shiki,0,0,0,,Ah, oops.
 Dialogue: 10,0:14:33.18,0:14:35.60,Default,Shiki,0,0,0,,We ended up spooking each other again.
 Dialogue: 10,0:14:35.60,0:14:37.94,Default,Shiki,0,0,0,,I got flustered because you weren't around.
-Dialogue: 10,0:14:37.94,0:14:40.69,Default,Shiki,0,0,0,,{\q2}I assumed that you'd \Nbe in the usual place, but...
+Dialogue: 10,0:14:37.94,0:14:40.69,Default,Shiki,0,0,0,,I assumed that you'd be in the usual place, but...
 Dialogue: 10,0:14:40.69,0:14:41.61,Default,Neku,0,0,0,,Sorry.
 Dialogue: 10,0:14:41.61,0:14:43.65,Default,Neku,0,0,0,,What I almost did was horrible.
 Dialogue: 10,0:14:43.65,0:14:45.45,Default,Shiki,0,0,0,,Wha?! I-It's fine! Honest!
-Dialogue: 10,0:14:45.45,0:14:49.62,Default,Shiki,0,0,0,,{\q2}Um, I mean, I guess you \Nweren't yourself in that situation or— {This is a tough one}
+Dialogue: 10,0:14:45.45,0:14:49.62,Default,Shiki,0,0,0,,{\q2}Um, I mean, I guess you weren't \Nyourself in that situation or— {This is a tough one}
 Dialogue: 10,0:14:49.95,0:14:51.79,Default,Shiki,0,0,0,,U-Umm...
 Dialogue: 10,0:14:51.79,0:14:53.04,Default,Shiki,0,0,0,,Let's go talk elsewhere.
 Dialogue: 10,0:14:53.04,0:14:58.63,Default,Shiki,0,0,0,,{\q2}I keep saying we should team up, \Nbut I never told you anything about myself.
-Dialogue: 10,0:14:59.63,0:15:03.01,Default,Shiki,0,0,0,,And it's hard trust a total stranger, right?
+Dialogue: 10,0:14:59.63,0:15:03.01,Default,Shiki,0,0,0,,And it's hard to trust a total stranger, right?
 Dialogue: 10,0:15:03.01,0:15:03.80,Default,Neku,0,0,0,,That's not it.
 Dialogue: 10,0:15:03.80,0:15:04.47,Default,Shiki,0,0,0,,Huh?
 Dialogue: 10,0:15:04.47,0:15:07.39,Default,Neku,0,0,0,,{\q2}It's because... I don't remember \Nanything about myself.
-Dialogue: 10,0:15:07.80,0:15:11.31,Default,Neku,0,0,0,,{\q2}"Neku" is pretty much \N the only thing I can remember.
+Dialogue: 10,0:15:07.80,0:15:11.31,Default,Neku,0,0,0,,"Neku" is pretty much the only thing I can remember.
 Dialogue: 10,0:15:12.39,0:15:14.85,Default,Neku,0,0,0,,Until that Reaper said so yesterday,
 Dialogue: 10,0:15:15.39,0:15:17.56,Default,Neku,0,0,0,,I didn't know I was Sakuraba Neku. {Name Order}
 Dialogue: 10,0:15:19.23,0:15:22.65,Default,Shiki,0,0,0,,{\q2}You mean that... \Nyou've lost your memories?

@@ -165,9 +165,9 @@ Dialogue: 10,0:09:18.83,0:09:19.87,Default,Neku,0,0,0,,Who's this guy?
 Dialogue: 10,0:09:19.87,0:09:23.79,Default,Beat,0,0,0,,{\q2}You ain't foolin' me! \NYou're totally one of 'em!
 Dialogue: 10,0:09:23.79,0:09:24.71,Default,Neku,0,0,0,,"One of 'em"?
 Dialogue: 10,0:09:24.71,0:09:25.59,Default,Beat,0,0,0,,Thats right!
-Dialogue: 10,0:09:25.59,0:09:29.63,Default,Beat,0,0,0,,{\q2}I couldn't scan ya, so \N you gotta be a Reaper!
-Dialogue: 10,0:09:29.63,0:09:30.67,Default,Shiki,0,0,0,TM,Hey, hey, wait a mo—
-Dialogue: 10,0:09:30.09,0:09:31.55,Default,Rhyme,0,0,0,,Stop with that, Beat!
+Dialogue: 10,0:09:25.59,0:09:29.63,Default,Beat,0,0,0,,{\q2}I couldn't scan ya, so you gotta be a Reaper!
+Dialogue: 10,0:09:29.63,0:09:30.67,Default,Shiki,0,0,0,TM,{\move(960,1024,960,942,481,648)}Hey, hey, wait a mo—
+Dialogue: 10,0:09:30.09,0:09:31.55,Default,Rhyme,0,0,0,,{\move(960,1120,960,1024,21,188)}Stop with that, Beat!
 Dialogue: 10,0:09:32.09,0:09:33.34,Default,Beat,0,0,0,,Stay outta' this, Rhyme!
 Dialogue: 10,0:09:33.34,0:09:36.76,Default,Rhyme,0,0,0,,They're Players too, like us!
 Dialogue: 10,0:09:36.76,0:09:37.52,Default,Beat,0,0,0,,Eh?

@@ -19,9 +19,9 @@ Keyframes File: ../../../../Tools/Timing/TWEWY/01/TWEWY_01v2 (Premux)_keyframes.
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 66
-Active Line: 69
-Video Position: 7992
+Scroll Position: 377
+Active Line: 394
+Video Position: 34403
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -129,12 +129,12 @@ Dialogue: 10,0:07:05.86,0:07:09.53,Default,Uzuki,0,0,0,,{\q2}The more Players a 
 Dialogue: 10,0:07:09.53,0:07:11.99,Default,Neku,0,0,0,,Huh? What did you just say?!
 Dialogue: 10,0:07:12.50,0:07:16.21,Default,Uzuki,0,0,0,,Do your best and entertain us.
 Dialogue: 10,0:07:20.09,0:07:21.34,Default,Neku,0,0,0,,What's going on?
-Dialogue: 10,0:07:22.84,0:07:27.47,Default,Neku,0,0,0,,Am I... going to be erased just like this?
+Dialogue: 10,0:07:22.84,0:07:27.51,Default,Neku,0,0,0,,Am I... going to be erased just like this?
 Dialogue: 10,0:07:28.30,0:07:30.89,Default,Neku,0,0,0,,I... I...
 Dialogue: 10,0:07:35.27,0:07:36.56,Default,Neku,0,0,0,,Where...?
 Dialogue: 10,0:07:37.90,0:07:39.65,Default,Shiki,0,0,0,,Hey, you! You're finally awake?
-Dialogue: 10,0:07:39.90,0:07:40.23,Default,Neku,0,0,0,,hwah?! {Could be changed to a different exclamation}{uwahh?}
-Dialogue: 10,0:07:40.23,0:07:41.02,Default,Shiki,0,0,0,,Whoa!
+Dialogue: 10,0:07:39.90,0:07:40.29,Default,Neku,0,0,0,,hwah?! {Could be changed to a different exclamation}{uwahh?}
+Dialogue: 10,0:07:40.29,0:07:41.02,Default,Shiki,0,0,0,,Whoa!
 Dialogue: 10,0:07:42.65,0:07:44.74,Default,Shiki,0,0,0,,You startled me as well.
 Dialogue: 10,0:07:44.74,0:07:45.74,Default,Neku,0,0,0,,Where...?
 Dialogue: 10,0:07:45.74,0:07:48.61,Default,Shiki,0,0,0,,{\q2}We're back at Scramble Crossing. \N Same place as yesterday.
@@ -153,7 +153,7 @@ Dialogue: 10,0:08:33.08,0:08:35.62,Default,Shiki,0,0,0,,{\q2}The people we can s
 Dialogue: 10,0:08:35.62,0:08:39.04,Default,Shiki,0,0,0,,The pedestrians can't see or hear us.
 Dialogue: 10,0:08:39.04,0:08:40.21,Default,Shiki,0,0,0,,However...
 Dialogue: 10,0:08:40.79,0:08:42.13,Default,Shiki,0,0,0,,Here, try touching one of them.
-Dialogue: 10,0:08:43.88,0:08:46.13,Default,Pedestrian,0,0,0,,{\i1}Im so excited for 777's concert!
+Dialogue: 10,0:08:43.92,0:08:46.13,Default,Pedestrian,0,0,0,,{\i1}Im so excited for 777's concert!
 Dialogue: 10,0:08:47.92,0:08:48.88,Default,Shiki,0,0,0,,Did you hear it?
 Dialogue: 10,0:08:48.88,0:08:51.01,Default,Shiki,0,0,0,,That's what Players call "scanning".
 Dialogue: 10,0:08:51.01,0:08:51.76,Default,Neku,0,0,0,,Scanning?
@@ -196,7 +196,7 @@ Dialogue: 10,0:10:23.19,0:10:28.40,Default,Beat,0,0,0,,{\q2}"Set the cursed scul
 Dialogue: 10,0:10:34.82,0:10:36.41,Default,Beat,0,0,0,,Here comes the Noise.
 Dialogue: 10,0:10:36.41,0:10:37.24,Default,Shiki,0,0,0,,Hey! Neku!
 Dialogue: 10,0:10:38.08,0:10:39.24,Default,Beat,0,0,0,,Yo!
-Dialogue: 10,0:10:44.87,0:10:46.21,Default,Shiki,0,0,0,,Wait a second, Neku!
+Dialogue: 10,0:10:44.92,0:10:46.21,Default,Shiki,0,0,0,,Wait a second, Neku!
 Dialogue: 10,0:10:48.42,0:10:49.30,Default,Shiki,0,0,0,,Neku!
 Dialogue: 10,0:10:59.68,0:11:01.68,Default,Beat,0,0,0,,Don't just friggin' run in on your own!
 Dialogue: 10,0:11:01.68,0:11:03.68,Default,Shiki,0,0,0,,We should take them on together!
@@ -401,8 +401,8 @@ Dialogue: 10,0:22:22.86,0:22:26.91,Default,Yodai,0,0,0,,{\q2}Over half the Playe
 Dialogue: 10,0:22:26.91,0:22:29.29,Default,Yodai,0,0,0,,It's entered the final stages.
 Dialogue: 10,0:22:29.74,0:22:30.41,Default,Megumi,0,0,0,,Yeah.
 Dialogue: 10,0:22:30.41,0:22:33.46,Default,Sho,0,0,0,,Let's just kill 'em all and get it over with already.
-Dialogue: 10,0:22:33.46,0:22:34.71,Default,Konishi,0,0,0,,Minamimoto.
-Dialogue: 10,0:22:34.71,0:22:37.04,Default,Konishi,0,0,0,,You're 9 minutes and 42 seconds late.
+Dialogue: 10,0:22:33.46,0:22:34.87,Default,Konishi,0,0,0,,Minamimoto.
+Dialogue: 10,0:22:34.87,0:22:37.04,Default,Konishi,0,0,0,,You're 9 minutes and 42 seconds late.
 Dialogue: 10,0:22:38.13,0:22:41.01,Default,Sho,0,0,0,,And you're as bitchy as always, Konishi.
 Dialogue: 10,0:22:41.01,0:22:41.84,Default,Sho,0,0,0,,Hm?
 Dialogue: 10,0:22:42.21,0:22:45.30,Default,Sho,0,0,0,,I see that wild animal has joined us.
@@ -418,12 +418,12 @@ Dialogue: 10,0:23:09.62,0:23:14.29,Default,Megumi,0,0,0,,{\q2}I've recieved the 
 Dialogue: 10,0:23:14.29,0:23:16.96,Default,Yodai,0,0,0,,I am honored and delighted.
 Dialogue: 10,0:23:16.96,0:23:19.63,Default,Megumi,0,0,0,,{\q2}There is, however, \None condition that you must satisfy. {Liberal, but doesn't make sense in English otherwise imo}
 Dialogue: 10,0:23:20.71,0:23:24.72,Default,Megumi,0,0,0,,Erase every single Player.
-Dialogue: 10,0:23:26.88,0:23:28.51,Default,Shiki,0,0,0,,He was so cool!
+Dialogue: 10,0:23:27.13,0:23:28.51,Default,Shiki,0,0,0,,He was so cool!
 Dialogue: 10,0:23:28.51,0:23:31.47,Default,Beat,0,0,0,,{\q2}"I'm gonna start a revolution \Nin the music world!"
 Dialogue: 10,0:23:31.47,0:23:32.77,Default,Beat,0,0,0,,How's that?
 Dialogue: 10,0:23:32.77,0:23:33.43,Default,Shiki,0,0,0,,Oh!
 Dialogue: 10,0:23:34.14,0:23:38.77,Default,Shiki,0,0,0,,{\q2}Speaking of, how come \N777 is able to see us?
 Dialogue: 10,0:23:39.56,0:23:41.73,Default,Neku,0,0,0,,Isn't it obvious?
 Dialogue: 10,0:23:43.48,0:23:44.44,Default,Neku,0,0,0,,Those guys...
-Dialogue: 10,0:23:47.91,0:23:49.37,Default,Neku,0,0,0,,...are Reapers.
+Dialogue: 10,0:23:47.95,0:23:49.20,Default,Neku,0,0,0,,...are Reapers.
 Dialogue: 10,0:23:52.54,0:23:54.50,Default,Neku,0,0,0,,Next time: "Shiki."

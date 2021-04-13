@@ -19,9 +19,9 @@ Keyframes File: ../../../../Tools/Timing/TWEWY/01/TWEWY_01v2 (Premux)_keyframes.
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 377
-Active Line: 394
-Video Position: 34403
+Scroll Position: 50
+Active Line: 56
+Video Position: 6911
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,13 +34,13 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Comment: 0,0:04:45.85,0:04:45.85,Default,chapter,0,0,0,,{Part A}
 Comment: 0,0:12:47.96,0:12:47.96,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:23:51.95,0:23:51.95,Default,chapter,0,0,0,,{Preview}
-Dialogue: 10,0:00:17.91,0:00:20.04,Default,Neku,0,0,0,,Where... am I?
+Dialogue: 10,0:00:17.96,0:00:20.04,Default,Neku,0,0,0,,Where... am I?
 Dialogue: 10,0:00:24.88,0:00:27.13,Default,Neku,0,0,0,,{\i1}Pins? Where did these come from?
 Dialogue: 10,0:00:28.63,0:00:30.26,Default,Pedestrian,0,0,0,,{\i1}Oh, no. The light is gonna turn red! {Talking about the traffic light; could change to make it more obvious}
-Dialogue: 10,0:00:33.22,0:00:34.72,Default,Neku,0,0,0,,{\i1}What the hell just happened? {What just happened? might be more fitting here}
-Dialogue: 10,0:00:33.93,0:00:35.68,Default,Pedestrian,0,0,0,,{\i1}Scramble Crossing is always far too crowded.
-Dialogue: 10,0:00:35.68,0:00:37.60,Default,Pedestrian,0,0,0,,{\i1}Where's Hachiko?
-Dialogue: 10,0:00:37.60,0:00:38.77,Default,Pedestrian,0,0,0,,{\i1}Wait, what's Hachiko? {Missing line?} {This is a weird line to TL, basically implies that he doesn't know what Hachiko is referring to as a landmark}
+Dialogue: 10,0:00:33.22,0:00:34.76,Default,Neku,0,0,0,,{\i1}What the hell just happened? {What just happened? might be more fitting here}
+Dialogue: 10,0:00:33.93,0:00:35.68,Alt,Pedestrian,0,0,0,,{\i1}Scramble Crossing is always far too crowded.
+Dialogue: 10,0:00:35.68,0:00:37.64,Default,Pedestrian,0,0,0,,{\i1}Where's Hachiko?
+Dialogue: 10,0:00:37.64,0:00:38.77,Default,Pedestrian,0,0,0,,{\i1}Wait, what's Hachiko? {Missing line?} {This is a weird line to TL, basically implies that he doesn't know what Hachiko is referring to as a landmark}
 Dialogue: 10,0:00:38.77,0:00:41.40,Default,Pedestrian,0,0,0,,{\i1}Oji Eiji was so totally cool. {Name order changed}
 Dialogue: 10,0:00:41.94,0:00:44.44,Default,Neku,0,0,0,,What is going on?
 Dialogue: 10,0:00:52.49,0:00:55.08,Default,Neku,0,0,0,,{\i1}Can they not see me? {Can't and they were swapped to make it sound more like he's talking to himself}
@@ -50,7 +50,7 @@ Dialogue: 10,0:01:20.35,0:01:21.19,Default,Pedestrian,0,0,0,,I'm taking it.{I'm 
 Dialogue: 10,0:01:21.19,0:01:22.02,Default,Pedestrian,0,0,0,,Cheese!
 Dialogue: 10,0:01:23.52,0:01:24.27,Default,Pedestrian,0,0,0,,What do you think?
 Dialogue: 10,0:01:24.27,0:01:25.11,Default,Pedestrian,0,0,0,,Send it to me later.
-Comment: 10,0:01:25.11,0:01:25.98,Default,Pedestrian,0,0,0,,{idk if this is a missing line, but it sounds like the first girl -Laffer}{yeah I just noticed this, I thought it was part of the "send it to me later", but it could also just be "lets head off"} {This is super hard to hear so I didn't bother at first, I think it's part of the "Send it to me later" line because I'm pretty sure she's saying oboete so: Remember to send it to me later. might work; I can't really say I'm 100% on that though coz the grammar's a bit wack here}
+Comment: 10,0:01:25.11,0:01:26.02,Default,Pedestrian,0,0,0,,{idk if this is a missing line, but it sounds like the first girl -Laffer}{yeah I just noticed this, I thought it was part of the "send it to me later", but it could also just be "lets head off"} {This is super hard to hear so I didn't bother at first, I think it's part of the "Send it to me later" line because I'm pretty sure she's saying oboete so: Remember to send it to me later. might work; I can't really say I'm 100% on that though coz the grammar's a bit wack here}
 Dialogue: 10,0:01:26.32,0:01:30.11,Default,Neku,0,0,0,,{\i1}I'm surrounded by all these weird walls.
 Dialogue: 10,0:01:30.11,0:01:31.36,Default,Neku,0,0,0,,{\i1}I can't go anywhere.
 Dialogue: 10,0:01:32.66,0:01:34.49,Default,Neku,0,0,0,,{\i1}I'm totally trapped .

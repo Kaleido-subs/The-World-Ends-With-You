@@ -34,35 +34,23 @@ subs {
 		loglevel(Automation.LogLevel.WARNING)
 	}
 
-    val op_title by task<ASS> {
-        from(op_ktemplate.item())
 
-        val ep_title = getRaw("title")
-
-        ass {
-                for (line in events.lines) {
-                    line.text = line.text
-                        .replace("EP_TITLE", ep_title)
-                }
+    val ed_ktemplate by task<Automation> {
+            if (propertyExists("ED")) {
+                from(get("ED"))
             }
-        }
 
-val ed_ktemplate by task<Automation> {
-        if (propertyExists("ED")) {
-            from(get("ED"))
+            video(get("premux"))
+            script("0x.KaraTemplater.moon")
+            macro("0x539's Templater")
+            loglevel(Automation.LogLevel.WARNING)
         }
-
-        video(get("premux"))
-		script("0x.KaraTemplater.moon")
-		macro("0x539's Templater")
-		loglevel(Automation.LogLevel.WARNING)
-	}
 
     merge {
         from(get("dialogue"))
 
         if (propertyExists("OP")) {
-            from(op_title.item()) {
+            from(op_ktemplate.item()) {
                 syncTargetTime(getAs<Duration>("opsync"))
             }
         }

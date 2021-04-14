@@ -26,8 +26,8 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
-Comment: 0,0:04:45.85,0:04:45.85,Default,chapter,0,0,0,,{Part A}
-Comment: 0,0:12:47.96,0:12:47.96,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:04:45.89,0:04:45.89,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:12:48.00,0:12:48.00,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:23:51.95,0:23:51.95,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:00:17.96,0:00:20.04,Default,Neku,0,0,0,,Where... am I?
 Dialogue: 10,0:00:24.88,0:00:27.13,Default,Neku,0,0,0,,{\i1}Pins? Where'd these come from?
@@ -95,11 +95,11 @@ Dialogue: 10,0:05:20.30,0:05:23.18,Default,Shiki,0,0,0,,Umm, what's your name?
 Dialogue: 10,0:05:23.89,0:05:26.47,Default,Neku,0,0,0,,I'm... Neku.
 Dialogue: 10,0:05:27.18,0:05:28.77,Default,Shiki,0,0,0,,Is that your first or last name?
 Dialogue: 10,0:05:31.35,0:05:32.69,Default,Shiki,0,0,0,,Uhh...
-Dialogue: 10,0:05:32.92,0:05:36.52,Default,Shiki,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(0,246,\3c&H000000&\4c&H000000&)}You can't use psychs without your partner.
+Dialogue: 10,0:05:32.94,0:05:36.52,Default,Shiki,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(0,246,\3c&H000000&\4c&H000000&)}You can't use psychs without your partner.
 Dialogue: 10,0:05:37.82,0:05:39.32,Default,Shiki,0,0,0,,That means we should team up! {### "So let's team up!" and maybe change the previous "your" with "a"?}
 Dialogue: 10,0:05:39.78,0:05:43.61,Default,Shiki,0,0,0,,{\q2}We'll finish this mission when\N we make it to the 104 building. {### "We'll be done with this mission once we reach that 104 building."?}
 Dialogue: 10,0:05:45.49,0:05:48.20,Default,Neku,0,0,0,,Why do we have to bother with that?
-Dialogue: 10,0:05:49.29,0:05:54.23,Default,Shiki,0,0,0,,{\q2\t(4522,4939,\3c&HFFFFFF&\4c&HFFFFFF&)}You saw someone get attacked \Nby the Noise and get erased, right?
+Dialogue: 10,0:05:49.29,0:05:54.25,Default,Shiki,0,0,0,,{\q2\t(4522,4939,\3c&HFFFFFF&\4c&HFFFFFF&)}You saw someone get attacked \Nby the Noise and get erased, right?
 Dialogue: 10,0:05:55.38,0:05:58.25,Default,Shiki,0,0,0,,We're all Players in the Reapers' Game.
 Dialogue: 10,0:05:59.05,0:06:02.63,Default,Shiki,0,0,0,,{\q2}We need to survive for seven days, \Nor else we'll be erased.
 Dialogue: 10,0:06:08.47,0:06:12.39,Default,Uzuki,0,0,0,,{\q2}Partner Pact between Sakuraba Neku \Nand Misaki Shiki confirmed.
@@ -129,8 +129,8 @@ Dialogue: 10,0:07:22.84,0:07:27.51,Default,Neku,0,0,0,,{\i1}Am I going to be era
 Dialogue: 10,0:07:28.30,0:07:30.89,Default,Neku,0,0,0,,{\i1}I... I...
 Dialogue: 10,0:07:35.27,0:07:36.56,Default,Neku,0,0,0,,Where...?
 Dialogue: 10,0:07:37.90,0:07:39.65,Default,Shiki,0,0,0,,Hey, you! You're finally awake?
-Dialogue: 10,0:07:39.90,0:07:40.29,Default,Neku,0,0,0,,Hwah?!
-Dialogue: 10,0:07:40.29,0:07:41.02,Default,Shiki,0,0,0,,Whoa!
+Dialogue: 10,0:07:39.90,0:07:40.27,Default,Neku,0,0,0,,Hwah?!
+Dialogue: 10,0:07:40.27,0:07:41.02,Default,Shiki,0,0,0,,Whoa!
 Dialogue: 10,0:07:42.65,0:07:44.74,Default,Shiki,0,0,0,,You startled me as well.
 Dialogue: 10,0:07:44.74,0:07:45.74,Default,Neku,0,0,0,,Where are we?
 Dialogue: 10,0:07:45.74,0:07:48.61,Default,Shiki,0,0,0,,{\q2}Back at Scramble Crossing. \NSame place as yesterday.

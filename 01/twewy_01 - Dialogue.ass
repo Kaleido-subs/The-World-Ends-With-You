@@ -106,8 +106,8 @@ Dialogue: 10,0:06:08.47,0:06:12.39,Default,Uzuki,0,0,0,,{\q2}Partner Pact betwee
 Dialogue: 10,0:06:12.39,0:06:14.10,Default,Koki,0,0,0,,Man, what a pain in the ass.
 Dialogue: 10,0:06:14.10,0:06:17.52,Default,Uzuki,0,0,0,,{\q2}Hey! Take this more seriously! \NThis is why you never get promoted!
 Dialogue: 10,0:06:17.77,0:06:18.94,Default,Koki,0,0,0,,Yeah, yeah, whatever.
-Dialogue: 10,0:06:18.94,0:06:22.57,Default,Koki,0,0,0,,{\q2}You sure aren't taking your time with the hunting, Uzuki. \NOn the first day too, huh.
-Dialogue: 10,0:06:22.57,0:06:26.66,Default,Uzuki,0,0,0,,{\q2}Of course I do. Unlike a certain slacker here, \NI actually want a promotion.
+Dialogue: 10,0:06:18.94,0:06:22.57,Default,Koki,0,0,0,,{\q2}You sure aren't taking your time with \Nthe hunting, Uzuki. On the first day too, huh.
+Dialogue: 10,0:06:22.57,0:06:26.66,Default,Uzuki,0,0,0,,{\q2}Of course not. Unlike a certain slacker here, \NI actually want a promotion.
 Dialogue: 10,0:06:27.45,0:06:30.87,Default,Uzuki,0,0,0,,Still, today's results kinda sucked.
 Dialogue: 10,0:06:31.54,0:06:34.17,Default,Uzuki,0,0,0,,That kid ain't half bad, is he?
 Dialogue: 10,0:06:36.21,0:06:39.17,Default,Neku,0,0,0,,Was someone watching me just now?

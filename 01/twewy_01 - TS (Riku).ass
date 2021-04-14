@@ -11,10 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: TWEWY_01 (Premux).mkv
-Video File: TWEWY_01 (Premux).mkv
+Audio File: ../../../../Downloads/aegisubstuff/Subarashiki Kono Sekai The Animation - 01.mkv
+Video File: ../../../../Downloads/aegisubstuff/Subarashiki Kono Sekai The Animation - 01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 72
+Active Line: 77
+Video Position: 19908
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -99,10 +103,10 @@ Dialogue: 3,0:12:15.42,0:12:21.18,Riku_Signs,,0,0,0,,{\pos(1106.67,865.03)\org(1
 Dialogue: 0,0:12:38.07,0:12:41.07,Riku_Signs,,0,0,0,,{=1}{\an7\move(0.71,-1.78,57,26.19,18,2979)\c&H3E312D&\blur1\t(18,2979,\fscx94.16)\t(18,2979,\fscy94.16)\p1}m 947 323 l 997 323 997 340 947 340
 Dialogue: 1,0:12:38.07,0:12:41.07,Riku_Signs,,0,0,0,,{=0}{\move(973,331.47,972.55,339.99,18,2979)\fs15\c&H6D6260&\blur0.5\t(18,2979,\fscx94.16)\t(18,2979,\fscy94.16)}Hanako
 Comment: 0,0:13:12.81,0:13:14.82,Riku_Signs,,0,0,0,,Hanako {skip}
-Dialogue: 0,0:13:50.31,0:13:55.06,Riku_Signs,,0,0,0,,{\an7\pos(944.46,418.71)\c&H636363&\1a&H1A&\blur2.5\p1}m -4 122 l 126 122 126 168 -4 168
-Dialogue: 0,0:13:50.31,0:13:55.06,Riku_Signs,,0,0,0,,{\an7\pos(951.46,421.71)\c&H3E3030&\blur3\p1}m -4 122 l 126 122 126 168 -4 168
-Dialogue: 1,0:13:50.31,0:13:55.06,Riku_Signs,,0,0,0,,{\pos(1012.8,570.4)\fs40\c&H777E8A&\blur1.7}Hanako
-Dialogue: 1,0:13:50.31,0:13:55.06,Riku_Signs,,0,0,0,,{\pos(1007.8,570.4)\fs40\c&H979C99&\1a&H63&\blur1.7}Hanako
+Dialogue: 0,0:13:50.27,0:13:55.02,Riku_Signs,,0,0,0,,{\an7\pos(944.46,418.71)\c&H636363&\1a&H1A&\blur2.5\p1}m -4 122 l 126 122 126 168 -4 168
+Dialogue: 0,0:13:50.27,0:13:55.02,Riku_Signs,,0,0,0,,{\an7\pos(951.46,421.71)\c&H3E3030&\blur3\p1}m -4 122 l 126 122 126 168 -4 168
+Dialogue: 1,0:13:50.27,0:13:55.02,Riku_Signs,,0,0,0,,{\pos(1012.8,570.4)\fs40\c&H777E8A&\blur1.7}Hanako
+Dialogue: 1,0:13:50.27,0:13:55.02,Riku_Signs,,0,0,0,,{\pos(1007.8,570.4)\fs40\c&H979C99&\1a&H63&\blur1.7}Hanako
 Dialogue: 0,0:14:22.97,0:14:24.51,Riku_Signs,,0,0,0,,{\an7\move(0.71,-1.78,57,26.19,18,2979)\c&H584C4B&\blur1\t(18,2979,\fscx94.16)\t(18,2979,\fscy94.16)\t(1000,1530,\c&HFFFFFF&)\p1}m 947 323 l 997 323 997 340 947 340
 Dialogue: 0,0:14:22.97,0:14:24.51,Riku_Signs,,0,0,0,,{\move(973,331.47,972.55,339.99,18,2979)\fs15\c&H797371&\blur0.5\t(18,2979,\fscx94.16)\t(18,2979,\fscy94.16)\t(1000,1530,\c&HFFFFFF&)}Hanako
 

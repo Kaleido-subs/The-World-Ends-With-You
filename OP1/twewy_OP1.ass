@@ -175,5 +175,13 @@ Dialogue: 0,0:01:53.43,0:01:53.55,OP1,static,0,0,0,kara,Dragged by the powers of
 Dialogue: 0,0:01:53.55,0:01:55.05,OP1,nofx,0,0,0,kara,Dragged by the powers of the dream
 Dialogue: 0,0:01:55.05,0:01:55.18,OP1,static,0,0,0,kara,Dragged by the powers of the dream
 Dialogue: 0,0:01:55.14,0:01:55.26,OP1,static,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:55.26,0:01:57.22,OP1,nofx,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:57.22,0:01:57.35,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:55.26,0:01:56.26,OP1,nofx,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:56.26,0:01:56.30,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:56.30,0:01:56.35,OP1,nofx,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:56.35,0:01:56.39,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:56.39,0:01:56.51,OP1,nofx,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:56.51,0:01:56.68,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:56.68,0:01:56.72,OP1,nofx,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:56.72,0:01:56.76,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:56.76,0:01:56.80,OP1,nofx,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:56.80,0:01:56.97,OP1,static,0,0,0,kara,That power is yet unknown

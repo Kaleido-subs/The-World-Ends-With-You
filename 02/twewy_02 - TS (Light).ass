@@ -23,7 +23,28 @@ Style: Light_signs,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:58.01,0:02:00.93,Light_signs,,0,0,0,,{\an8}"#02: Shiki"
-Dialogue: 0,0:02:00.93,0:02:01.93,Light_signs,,0,0,0,,{\an8}"#02: Shiki"
+Comment: 2,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\an6\fnRedgar\fsp5\blur0.6\pos(1839,93)}#02  Shiki
+Comment: 1,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\an6\fnRedgar\fsp5\blur0.6\pos(1839,93)\xbord4\xshad0.01\1a&HFE&\3a&HFE&\blur1}#02  Shiki
+Dialogue: 2,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1574.67,93)\frz-3.2\fnRedgar\fsp5\blur0.6}#
+Dialogue: 2,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1611.05,93)\frz1.3\fnRedgar\fsp5\blur0.6}0
+Dialogue: 2,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1644.71,93)\frz-1.3\fnRedgar\fsp5\blur0.6}2
+Dialogue: 2,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1713,93)\frz-9.7\fnRedgar\fsp5\blur0.6}S
+Dialogue: 2,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1747.24,93)\frz-4.6\fnRedgar\fsp5\blur0.6}h
+Dialogue: 2,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1775.2,93)\frz2.7\fnRedgar\fsp5\blur0.6}i
+Dialogue: 2,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1802.24,93)\frz1.3\fnRedgar\fsp5\blur0.6}k
+Dialogue: 2,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1829.28,93)\frz-1.7\fnRedgar\fsp5\blur0.6}i
+Dialogue: 1,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1574.67,93)\frz-3.2\fnRedgar\fsp5\xbord6\ybord3\xshad0.01\1a&HFE&\3a&HFE&\blur1}#
+Dialogue: 1,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1611.05,93)\frz1.3\fnRedgar\fsp5\xbord6\ybord3\xshad0.01\1a&HFE&\3a&HFE&\blur1}0
+Dialogue: 1,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1644.71,93)\frz-1.3\fnRedgar\fsp5\xbord6\ybord3\xshad0.01\1a&HFE&\3a&HFE&\blur1}2
+Dialogue: 1,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1713,93)\frz-9.7\fnRedgar\fsp5\xbord6\ybord3\xshad0.01\1a&HFE&\3a&HFE&\blur1}S
+Dialogue: 1,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1747.24,93)\frz-4.6\fnRedgar\fsp5\xbord6\ybord3\xshad0.01\1a&HFE&\3a&HFE&\blur1}h
+Dialogue: 1,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1775.2,93)\frz2.7\fnRedgar\fsp5\xbord6\ybord3\xshad0.01\1a&HFE&\3a&HFE&\blur1}i
+Dialogue: 1,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1802.24,93)\frz1.3\fnRedgar\fsp5\xbord6\ybord3\xshad0.01\1a&HFE&\3a&HFE&\blur1}k
+Dialogue: 1,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1829.28,93)\frz-1.7\fnRedgar\fsp5\xbord6\ybord3\xshad0.01\1a&HFE&\3a&HFE&\blur1}i
+Dialogue: 0,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1637,134)\fscx220\fscy180\frz334.2\fnSplit splat splodge\b1\c&H000000&\blur0.5}x
+Dialogue: 0,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1616,86)\fscx250\fscy250\frz299.6\fnSplit splat splodge\b1\c&H000000&\blur0.5}c
+Dialogue: 0,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1774,108)\fscx220\fscy220\frz337.5\fnSplit splat splodge\b1\c&H000000&\blur0.5}x
+Dialogue: 0,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1738,142)\fscx220\fscy220\frz299.6\fnSplit splat splodge\b1\c&H000000&\blur0.5}r
+Dialogue: 0,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1679,137)\fscx50\fscy80\frz303.8\fry180\fnGhost Everywhere\fs500\shad0.01\1a&HFE&\3a&HFE&\blur0.5}z
 Dialogue: 0,0:07:29.76,0:07:33.14,Light_signs,,0,0,0,,Free Spain Hill from the Noise. You have 200 minutes. Fail and face erasure. The Reapers. {double-check all times}
 Dialogue: 0,0:07:33.39,0:07:35.39,Light_signs,,0,0,0,,{\an8}"Spain Hill"

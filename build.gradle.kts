@@ -61,8 +61,8 @@ subs {
             }
         }
 
-        if (file(get("IS")).exists()) {
-            from(get("IS"))
+        if (file(get("INS")).exists()) {
+            from(getList("INS"))
         }
 
         from(getList("TS"))

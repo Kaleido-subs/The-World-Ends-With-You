@@ -23,165 +23,165 @@ Style: OP1,Rational Integer,66,&H00000000,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,code once,function xoff() local t = (loopctx.state.frame - 1)/fdur; local offset = (loopctx.state.static % rnd(-256, 1024)) * math.abs(math.sin(loopctx.state.static)); return offset * t; end
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,code line,fdur = aegisub.frame_from_ms(orgline.end_time) - aegisub.frame_from_ms(orgline.start_time)
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,code line,_, newlines = orgline.text:gsub("\\N","")
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,code once,colours = {"&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&H0000FF&", "&HFF0009&", "&H00FF00&"}
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,template line actor static loop static 50 loop frame 1 loop layer 2,!relayer($loop_layer-1)!!maxloop('static', (1+newlines) * line.height+10)!!maxloop('frame', fdur)!!retime('preline',($loop_frame-1) * 1001/24, ($loop_frame) * 1001/24)!
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,template line actor nofx loop layer 2,!relayer($loop_layer-1)!
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,mixin line actor static,{!ln.tag.pos(nil,nil, xoff())!\clip(0,!line.bottom-$loop_static+5!,!meta.res_x!,!line.bottom-$loop_static+8!)\4a&H78&}
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,mixin line actor nofx,{!ln.tag.pos(5,5)!}
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,mixin line,{\1a&HFE&\3a&HFE&\yshad0.01\4c&H000000&}
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,mixin line layer 1,{\blur0.7\bord0.6}
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,mixin line layer 0 actor nofx,{\blur2\4c&HFFFFFF&}
-Comment: 0,0:00:36.81,0:00:36.81,OP1,,0,0,0,mixin line layer 0 actor static,{\blur2\4c!colours[math.random(1, 20)]!}
-Comment: 0,0:00:28.01,0:00:28.01,OP1,chapter,0,0,0,sync,{OP}
-Dialogue: 0,0:00:36.68,0:00:36.81,OP1,static,0,0,0,kara,What's up, man?
-Dialogue: 0,0:00:36.81,0:00:37.48,OP1,nofx,0,0,0,kara,What's up, man?
-Dialogue: 0,0:00:37.48,0:00:37.60,OP1,static,0,0,0,kara,What's up, man?
-Dialogue: 0,0:00:45.44,0:00:45.57,OP1,static,0,0,0,kara,Brain ware, main wave
-Dialogue: 0,0:00:45.57,0:00:46.11,OP1,nofx,0,0,0,kara,Brain ware, main wave
-Dialogue: 0,0:00:46.11,0:00:46.23,OP1,static,0,0,0,kara,Brain ware, main wave
-Dialogue: 0,0:00:46.19,0:00:46.40,OP1,static,0,0,0,kara,Psycho got a high kick
-Dialogue: 0,0:00:46.40,0:00:47.15,OP1,nofx,0,0,0,kara,Psycho got a high kick
-Dialogue: 0,0:00:47.15,0:00:47.32,OP1,static,0,0,0,kara,Psycho got a high kick
-Dialogue: 0,0:00:47.28,0:00:47.44,OP1,static,0,0,0,kara,Collect 'n select, 'n show you got best set
-Dialogue: 0,0:00:47.44,0:00:49.40,OP1,nofx,0,0,0,kara,Collect 'n select, 'n show you got best set
-Dialogue: 0,0:00:49.40,0:00:49.57,OP1,static,0,0,0,kara,Collect 'n select, 'n show you got best set
-Dialogue: 0,0:00:49.53,0:00:49.70,OP1,static,0,0,0,kara,Crystals, blisters
-Dialogue: 0,0:00:49.70,0:00:50.20,OP1,nofx,0,0,0,kara,Crystals, blisters
-Dialogue: 0,0:00:50.20,0:00:50.36,OP1,static,0,0,0,kara,Crystals, blisters
-Dialogue: 0,0:00:50.32,0:00:50.45,OP1,static,0,0,0,kara,It's all over now
-Dialogue: 0,0:00:50.45,0:00:51.32,OP1,nofx,0,0,0,kara,It's all over now
-Dialogue: 0,0:00:51.32,0:00:51.45,OP1,static,0,0,0,kara,It's all over now
-Dialogue: 0,0:00:51.41,0:00:51.53,OP1,static,0,0,0,kara,Psycho cane, you're so keen
-Dialogue: 0,0:00:51.53,0:00:52.41,OP1,nofx,0,0,0,kara,Psycho cane, you're so keen
-Dialogue: 0,0:00:52.41,0:00:52.53,OP1,static,0,0,0,kara,Psycho cane, you're so keen
-Dialogue: 0,0:00:52.49,0:00:52.62,OP1,static,0,0,0,kara,Need some more candy canes
-Dialogue: 0,0:00:52.62,0:00:53.41,OP1,nofx,0,0,0,kara,Need some more candy canes
-Dialogue: 0,0:00:53.41,0:00:53.53,OP1,static,0,0,0,kara,Need some more candy canes
-Dialogue: 0,0:00:53.45,0:00:53.57,OP1,static,0,0,0,kara,Cold cake, cold break
-Dialogue: 0,0:00:53.57,0:00:54.37,OP1,nofx,0,0,0,kara,Cold cake, cold break
-Dialogue: 0,0:00:54.37,0:00:54.49,OP1,static,0,0,0,kara,Cold cake, cold break
-Dialogue: 0,0:00:54.45,0:00:54.58,OP1,static,0,0,0,kara,Freak, you got a high kick
-Dialogue: 0,0:00:54.58,0:00:55.37,OP1,nofx,0,0,0,kara,Freak, you got a high kick
-Dialogue: 0,0:00:55.37,0:00:55.49,OP1,static,0,0,0,kara,Freak, you got a high kick
-Dialogue: 0,0:00:55.45,0:00:55.58,OP1,static,0,0,0,kara,Mr. Twister
-Dialogue: 0,0:00:55.58,0:00:56.29,OP1,nofx,0,0,0,kara,Mr. Twister
-Dialogue: 0,0:00:56.24,0:00:56.37,OP1,static,0,0,0,kara,Mr. Twister
-Dialogue: 0,0:00:56.33,0:00:56.45,OP1,static,0,0,0,kara,Moist with roistering
-Dialogue: 0,0:00:56.45,0:00:57.29,OP1,nofx,0,0,0,kara,Moist with roistering
-Dialogue: 0,0:00:57.29,0:00:57.41,OP1,static,0,0,0,kara,Moist with roistering
-Dialogue: 0,0:00:57.37,0:00:57.50,OP1,static,0,0,0,kara,Stick it up, take it up
-Dialogue: 0,0:00:57.50,0:00:58.20,OP1,nofx,0,0,0,kara,Stick it up, take it up
-Dialogue: 0,0:00:58.20,0:00:58.33,OP1,static,0,0,0,kara,Stick it up, take it up
-Dialogue: 0,0:00:58.29,0:00:58.41,OP1,static,0,0,0,kara,Step aside and see the world
-Dialogue: 0,0:00:58.41,0:00:59.37,OP1,nofx,0,0,0,kara,Step aside and see the world
-Dialogue: 0,0:00:59.37,0:00:59.50,OP1,static,0,0,0,kara,Step aside and see the world
-Dialogue: 0,0:00:59.46,0:00:59.58,OP1,static,0,0,0,kara,Effect has defects
-Dialogue: 0,0:00:59.58,0:01:00.29,OP1,nofx,0,0,0,kara,Effect has defects
-Dialogue: 0,0:01:00.29,0:01:00.42,OP1,static,0,0,0,kara,Effect has defects
-Dialogue: 0,0:01:00.37,0:01:00.50,OP1,static,0,0,0,kara,Take a bow to the moon
-Dialogue: 0,0:01:00.50,0:01:01.33,OP1,nofx,0,0,0,kara,Take a bow to the moon
-Dialogue: 0,0:01:01.33,0:01:01.46,OP1,static,0,0,0,kara,Take a bow to the moon
-Dialogue: 0,0:01:01.42,0:01:01.54,OP1,static,0,0,0,kara,Morning rays, hairspray Queens
-Dialogue: 0,0:01:01.54,0:01:03.33,OP1,nofx,0,0,0,kara,Morning rays, hairspray Queens
-Dialogue: 0,0:01:03.33,0:01:03.46,OP1,static,0,0,0,kara,Morning rays, hairspray Queens
-Dialogue: 0,0:01:03.42,0:01:03.54,OP1,static,0,0,0,kara,Get on their way to their nests to the west
-Dialogue: 0,0:01:03.54,0:01:05.46,OP1,nofx,0,0,0,kara,Get on their way to their nests to the west
-Dialogue: 0,0:01:05.46,0:01:05.59,OP1,static,0,0,0,kara,Get on their way to their nests to the west
-Dialogue: 0,0:01:05.50,0:01:05.59,OP1,static,0,0,0,kara,Honest, they once had a dream
-Dialogue: 0,0:01:05.63,0:01:07.26,OP1,nofx,0,0,0,kara,Honest, they once had a dream
-Dialogue: 0,0:01:07.26,0:01:07.38,OP1,static,0,0,0,kara,Honest, they once had a dream
-Dialogue: 0,0:01:07.38,0:01:07.51,OP1,static,0,0,0,kara,Belles of society, in the shells of their unity
-Dialogue: 0,0:01:07.51,0:01:09.38,OP1,nofx,0,0,0,kara,Belles of society, in the shells of their unity
-Dialogue: 0,0:01:09.38,0:01:09.47,OP1,static,0,0,0,kara,Belles of society, in the shells of their unity
-Dialogue: 0,0:01:09.47,0:01:09.55,OP1,static,0,0,0,kara,Cornet 'n spinet
-Dialogue: 0,0:01:09.55,0:01:10.38,OP1,nofx,0,0,0,kara,Cornet 'n spinet
-Dialogue: 0,0:01:10.38,0:01:10.50,OP1,static,0,0,0,kara,Cornet 'n spinet
-Dialogue: 0,0:01:10.47,0:01:10.59,OP1,static,0,0,0,kara,The sound flows, follows till they're home
-Dialogue: 0,0:01:10.59,0:01:13.43,OP1,nofx,0,0,0,kara,The sound flows, follows till they're home
-Dialogue: 0,0:01:13.43,0:01:13.55,OP1,static,0,0,0,kara,The sound flows, follows till they're home
-Dialogue: 0,0:01:13.51,0:01:13.64,OP1,static,0,0,0,kara,Dragged by the powers of the dream
-Dialogue: 0,0:01:13.64,0:01:15.05,OP1,nofx,0,0,0,kara,Dragged by the powers of the dream
-Dialogue: 0,0:01:15.05,0:01:15.18,OP1,static,0,0,0,kara,Dragged by the powers of the dream
-Dialogue: 0,0:01:15.14,0:01:15.26,OP1,static,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:15.26,0:01:16.22,OP1,nofx,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:16.22,0:01:17.35,OP1,static,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:25.40,0:01:25.52,OP1,static,0,0,0,kara,Brain ware, main wave
-Dialogue: 0,0:01:25.52,0:01:26.19,OP1,nofx,0,0,0,kara,Brain ware, main wave
-Dialogue: 0,0:01:26.19,0:01:26.32,OP1,static,0,0,0,kara,Brain ware, main wave
-Dialogue: 0,0:01:26.27,0:01:26.40,OP1,static,0,0,0,kara,Psycho got a high kick
-Dialogue: 0,0:01:26.40,0:01:27.32,OP1,nofx,0,0,0,kara,Psycho got a high kick
-Dialogue: 0,0:01:27.32,0:01:27.44,OP1,static,0,0,0,kara,Psycho got a high kick
-Dialogue: 0,0:01:27.40,0:01:27.53,OP1,static,0,0,0,kara,Collect 'n select, 'n show you got best set
-Dialogue: 0,0:01:27.53,0:01:29.40,OP1,nofx,0,0,0,kara,Collect 'n select, 'n show you got best set
-Dialogue: 0,0:01:29.40,0:01:29.53,OP1,static,0,0,0,kara,Collect 'n select, 'n show you got best set
-Dialogue: 0,0:01:29.49,0:01:29.61,OP1,static,0,0,0,kara,Crystals, blisters
-Dialogue: 0,0:01:29.61,0:01:30.24,OP1,nofx,0,0,0,kara,Crystals, blisters
-Dialogue: 0,0:01:30.24,0:01:30.36,OP1,static,0,0,0,kara,Crystals, blisters
-Dialogue: 0,0:01:30.32,0:01:30.45,OP1,static,0,0,0,kara,It's all over now
-Dialogue: 0,0:01:30.45,0:01:31.24,OP1,nofx,0,0,0,kara,It's all over now
-Dialogue: 0,0:01:31.24,0:01:31.36,OP1,static,0,0,0,kara,It's all over now
-Dialogue: 0,0:01:31.32,0:01:31.45,OP1,static,0,0,0,kara,Psycho cane, you're so keen
-Dialogue: 0,0:01:31.45,0:01:32.32,OP1,nofx,0,0,0,kara,Psycho cane, you're so keen
-Dialogue: 0,0:01:32.32,0:01:32.45,OP1,static,0,0,0,kara,Psycho cane, you're so keen
-Dialogue: 0,0:01:32.41,0:01:32.53,OP1,static,0,0,0,kara,Need some more candy canes
-Dialogue: 0,0:01:32.53,0:01:33.32,OP1,nofx,0,0,0,kara,Need some more candy canes
-Dialogue: 0,0:01:33.32,0:01:33.45,OP1,static,0,0,0,kara,Need some more candy canes
-Dialogue: 0,0:01:33.41,0:01:33.53,OP1,static,0,0,0,kara,Cold cake, cold break
-Dialogue: 0,0:01:33.53,0:01:34.24,OP1,nofx,0,0,0,kara,Cold cake, cold break
-Dialogue: 0,0:01:34.24,0:01:34.37,OP1,static,0,0,0,kara,Cold cake, cold break
-Dialogue: 0,0:01:34.32,0:01:34.45,OP1,static,0,0,0,kara,Freak, you got a high kick
-Dialogue: 0,0:01:34.45,0:01:35.37,OP1,nofx,0,0,0,kara,Freak, you got a high kick
-Dialogue: 0,0:01:35.37,0:01:35.49,OP1,static,0,0,0,kara,Freak, you got a high kick
-Dialogue: 0,0:01:35.45,0:01:35.58,OP1,static,0,0,0,kara,Mr. Twister
-Dialogue: 0,0:01:35.58,0:01:36.24,OP1,nofx,0,0,0,kara,Mr. Twister
-Dialogue: 0,0:01:36.24,0:01:36.37,OP1,static,0,0,0,kara,Mr. Twister
-Dialogue: 0,0:01:36.33,0:01:36.45,OP1,static,0,0,0,kara,Moist with roistering
-Dialogue: 0,0:01:36.45,0:01:37.33,OP1,nofx,0,0,0,kara,Moist with roistering
-Dialogue: 0,0:01:37.33,0:01:37.45,OP1,static,0,0,0,kara,Moist with roistering
-Dialogue: 0,0:01:37.41,0:01:37.54,OP1,static,0,0,0,kara,Stick it up, take it up
-Dialogue: 0,0:01:37.54,0:01:38.20,OP1,nofx,0,0,0,kara,Stick it up, take it up
-Dialogue: 0,0:01:38.20,0:01:38.33,OP1,static,0,0,0,kara,Stick it up, take it up
-Dialogue: 0,0:01:38.29,0:01:38.41,OP1,static,0,0,0,kara,Step aside and see the world
-Dialogue: 0,0:01:38.41,0:01:39.25,OP1,nofx,0,0,0,kara,Step aside and see the world
-Dialogue: 0,0:01:39.25,0:01:39.37,OP1,static,0,0,0,kara,Step aside and see the world
-Dialogue: 0,0:01:39.33,0:01:39.45,OP1,static,0,0,0,kara,Effect has defects
-Dialogue: 0,0:01:39.45,0:01:40.25,OP1,nofx,0,0,0,kara,Effect has defects
-Dialogue: 0,0:01:40.25,0:01:40.37,OP1,static,0,0,0,kara,Effect has defects
-Dialogue: 0,0:01:40.33,0:01:40.46,OP1,static,0,0,0,kara,Take a bow to the moon
-Dialogue: 0,0:01:40.46,0:01:41.37,OP1,nofx,0,0,0,kara,Take a bow to the moon
-Dialogue: 0,0:01:41.37,0:01:41.50,OP1,static,0,0,0,kara,Take a bow to the moon
-Dialogue: 0,0:01:41.46,0:01:41.58,OP1,static,0,0,0,kara,Morning rays, hairspray Queens
-Dialogue: 0,0:01:41.58,0:01:43.37,OP1,nofx,0,0,0,kara,Morning rays, hairspray Queens
-Dialogue: 0,0:01:43.37,0:01:43.50,OP1,static,0,0,0,kara,Morning rays, hairspray Queens
-Dialogue: 0,0:01:43.46,0:01:43.58,OP1,static,0,0,0,kara,Get on their way to their nests to the west
-Dialogue: 0,0:01:43.58,0:01:45.34,OP1,nofx,0,0,0,kara,Get on their way to their nests to the west
-Dialogue: 0,0:01:45.34,0:01:45.46,OP1,static,0,0,0,kara,Get on their way to their nests to the west
-Dialogue: 0,0:01:45.42,0:01:45.54,OP1,static,0,0,0,kara,Honest, they once had a dream
-Dialogue: 0,0:01:45.54,0:01:47.17,OP1,nofx,0,0,0,kara,Honest, they once had a dream
-Dialogue: 0,0:01:47.17,0:01:47.30,OP1,static,0,0,0,kara,Honest, they once had a dream
-Dialogue: 0,0:01:47.25,0:01:47.38,OP1,static,0,0,0,kara,Belles of society, in the shells of their unity
-Dialogue: 0,0:01:47.38,0:01:49.34,OP1,nofx,0,0,0,kara,Belles of society, in the shells of their unity
-Dialogue: 0,0:01:49.34,0:01:49.46,OP1,static,0,0,0,kara,Belles of society, in the shells of their unity
-Dialogue: 0,0:01:49.42,0:01:49.55,OP1,static,0,0,0,kara,Cornet 'n spinet
-Dialogue: 0,0:01:49.55,0:01:50.63,OP1,nofx,0,0,0,kara,Cornet 'n spinet
-Dialogue: 0,0:01:50.63,0:01:50.76,OP1,static,0,0,0,kara,Cornet 'n spinet
-Dialogue: 0,0:01:50.72,0:01:50.84,OP1,static,0,0,0,kara,The sound flows, follows till they're home
-Dialogue: 0,0:01:50.84,0:01:53.34,OP1,nofx,0,0,0,kara,The sound flows, follows till they're home
-Dialogue: 0,0:01:53.34,0:01:53.47,OP1,static,0,0,0,kara,The sound flows, follows till they're home
-Dialogue: 0,0:01:53.43,0:01:53.55,OP1,static,0,0,0,kara,Dragged by the powers of the dream
-Dialogue: 0,0:01:53.55,0:01:55.05,OP1,nofx,0,0,0,kara,Dragged by the powers of the dream
-Dialogue: 0,0:01:55.05,0:01:55.18,OP1,static,0,0,0,kara,Dragged by the powers of the dream
-Dialogue: 0,0:01:55.14,0:01:55.26,OP1,static,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:55.26,0:01:56.26,OP1,nofx,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:56.26,0:01:56.30,OP1,static,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:56.30,0:01:56.35,OP1,nofx,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:56.35,0:01:56.39,OP1,static,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:56.39,0:01:56.51,OP1,nofx,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:56.51,0:01:56.68,OP1,static,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:56.68,0:01:56.72,OP1,nofx,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:56.72,0:01:56.76,OP1,static,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:56.76,0:01:56.80,OP1,nofx,0,0,0,kara,That power is yet unknown
-Dialogue: 0,0:01:56.80,0:01:56.97,OP1,static,0,0,0,kara,That power is yet unknown
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function xoff() local t = (loopctx.state.frame - 1)/fdur; local offset = (loopctx.state.static % rnd(-256, 1024)) * math.abs(math.sin(loopctx.state.static)); return offset * t; end
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code line,fdur = aegisub.frame_from_ms(orgline.end_time) - aegisub.frame_from_ms(orgline.start_time)
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code line,_, newlines = orgline.text:gsub("\\N","")
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,colours = {"&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&HFFFFFF&", "&H0000FF&", "&HFF0009&", "&H00FF00&"}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,template line actor static loop static 50 loop frame 1 loop layer 2,!relayer($loop_layer-1)!!maxloop('static', (1+newlines) * line.height+10)!!maxloop('frame', fdur)!!retime('preline',($loop_frame-1) * 1001/24, ($loop_frame) * 1001/24)!
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,template line actor nofx loop layer 2,!relayer($loop_layer-1)!
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line actor static,{!ln.tag.pos(nil,nil, xoff())!\clip(0,!line.bottom-$loop_static+5!,!meta.res_x!,!line.bottom-$loop_static+8!)\4a&H78&}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line actor nofx,{!ln.tag.pos(5,5)!}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line,{\1a&HFE&\3a&HFE&\yshad0.01\4c&H000000&}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line layer 1,{\blur0.7\bord0.6}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line layer 0 actor nofx,{\blur2\4c&HFFFFFF&}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line layer 0 actor static,{\blur2\4c!colours[math.random(1, 20)]!}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,chapter,0,0,0,sync,{OP}
+Dialogue: 0,0:00:08.66,0:00:08.78,OP1,static,0,0,0,kara,What's up, man?
+Dialogue: 0,0:00:08.78,0:00:09.45,OP1,nofx,0,0,0,kara,What's up, man?
+Dialogue: 0,0:00:09.45,0:00:09.57,OP1,static,0,0,0,kara,What's up, man?
+Dialogue: 0,0:00:17.41,0:00:17.54,OP1,static,0,0,0,kara,Brain ware, main wave
+Dialogue: 0,0:00:17.54,0:00:18.08,OP1,nofx,0,0,0,kara,Brain ware, main wave
+Dialogue: 0,0:00:18.08,0:00:18.21,OP1,static,0,0,0,kara,Brain ware, main wave
+Dialogue: 0,0:00:18.16,0:00:18.37,OP1,static,0,0,0,kara,Psycho got a high kick
+Dialogue: 0,0:00:18.37,0:00:19.12,OP1,nofx,0,0,0,kara,Psycho got a high kick
+Dialogue: 0,0:00:19.12,0:00:19.29,OP1,static,0,0,0,kara,Psycho got a high kick
+Dialogue: 0,0:00:19.25,0:00:19.42,OP1,static,0,0,0,kara,Collect 'n select, 'n show you got best set
+Dialogue: 0,0:00:19.42,0:00:21.38,OP1,nofx,0,0,0,kara,Collect 'n select, 'n show you got best set
+Dialogue: 0,0:00:21.38,0:00:21.54,OP1,static,0,0,0,kara,Collect 'n select, 'n show you got best set
+Dialogue: 0,0:00:21.50,0:00:21.67,OP1,static,0,0,0,kara,Crystals, blisters
+Dialogue: 0,0:00:21.67,0:00:22.17,OP1,nofx,0,0,0,kara,Crystals, blisters
+Dialogue: 0,0:00:22.17,0:00:22.34,OP1,static,0,0,0,kara,Crystals, blisters
+Dialogue: 0,0:00:22.29,0:00:22.42,OP1,static,0,0,0,kara,It's all over now
+Dialogue: 0,0:00:22.42,0:00:23.29,OP1,nofx,0,0,0,kara,It's all over now
+Dialogue: 0,0:00:23.29,0:00:23.42,OP1,static,0,0,0,kara,It's all over now
+Dialogue: 0,0:00:23.38,0:00:23.50,OP1,static,0,0,0,kara,Psycho cane, you're so keen
+Dialogue: 0,0:00:23.50,0:00:24.38,OP1,nofx,0,0,0,kara,Psycho cane, you're so keen
+Dialogue: 0,0:00:24.38,0:00:24.50,OP1,static,0,0,0,kara,Psycho cane, you're so keen
+Dialogue: 0,0:00:24.46,0:00:24.59,OP1,static,0,0,0,kara,Need some more candy canes
+Dialogue: 0,0:00:24.59,0:00:25.38,OP1,nofx,0,0,0,kara,Need some more candy canes
+Dialogue: 0,0:00:25.38,0:00:25.51,OP1,static,0,0,0,kara,Need some more candy canes
+Dialogue: 0,0:00:25.42,0:00:25.55,OP1,static,0,0,0,kara,Cold cake, cold break
+Dialogue: 0,0:00:25.55,0:00:26.34,OP1,nofx,0,0,0,kara,Cold cake, cold break
+Dialogue: 0,0:00:26.34,0:00:26.46,OP1,static,0,0,0,kara,Cold cake, cold break
+Dialogue: 0,0:00:26.42,0:00:26.55,OP1,static,0,0,0,kara,Freak, you got a high kick
+Dialogue: 0,0:00:26.55,0:00:27.34,OP1,nofx,0,0,0,kara,Freak, you got a high kick
+Dialogue: 0,0:00:27.34,0:00:27.47,OP1,static,0,0,0,kara,Freak, you got a high kick
+Dialogue: 0,0:00:27.42,0:00:27.55,OP1,static,0,0,0,kara,Mr. Twister
+Dialogue: 0,0:00:27.55,0:00:28.26,OP1,nofx,0,0,0,kara,Mr. Twister
+Dialogue: 0,0:00:28.22,0:00:28.34,OP1,static,0,0,0,kara,Mr. Twister
+Dialogue: 0,0:00:28.30,0:00:28.42,OP1,static,0,0,0,kara,Moist with roistering
+Dialogue: 0,0:00:28.42,0:00:29.26,OP1,nofx,0,0,0,kara,Moist with roistering
+Dialogue: 0,0:00:29.26,0:00:29.38,OP1,static,0,0,0,kara,Moist with roistering
+Dialogue: 0,0:00:29.34,0:00:29.47,OP1,static,0,0,0,kara,Stick it up, take it up
+Dialogue: 0,0:00:29.47,0:00:30.18,OP1,nofx,0,0,0,kara,Stick it up, take it up
+Dialogue: 0,0:00:30.18,0:00:30.30,OP1,static,0,0,0,kara,Stick it up, take it up
+Dialogue: 0,0:00:30.26,0:00:30.39,OP1,static,0,0,0,kara,Step aside and see the world
+Dialogue: 0,0:00:30.39,0:00:31.34,OP1,nofx,0,0,0,kara,Step aside and see the world
+Dialogue: 0,0:00:31.34,0:00:31.47,OP1,static,0,0,0,kara,Step aside and see the world
+Dialogue: 0,0:00:31.43,0:00:31.55,OP1,static,0,0,0,kara,Effect has defects
+Dialogue: 0,0:00:31.55,0:00:32.26,OP1,nofx,0,0,0,kara,Effect has defects
+Dialogue: 0,0:00:32.26,0:00:32.39,OP1,static,0,0,0,kara,Effect has defects
+Dialogue: 0,0:00:32.35,0:00:32.47,OP1,static,0,0,0,kara,Take a bow to the moon
+Dialogue: 0,0:00:32.47,0:00:33.30,OP1,nofx,0,0,0,kara,Take a bow to the moon
+Dialogue: 0,0:00:33.30,0:00:33.43,OP1,static,0,0,0,kara,Take a bow to the moon
+Dialogue: 0,0:00:33.39,0:00:33.51,OP1,static,0,0,0,kara,Morning rays, hairspray Queens
+Dialogue: 0,0:00:33.51,0:00:35.31,OP1,nofx,0,0,0,kara,Morning rays, hairspray Queens
+Dialogue: 0,0:00:35.31,0:00:35.43,OP1,static,0,0,0,kara,Morning rays, hairspray Queens
+Dialogue: 0,0:00:35.39,0:00:35.52,OP1,static,0,0,0,kara,Get on their way to their nests to the west
+Dialogue: 0,0:00:35.52,0:00:37.43,OP1,nofx,0,0,0,kara,Get on their way to their nests to the west
+Dialogue: 0,0:00:37.43,0:00:37.56,OP1,static,0,0,0,kara,Get on their way to their nests to the west
+Dialogue: 0,0:00:37.48,0:00:37.56,OP1,static,0,0,0,kara,Honest, they once had a dream
+Dialogue: 0,0:00:37.60,0:00:39.23,OP1,nofx,0,0,0,kara,Honest, they once had a dream
+Dialogue: 0,0:00:39.23,0:00:39.35,OP1,static,0,0,0,kara,Honest, they once had a dream
+Dialogue: 0,0:00:39.35,0:00:39.48,OP1,static,0,0,0,kara,Belles of society, in the shells of their unity
+Dialogue: 0,0:00:39.48,0:00:41.35,OP1,nofx,0,0,0,kara,Belles of society, in the shells of their unity
+Dialogue: 0,0:00:41.35,0:00:41.44,OP1,static,0,0,0,kara,Belles of society, in the shells of their unity
+Dialogue: 0,0:00:41.44,0:00:41.52,OP1,static,0,0,0,kara,Cornet 'n spinet
+Dialogue: 0,0:00:41.52,0:00:42.36,OP1,nofx,0,0,0,kara,Cornet 'n spinet
+Dialogue: 0,0:00:42.36,0:00:42.48,OP1,static,0,0,0,kara,Cornet 'n spinet
+Dialogue: 0,0:00:42.44,0:00:42.56,OP1,static,0,0,0,kara,The sound flows, follows till they're home
+Dialogue: 0,0:00:42.56,0:00:45.40,OP1,nofx,0,0,0,kara,The sound flows, follows till they're home
+Dialogue: 0,0:00:45.40,0:00:45.53,OP1,static,0,0,0,kara,The sound flows, follows till they're home
+Dialogue: 0,0:00:45.48,0:00:45.61,OP1,static,0,0,0,kara,Dragged by the powers of the dream
+Dialogue: 0,0:00:45.61,0:00:47.03,OP1,nofx,0,0,0,kara,Dragged by the powers of the dream
+Dialogue: 0,0:00:47.03,0:00:47.15,OP1,static,0,0,0,kara,Dragged by the powers of the dream
+Dialogue: 0,0:00:47.11,0:00:47.24,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:00:47.24,0:00:48.19,OP1,nofx,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:00:48.19,0:00:49.32,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:00:57.37,0:00:57.50,OP1,static,0,0,0,kara,Brain ware, main wave
+Dialogue: 0,0:00:57.50,0:00:58.16,OP1,nofx,0,0,0,kara,Brain ware, main wave
+Dialogue: 0,0:00:58.16,0:00:58.29,OP1,static,0,0,0,kara,Brain ware, main wave
+Dialogue: 0,0:00:58.25,0:00:58.37,OP1,static,0,0,0,kara,Psycho got a high kick
+Dialogue: 0,0:00:58.37,0:00:59.29,OP1,nofx,0,0,0,kara,Psycho got a high kick
+Dialogue: 0,0:00:59.29,0:00:59.41,OP1,static,0,0,0,kara,Psycho got a high kick
+Dialogue: 0,0:00:59.37,0:00:59.50,OP1,static,0,0,0,kara,Collect 'n select, 'n show you got best set
+Dialogue: 0,0:00:59.50,0:01:01.37,OP1,nofx,0,0,0,kara,Collect 'n select, 'n show you got best set
+Dialogue: 0,0:01:01.37,0:01:01.50,OP1,static,0,0,0,kara,Collect 'n select, 'n show you got best set
+Dialogue: 0,0:01:01.46,0:01:01.58,OP1,static,0,0,0,kara,Crystals, blisters
+Dialogue: 0,0:01:01.58,0:01:02.21,OP1,nofx,0,0,0,kara,Crystals, blisters
+Dialogue: 0,0:01:02.21,0:01:02.33,OP1,static,0,0,0,kara,Crystals, blisters
+Dialogue: 0,0:01:02.29,0:01:02.42,OP1,static,0,0,0,kara,It's all over now
+Dialogue: 0,0:01:02.42,0:01:03.21,OP1,nofx,0,0,0,kara,It's all over now
+Dialogue: 0,0:01:03.21,0:01:03.33,OP1,static,0,0,0,kara,It's all over now
+Dialogue: 0,0:01:03.29,0:01:03.42,OP1,static,0,0,0,kara,Psycho cane, you're so keen
+Dialogue: 0,0:01:03.42,0:01:04.29,OP1,nofx,0,0,0,kara,Psycho cane, you're so keen
+Dialogue: 0,0:01:04.29,0:01:04.42,OP1,static,0,0,0,kara,Psycho cane, you're so keen
+Dialogue: 0,0:01:04.38,0:01:04.50,OP1,static,0,0,0,kara,Need some more candy canes
+Dialogue: 0,0:01:04.50,0:01:05.30,OP1,nofx,0,0,0,kara,Need some more candy canes
+Dialogue: 0,0:01:05.30,0:01:05.42,OP1,static,0,0,0,kara,Need some more candy canes
+Dialogue: 0,0:01:05.38,0:01:05.50,OP1,static,0,0,0,kara,Cold cake, cold break
+Dialogue: 0,0:01:05.50,0:01:06.21,OP1,nofx,0,0,0,kara,Cold cake, cold break
+Dialogue: 0,0:01:06.21,0:01:06.34,OP1,static,0,0,0,kara,Cold cake, cold break
+Dialogue: 0,0:01:06.30,0:01:06.42,OP1,static,0,0,0,kara,Freak, you got a high kick
+Dialogue: 0,0:01:06.42,0:01:07.34,OP1,nofx,0,0,0,kara,Freak, you got a high kick
+Dialogue: 0,0:01:07.34,0:01:07.46,OP1,static,0,0,0,kara,Freak, you got a high kick
+Dialogue: 0,0:01:07.42,0:01:07.55,OP1,static,0,0,0,kara,Mr. Twister
+Dialogue: 0,0:01:07.55,0:01:08.21,OP1,nofx,0,0,0,kara,Mr. Twister
+Dialogue: 0,0:01:08.21,0:01:08.34,OP1,static,0,0,0,kara,Mr. Twister
+Dialogue: 0,0:01:08.30,0:01:08.42,OP1,static,0,0,0,kara,Moist with roistering
+Dialogue: 0,0:01:08.42,0:01:09.30,OP1,nofx,0,0,0,kara,Moist with roistering
+Dialogue: 0,0:01:09.30,0:01:09.42,OP1,static,0,0,0,kara,Moist with roistering
+Dialogue: 0,0:01:09.38,0:01:09.51,OP1,static,0,0,0,kara,Stick it up, take it up
+Dialogue: 0,0:01:09.51,0:01:10.17,OP1,nofx,0,0,0,kara,Stick it up, take it up
+Dialogue: 0,0:01:10.17,0:01:10.30,OP1,static,0,0,0,kara,Stick it up, take it up
+Dialogue: 0,0:01:10.26,0:01:10.38,OP1,static,0,0,0,kara,Step aside and see the world
+Dialogue: 0,0:01:10.38,0:01:11.22,OP1,nofx,0,0,0,kara,Step aside and see the world
+Dialogue: 0,0:01:11.22,0:01:11.34,OP1,static,0,0,0,kara,Step aside and see the world
+Dialogue: 0,0:01:11.30,0:01:11.43,OP1,static,0,0,0,kara,Effect has defects
+Dialogue: 0,0:01:11.43,0:01:12.22,OP1,nofx,0,0,0,kara,Effect has defects
+Dialogue: 0,0:01:12.22,0:01:12.34,OP1,static,0,0,0,kara,Effect has defects
+Dialogue: 0,0:01:12.30,0:01:12.43,OP1,static,0,0,0,kara,Take a bow to the moon
+Dialogue: 0,0:01:12.43,0:01:13.34,OP1,nofx,0,0,0,kara,Take a bow to the moon
+Dialogue: 0,0:01:13.34,0:01:13.47,OP1,static,0,0,0,kara,Take a bow to the moon
+Dialogue: 0,0:01:13.43,0:01:13.55,OP1,static,0,0,0,kara,Morning rays, hairspray Queens
+Dialogue: 0,0:01:13.55,0:01:15.35,OP1,nofx,0,0,0,kara,Morning rays, hairspray Queens
+Dialogue: 0,0:01:15.35,0:01:15.47,OP1,static,0,0,0,kara,Morning rays, hairspray Queens
+Dialogue: 0,0:01:15.43,0:01:15.56,OP1,static,0,0,0,kara,Get on their way to their nests to the west
+Dialogue: 0,0:01:15.56,0:01:17.31,OP1,nofx,0,0,0,kara,Get on their way to their nests to the west
+Dialogue: 0,0:01:17.31,0:01:17.43,OP1,static,0,0,0,kara,Get on their way to their nests to the west
+Dialogue: 0,0:01:17.39,0:01:17.52,OP1,static,0,0,0,kara,Honest, they once had a dream
+Dialogue: 0,0:01:17.52,0:01:19.14,OP1,nofx,0,0,0,kara,Honest, they once had a dream
+Dialogue: 0,0:01:19.14,0:01:19.27,OP1,static,0,0,0,kara,Honest, they once had a dream
+Dialogue: 0,0:01:19.23,0:01:19.35,OP1,static,0,0,0,kara,Belles of society, in the shells of their unity
+Dialogue: 0,0:01:19.35,0:01:21.31,OP1,nofx,0,0,0,kara,Belles of society, in the shells of their unity
+Dialogue: 0,0:01:21.31,0:01:21.44,OP1,static,0,0,0,kara,Belles of society, in the shells of their unity
+Dialogue: 0,0:01:21.39,0:01:21.52,OP1,static,0,0,0,kara,Cornet 'n spinet
+Dialogue: 0,0:01:21.52,0:01:22.60,OP1,nofx,0,0,0,kara,Cornet 'n spinet
+Dialogue: 0,0:01:22.60,0:01:22.73,OP1,static,0,0,0,kara,Cornet 'n spinet
+Dialogue: 0,0:01:22.69,0:01:22.81,OP1,static,0,0,0,kara,The sound flows, follows till they're home
+Dialogue: 0,0:01:22.81,0:01:25.32,OP1,nofx,0,0,0,kara,The sound flows, follows till they're home
+Dialogue: 0,0:01:25.32,0:01:25.44,OP1,static,0,0,0,kara,The sound flows, follows till they're home
+Dialogue: 0,0:01:25.40,0:01:25.52,OP1,static,0,0,0,kara,Dragged by the powers of the dream
+Dialogue: 0,0:01:25.52,0:01:27.03,OP1,nofx,0,0,0,kara,Dragged by the powers of the dream
+Dialogue: 0,0:01:27.03,0:01:27.15,OP1,static,0,0,0,kara,Dragged by the powers of the dream
+Dialogue: 0,0:01:27.11,0:01:27.23,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:27.23,0:01:28.23,OP1,nofx,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:28.23,0:01:28.28,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:28.28,0:01:28.32,OP1,nofx,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:28.32,0:01:28.36,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:28.36,0:01:28.48,OP1,nofx,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:28.48,0:01:28.65,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:28.65,0:01:28.69,OP1,nofx,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:28.69,0:01:28.74,OP1,static,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:28.74,0:01:28.78,OP1,nofx,0,0,0,kara,That power is yet unknown
+Dialogue: 0,0:01:28.78,0:01:28.94,OP1,static,0,0,0,kara,That power is yet unknown

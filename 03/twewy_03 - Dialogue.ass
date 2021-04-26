@@ -17,9 +17,7 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
-
 Dialogue: 0,0:00:21.31,0:00:24.31,Default,,0,0,0,,So, Players in the Reapers' Game,\Ndead people,
-Dialogue: 0,0:00:24.31,0:00:25.73,Default,,0,0,0,,
 Dialogue: 0,0:00:25.73,0:00:28.65,Default,,0,0,0,,are assembled in the Underground?
 Dialogue: 0,0:00:30.32,0:00:32.24,Default,,0,0,0,,She's dead, and so am I.
 Dialogue: 0,0:00:32.24,0:00:35.20,Default,,0,0,0,,We're in this game for a second chance.
@@ -61,7 +59,6 @@ Dialogue: 0,0:02:35.44,0:02:36.49,Default,,0,0,0,,--They must be around here som
 Dialogue: 0,0:02:36.49,0:02:37.99,Default,,0,0,0,,--What will I do if I survive?\N--They must be around here somewhere.
 Dialogue: 0,0:02:37.99,0:02:40.07,Default,,0,0,0,,--What will I do if I survive?
 Dialogue: 0,0:04:14.67,0:04:15.42,Default,,0,0,0,,Smooth sailing, I see.
-Dialogue: 0,0:04:15.42,0:04:16.08,Default,,0,0,0,,
 Dialogue: 0,0:04:16.08,0:04:17.67,Default,,0,0,0,,Yes, sir!
 Dialogue: 0,0:04:17.67,0:04:19.55,Default,,0,0,0,,Four Players remain.
 Dialogue: 0,0:04:19.55,0:04:22.93,Default,,0,0,0,,I'll cook them all up\Nbefore tomorrow's out.
@@ -70,7 +67,6 @@ Dialogue: 0,0:04:24.64,0:04:27.64,Default,,0,0,0,,I won't fail you.
 Dialogue: 0,0:04:27.64,0:04:31.52,Default,,0,0,0,,When this game ends,\Nyou'll officially be...
 Dialogue: 0,0:04:31.52,0:04:33.64,Default,,0,0,0,,I am grateful and delighted.
 Dialogue: 0,0:04:35.85,0:04:38.27,Default,,0,0,0,,Oh! Beat! Rhyme!
-Dialogue: 0,0:04:38.27,0:04:39.02,Default,,0,0,0,,
 Dialogue: 0,0:04:39.02,0:04:40.86,Default,,0,0,0,,Over here!
 Dialogue: 0,0:04:40.86,0:04:44.82,Default,,0,0,0,,Don't shout so loud. It's embarrassing.
 Dialogue: 0,0:04:44.82,0:04:46.70,Default,,0,0,0,,Sorry about that.

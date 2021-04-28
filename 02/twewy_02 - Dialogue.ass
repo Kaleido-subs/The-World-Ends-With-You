@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
 Scroll Position: 191
-Active Line: 198
-Video Position: 16931
+Active Line: 202
+Video Position: 17286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -152,12 +152,12 @@ Dialogue: 69,0:07:21.42,0:07:23.88,Default,,0,0,0,,If you survive these seven da
 Dialogue: 69,0:07:23.88,0:07:26.88,Default,,0,0,0,,will your dream come true?
 Dialogue: 69,0:07:29.72,0:07:32.89,Default,,0,0,0,,"Free Spain Hill from the Noise"?
 Dialogue: 69,0:07:35.81,0:07:39.23,Default,,0,0,0,,Enough is enough!{&&& can't think of anything else here}
-Dialogue: 69,0:07:43.99,0:07:45.40,Default,,0,0,0,,There's no end to 'em! 
+Dialogue: 69,0:07:43.99,0:07:45.40,Default,,0,0,0,,There's no end to 'em!
 Dialogue: 69,0:07:46.03,0:07:48.20,Default,,0,0,0,,Maybe the Noise is being attracted to someone?
 Dialogue: 69,0:07:49.66,0:07:51.45,Default,,0,0,0,,Neku! Those two!
 Dialogue: 69,0:07:51.45,0:07:53.87,Default,,0,0,0,,Are you mad at me, Ai?
 Dialogue: 69,0:07:53.87,0:07:55.12,Default,,0,0,0,,I told you already, I'm fine.
-Dialogue: 69,0:07:55.75,0:07:57.96,Default,,0,0,0,,Lies! You're 100% mad at me! 
+Dialogue: 69,0:07:55.75,0:07:57.96,Default,,0,0,0,,Lies! You're 100% mad at me!
 Dialogue: 69,0:07:57.96,0:07:59.50,Default,,0,0,0,,What makes you think im lying?!
 Dialogue: 69,0:07:59.50,0:08:01.50,Default,,0,0,0,,I'm telling you, I'm not mad!
 Dialogue: 69,0:07:59.50,0:08:01.50,Default,,0,0,0,,{\an8}There's so much Noise!
@@ -226,10 +226,10 @@ Dialogue: 69,0:11:33.96,0:11:36.34,Default,,0,0,0,,Not much help? What's wrongâ€
 Dialogue: 69,0:11:38.22,0:11:41.89,Default,,0,0,0,,"Monopolize the Scramble Crossing view at 3:00."
 Dialogue: 69,0:11:41.89,0:11:43.35,Default,,0,0,0,,"Monopolize the view"?
 Dialogue: 69,0:11:43.35,0:11:45.02,Default,,0,0,0,,Three hours from now?
-Dialogue: 69,0:11:46.14,0:11:48.94,Default,,0,0,0,,No matter how you look at it, that's just not enough time!
-Dialogue: 69,0:11:48.94,0:11:51.48,Default,,0,0,0,,Come on, Makoto. I know you'll make it work.
-Dialogue: 69,0:11:51.77,0:11:55.90,Default,,0,0,0,,We're playing the ad here at 3 p.m.\NIt's already been scheduled.
-Dialogue: 69,0:11:56.32,0:12:00.95,Default,,0,0,0,,Set things up so everyone's eyes are locked on it for me, okay?
+Dialogue: 69,0:11:46.14,0:11:48.94,Default,,0,0,0,,That doesn't seem possible, it's simply not enough time!
+Dialogue: 69,0:11:48.94,0:11:51.48,Default,,0,0,0,,Come on, Makoto. \NI'm counting on you to make it work
+Dialogue: 69,0:11:51.77,0:11:55.90,Default,,0,0,0,,We've already scheduled the ad to be played on the big screen at 3 P.M.
+Dialogue: 69,0:11:56.32,0:12:00.95,Default,,0,0,0,,Could you set it up so that everyone's eyes are locked on the screen for me, please?
 Dialogue: 69,0:12:00.95,0:12:05.54,Default,,0,0,0,,B-But if we just play the video, everyone will walk right by it.
 Dialogue: 69,0:12:05.54,0:12:08.25,Default,,0,0,0,,Hey, could that be today's mission?
 Dialogue: 69,0:12:10.29,0:12:11.09,Default,,0,0,0,,Hey.

@@ -17,9 +17,9 @@ Video File: ../../twewy_02v2 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 189
-Active Line: 193
-Video Position: 31400
+Scroll Position: 194
+Active Line: 195
+Video Position: 16741
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -223,8 +223,8 @@ Dialogue: 69,0:11:27.79,0:11:29.67,Default,,0,0,0,,Hey, are you doing okay?
 Dialogue: 69,0:11:30.13,0:11:31.09,Default,,0,0,0,,Sorry.
 Dialogue: 69,0:11:31.09,0:11:33.96,Default,,0,0,0,,I might not be much help today.
 Dialogue: 69,0:11:33.96,0:11:36.34,Default,,0,0,0,,Not much help? What's wrong—?
-Dialogue: 69,0:11:38.22,0:11:41.89,Default,,0,0,0,,"Dominate the Scramble Crossing view at 3 P.M."
-Dialogue: 69,0:11:41.89,0:11:43.35,Default,,0,0,0,,"Dominate the view"?
+Dialogue: 69,0:11:38.22,0:11:41.89,Default,,0,0,0,,"Monopolise the Scramble Crossing view at 3 P.M."{&&& for QC}
+Dialogue: 69,0:11:41.89,0:11:43.35,Default,,0,0,0,,"Monopolise the view"?
 Dialogue: 69,0:11:43.35,0:11:45.02,Default,,0,0,0,,Three hours from now?
 Dialogue: 69,0:11:46.14,0:11:48.94,Default,,0,0,0,,That doesn't seem possible, it's simply not enough time!
 Dialogue: 69,0:11:48.94,0:11:51.48,Default,,0,0,0,,Come on, Makoto. \NI'm counting on you to make it work.

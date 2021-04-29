@@ -17,9 +17,9 @@ Video File: ../../twewy_02v2 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 191
-Active Line: 202
-Video Position: 17286
+Scroll Position: 377
+Active Line: 382
+Video Position: 31400
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -231,177 +231,177 @@ Dialogue: 69,0:11:48.94,0:11:51.48,Default,,0,0,0,,Come on, Makoto. \NI'm counti
 Dialogue: 69,0:11:51.77,0:11:55.90,Default,,0,0,0,,We've already scheduled the ad to be played on the big screen at 3 P.M.
 Dialogue: 69,0:11:56.32,0:12:00.95,Default,,0,0,0,,Could you set it up so that everyone's eyes are locked on the screen for me, please?
 Dialogue: 69,0:12:00.95,0:12:05.54,Default,,0,0,0,,B-But if we just play the video, everyone will walk right by it.
-Dialogue: 69,0:12:05.54,0:12:08.25,Default,,0,0,0,,Hey, could that be today's mission?
+Dialogue: 69,0:12:05.54,0:12:08.25,Default,,0,0,0,,Hey, do you reckon that \Nmight be today's mission?
 Dialogue: 69,0:12:10.29,0:12:11.09,Default,,0,0,0,,Hey.
 Dialogue: 69,0:12:11.09,0:12:12.92,Default,,0,0,0,,Oh, sorry.
-Dialogue: 69,0:12:12.92,0:12:14.30,Default,,0,0,0,,I was spacing out.
-Dialogue: 69,0:12:15.34,0:12:17.84,Default,,0,0,0,,Because of that girl we passed by?
+Dialogue: 69,0:12:12.92,0:12:14.30,Default,,0,0,0,,I was spaced out.
+Dialogue: 69,0:12:15.34,0:12:17.84,Default,,0,0,0,,Is it 'cause of that girl we passed by?
 Dialogue: 69,0:12:19.30,0:12:20.39,Default,,0,0,0,,Yeah.
-Dialogue: 69,0:12:20.89,0:12:24.01,Default,,0,0,0,,That was Eri. The one I told you about.
+Dialogue: 69,0:12:20.89,0:12:24.01,Default,,0,0,0,,That was Eri. My friend I told you about.
 Dialogue: 69,0:12:24.68,0:12:28.94,Default,,0,0,0,,She's cute, and smart, and everyone likes her.
-Dialogue: 69,0:12:29.40,0:12:32.98,Default,,0,0,0,,I... wished I could be her.
-Dialogue: 69,0:12:36.40,0:12:39.07,Default,,0,0,0,,That makes no sense to me.
-Dialogue: 69,0:12:40.78,0:12:46.70,Default,,0,0,0,,Didn't you say you wanted to cheer people up with the clothes you made?
+Dialogue: 69,0:12:29.40,0:12:32.98,Default,,0,0,0,,I... envied everything about her.
+Dialogue: 69,0:12:36.40,0:12:39.07,Default,,0,0,0,,That doesn't make any sense to me.
+Dialogue: 69,0:12:40.78,0:12:46.70,Default,,0,0,0,,Didn't you say that your dream was to \Ncheer people up with the clothes you make?
 Dialogue: 69,0:12:47.66,0:12:48.75,Default,,0,0,0,,I...
 Dialogue: 69,0:12:49.50,0:12:50.33,Default,,0,0,0,,Shiki.
-Dialogue: 69,0:12:51.67,0:12:55.09,Default,,0,0,0,,I think you're fine just the way you are.
-Dialogue: 69,0:12:56.59,0:12:58.09,Default,,0,0,0,,Let's clear this mission.
+Dialogue: 69,0:12:51.67,0:12:55.09,Default,,0,0,0,,I think that you're fine the way you are now.
+Dialogue: 69,0:12:56.59,0:12:58.09,Default,,0,0,0,,Now, let's clear this mission.
 Dialogue: 69,0:13:02.09,0:13:03.22,Default,,0,0,0,,Yeah.
-Dialogue: 69,0:13:05.81,0:13:08.52,Default,,0,0,0,,But how exactly are we gonna clear this mission?
-Dialogue: 69,0:13:08.52,0:13:10.39,Default,,0,0,0,,We use Eiji Oji.
-Dialogue: 69,0:13:10.39,0:13:12.69,Default,,0,0,0,,Everyone will listen if it comes from his mouth.
-Dialogue: 69,0:13:12.69,0:13:14.86,Default,,0,0,0,,This water's totes delicious.
-Dialogue: 69,0:13:14.86,0:13:16.86,Default,,0,0,0,,The Prince knows his stuff!
+Dialogue: 69,0:13:05.81,0:13:08.52,Default,,0,0,0,,But how exactly are we gonna clear this mission? 
+Dialogue: 69,0:13:08.52,0:13:10.39,Default,,0,0,0,,We're gonna use Eiji Oji.
+Dialogue: 69,0:13:10.39,0:13:12.69,Default,,0,0,0,,Everyone will follow if it comes from his mouth. 
+Dialogue: 69,0:13:12.69,0:13:14.86,Default,,0,0,0,,This water is totes delicious.
+Dialogue: 69,0:13:14.86,0:13:16.86,Default,,0,0,0,,The Prince sure knows his stuff!
 Dialogue: 69,0:13:16.86,0:13:19.53,Default,,0,0,0,,That's that water from yesterday, right?
-Dialogue: 69,0:13:19.53,0:13:23.62,Default,,0,0,0,,Yup. We might learn something about Oji if we scan them.
-Dialogue: 69,0:13:17.61,0:13:19.53,Default,,0,0,0,,{\an8}It's just water, right?
+Dialogue: 69,0:13:19.53,0:13:23.62,Default,,0,0,0,,Yup. We should scan them and see if we can learn some more about Oji.
+Dialogue: 69,0:13:17.61,0:13:19.53,Default,,0,0,0,,{\an8}It's just water though, right?
 Dialogue: 69,0:13:19.53,0:13:21.95,Default,,0,0,0,,{\an8}I only got it because you waited in line for me, Sota.
-Dialogue: 69,0:13:21.95,0:13:23.62,Default,,0,0,0,,{\an8}I'm like, super happy now.
+Dialogue: 69,0:13:21.95,0:13:23.62,Default,,0,0,0,,{\an8}I'm like, uber happy now.
 Dialogue: 69,0:13:23.62,0:13:24.74,Default,,0,0,0,,{\an8}R-Really?
 Dialogue: 69,0:13:24.74,0:13:26.79,Default,,0,0,0,,Thanks, Sota.
-Dialogue: 69,0:13:29.04,0:13:32.04,Default,,0,0,0,,Looks like Oji's holding an event at AMX later.
-Dialogue: 69,0:13:34.25,0:13:36.21,Default,,0,0,0,,We're giving out all of these?
+Dialogue: 69,0:13:29.04,0:13:32.04,Default,,0,0,0,,Looks like Oji's gonna hold an event at AMX later.
+Dialogue: 69,0:13:34.25,0:13:36.21,Default,,0,0,0,,We've gotta give all these out?
 Dialogue: 69,0:13:36.21,0:13:37.09,Default,,0,0,0,,You got it.
 Dialogue: 69,0:13:37.09,0:13:40.34,Default,,0,0,0,,The higher ups are pressuring me to spread 'em around.
 Dialogue: 69,0:13:40.34,0:13:42.30,Default,,0,0,0,,That aside...
-Dialogue: 69,0:13:42.30,0:13:45.43,Default,,0,0,0,,...these things look like red skulls.
+Dialogue: 69,0:13:42.30,0:13:45.43,Default,,0,0,0,,...why do these things look like red skulls.
 Dialogue: 69,0:13:46.56,0:13:47.51,Default,,0,0,0,,Damn!
-Dialogue: 69,0:13:48.06,0:13:50.39,Default,,0,0,0,,Why's there another wall here?!
+Dialogue: 69,0:13:48.06,0:13:50.39,Default,,0,0,0,,Why's there another damn wall here?!
 Dialogue: 69,0:13:50.39,0:13:52.56,Default,,0,0,0,,We're already short on time!
-Dialogue: 69,0:13:52.56,0:13:55.61,Default,,0,0,0,,I wonder what we have to do to open it.
-Dialogue: 69,0:13:56.57,0:13:58.36,Default,,0,0,0,,There's no Noise around, either.
+Dialogue: 69,0:13:52.56,0:13:55.61,Default,,0,0,0,,I wonder what the requirements to open this are. 
+Dialogue: 69,0:13:56.57,0:13:58.36,Default,,0,0,0,,Not like there's Noise around, either.
 Dialogue: 69,0:13:59.57,0:14:01.57,Default,,0,0,0,,Huh? What?
-Dialogue: 69,0:14:02.28,0:14:04.57,Default,,0,0,0,,The requirements have been met.
+Dialogue: 69,0:14:02.28,0:14:04.57,Default,,0,0,0,,Requirements met.
 Dialogue: 69,0:14:04.57,0:14:06.45,Default,,0,0,0,,Wall clear.
 Dialogue: 69,0:14:08.91,0:14:10.62,Default,,0,0,0,,The wall's gone.
-Dialogue: 69,0:14:10.62,0:14:13.21,Default,,0,0,0,,Go forth. Keep that pin safe.
+Dialogue: 69,0:14:10.62,0:14:13.21,Default,,0,0,0,,You may pass. Keep that pin safe.
 Dialogue: 69,0:14:13.21,0:14:13.54,Default,,0,0,0,,Huh?
 Dialogue: 69,0:14:16.96,0:14:18.17,Default,,0,0,0,,What was that about?
-Dialogue: 69,0:14:18.17,0:14:21.84,Default,,0,0,0,,He told me to "keep that pin safe", right?
-Dialogue: 69,0:14:21.84,0:14:25.09,Default,,0,0,0,,There was light coming out of my pocket just now.
+Dialogue: 69,0:14:18.17,0:14:21.84,Default,,0,0,0,,He said to "keep that pin safe", right?
+Dialogue: 69,0:14:21.84,0:14:25.09,Default,,0,0,0,,There was a flash of light from my pocket just now.
 Dialogue: 69,0:14:25.09,0:14:28.76,Default,,0,0,0,,What pins do I have that you don't?
-Dialogue: 69,0:14:28.76,0:14:31.52,Default,,0,0,0,,Probably that pin you got from that Reaper— the one in the band.
+Dialogue: 69,0:14:28.76,0:14:31.52,Default,,0,0,0,,Probs' that pin you got from that Reaper— the one in the band.
 Dialogue: 69,0:14:32.23,0:14:34.02,Default,,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(16,308,\3c&H000000&\4c&H000000&)}Oh, that one!
 Dialogue: 69,0:14:35.98,0:14:39.07,Default,,0,0,0,,Still, 777 is a Reaper, right?
-Dialogue: 69,0:14:39.57,0:14:42.69,Default,,0,0,0,,I wonder if that means some Reapers are good guys.
+Dialogue: 69,0:14:39.57,0:14:42.69,Default,,0,0,0,,Does that mean that some Reapers are chill?
 Dialogue: 69,0:14:42.69,0:14:43.36,Default,,0,0,0,,Huh?
-Dialogue: 69,0:14:44.36,0:14:47.49,Default,,0,0,0,,Why've you got two Player pins, Neku?
-Dialogue: 69,0:14:47.49,0:14:50.66,Default,,0,0,0,,Player Pins are supposed to be one per person.
-Dialogue: 69,0:14:50.66,0:14:55.62,Default,,0,0,0,,How should I know? I don't even know why I'm playing this game.
+Dialogue: 69,0:14:44.36,0:14:47.49,Default,,0,0,0,,When did you get two Player pins, Neku?
+Dialogue: 69,0:14:47.49,0:14:50.66,Default,,0,0,0,,Each Player is only supposed to have two pins.
+Dialogue: 69,0:14:50.66,0:14:55.62,Default,,0,0,0,,How would I know? I don't even know why I'm playing this game.
 Dialogue: 69,0:14:55.62,0:14:57.71,Default,,0,0,0,,Oh, umm...
-Dialogue: 69,0:14:57.71,0:15:00.13,Default,,0,0,0,,Having two might come in handy!
-Dialogue: 69,0:15:00.13,0:15:05.38,Default,,0,0,0,,Like, if you put the spare pin in your chest pocket, it might stop a bullet, or something!
+Dialogue: 69,0:14:57.71,0:15:00.13,Default,,0,0,0,,Having two might come in handy!{oof this some foreshadowing}
+Dialogue: 69,0:15:00.13,0:15:05.38,Default,,0,0,0,,Like, maybe if you put the extra one in your chest pocket, it might stop a bullet someday!
 Dialogue: 69,0:15:07.55,0:15:09.43,Default,,0,0,0,,Seems like you're back to normal. {Alternatively; "Thats more like the Shiki I know."}
 Dialogue: 69,0:15:09.43,0:15:10.68,Default,,0,0,0,,Huh? What?
-Dialogue: 69,0:15:11.77,0:15:14.27,Default,,0,0,0,,Hey, Neku, what do you mean?
-Dialogue: 69,0:15:24.57,0:15:26.41,Default,,0,0,0,,Thank you for today!
+Dialogue: 69,0:15:11.77,0:15:14.27,Default,,0,0,0,,Hey, Neku! What's that supposed to mean?
+Dialogue: 69,0:15:24.57,0:15:26.41,Default,,0,0,0,,Thank you all for coming today!
 Dialogue: 69,0:15:27.24,0:15:28.24,Default,,0,0,0,,Last night,
-Dialogue: 69,0:15:28.99,0:15:32.74,Default,,0,0,0,,I was lost in thought, drinking this delicious water, {Thirst-quenching can replace delicious here}
-Dialogue: 69,0:15:33.29,0:15:34.66,Default,,0,0,0,,when it hit me.
+Dialogue: 69,0:15:28.99,0:15:32.74,Default,,0,0,0,,I was lost in thought, drinking this envigorating water, {Thirst-quenching can replace delicious here}
+Dialogue: 69,0:15:33.29,0:15:34.66,Default,,0,0,0,,I had a flash of genius.
 Dialogue: 69,0:15:35.83,0:15:38.17,Default,,0,0,0,,Red Skull pins!
-Dialogue: 69,0:15:38.88,0:15:41.96,Default,,0,0,0,,What would happen if you all put these on, I wonder?
-Dialogue: 69,0:15:41.96,0:15:43.21,Default,,0,0,0,,We made it.
-Dialogue: 69,0:15:44.47,0:15:48.18,Default,,0,0,0,,Why, it'd be the birth of a new trend!
-Dialogue: 69,0:15:48.18,0:15:51.89,Default,,0,0,0,,Come on, everybody! Let's start a trend together!
+Dialogue: 69,0:15:38.88,0:15:41.96,Default,,0,0,0,,Wouldn't it be amazing if you all put these on, I wonder?
+Dialogue: 69,0:15:41.96,0:15:43.21,Default,,0,0,0,,We're just in time.
+Dialogue: 69,0:15:44.47,0:15:48.18,Default,,0,0,0,,Why, I think it'd be the birth of a new trend!
+Dialogue: 69,0:15:48.18,0:15:51.89,Default,,0,0,0,,Come on, everybody! \NLet's all start a new trend together!
 Dialogue: 69,0:15:51.10,0:15:51.89,Alt,,0,0,0,,Okay.
 Dialogue: 69,0:15:52.18,0:15:53.72,Default,,0,0,0,,Time to use Imprinting.
-Dialogue: 69,0:15:55.81,0:15:59.40,Default,,0,0,0,,Watch the giant screen on Q Front at 3 p.m.
+Dialogue: 69,0:15:55.81,0:15:59.40,Default,,0,0,0,,Have everyone watch the giant screen at Q Front at 3 P.M.
 Dialogue: 69,0:15:59.40,0:16:00.65,Default,,0,0,0,,Oh yeah!
-Dialogue: 69,0:16:00.65,0:16:02.52,Default,,0,0,0,,I want you all to put on the Red Skull pins,
-Dialogue: 69,0:16:02.52,0:16:07.40,Default,,0,0,0,,and then go watch the giant screen at Q Front at 3 p.m.!
-Dialogue: 69,0:16:08.16,0:16:09.78,Default,,0,0,0,,It'll be our little date. {Yakusoku literally means "promise" but it has a connotation of meeting up with someone at a given place or time, and the reason why all the girls scream here is because it has this connotation of a date}
-Dialogue: 69,0:16:17.16,0:16:22.71,Default,,0,0,0,,Please watch the giant screen at Scramble Crossing  at 3 p.m. today!
+Dialogue: 69,0:16:00.65,0:16:02.52,Default,,0,0,0,,I want everyone to put on the Red Skull pins,
+Dialogue: 69,0:16:02.52,0:16:07.40,Default,,0,0,0,,and then gather to watch the giant screen at Q Front at 3 P.M.!
+Dialogue: 69,0:16:08.16,0:16:09.78,Default,,0,0,0,,It can be our little date. {Yakusoku literally means "promise" but it has a connotation of meeting up with someone at a given place or time, and the reason why all the girls scream here is because it has this connotation of a date}
+Dialogue: 69,0:16:17.16,0:16:22.71,Default,,0,0,0,,Please come watch the Scramble Crossing screen at 3 P.M. today!
 Dialogue: 69,0:16:23.25,0:16:24.05,Default,,0,0,0,,Huh?
-Dialogue: 69,0:16:24.05,0:16:25.96,Default,,0,0,0,,The crowd's started to grow.
-Dialogue: 69,0:16:26.63,0:16:28.47,Default,,0,0,0,,Looks like it worked.
+Dialogue: 69,0:16:24.05,0:16:25.96,Default,,0,0,0,,The crowd's starting to grow.
+Dialogue: 69,0:16:26.63,0:16:28.47,Default,,0,0,0,,Looks like the plan worked.
 Dialogue: 69,0:16:28.47,0:16:29.68,Default,,0,0,0,,I hope so.
 Dialogue: 69,0:16:29.68,0:16:31.09,Default,,0,0,0,,{\an8}Oh! Makoto!
 Dialogue: 69,0:16:31.09,0:16:32.51,Default,,0,0,0,,{\an8}Huh? Ai?
-Dialogue: 69,0:16:33.93,0:16:34.89,Default,,0,0,0,,{\an8}Those girls are...
+Dialogue: 69,0:16:33.93,0:16:34.89,Default,,0,0,0,,{\an8}Those are the girls...
 Dialogue: 69,0:16:33.68,0:16:34.89,Default,,0,0,0,,{\pos(550,1024)}Hi there. {Makoto says "Why are you—" but it's like the third subtitle here so you're gonna have to deal with it somehow}
 Dialogue: 69,0:16:33.68,0:16:34.89,Default,,0,0,0,,{\pos(1400,1024)}Why are you— {:thinking: -Laffer}
 Dialogue: 69,0:16:34.89,0:16:38.27,Default,,0,0,0,,I'm really sorry. She found out about the surprise, and... {Removed the italics because that sounds mega condescending}
-Dialogue: 69,0:16:38.27,0:16:39.77,Default,,0,0,0,,Good for them.
+Dialogue: 69,0:16:38.27,0:16:39.77,Default,,0,0,0,,Good for 'em.
 Dialogue: 69,0:16:39.77,0:16:41.56,Default,,0,0,0,,Two birds with one stone again.
-Dialogue: 69,0:16:42.52,0:16:43.86,Default,,0,0,0,,You might be right.
-Dialogue: 69,0:16:45.07,0:16:46.11,Default,,0,0,0,,It's 3 p.m.
-Dialogue: 69,0:17:01.33,0:17:03.34,Default,,0,0,0,,What's going on?!
+Dialogue: 69,0:16:42.52,0:16:43.86,Default,,0,0,0,,Let's hope your right.
+Dialogue: 69,0:16:45.07,0:16:46.11,Default,,0,0,0,,It's 3 P.M.
+Dialogue: 69,0:17:01.33,0:17:03.34,Default,,0,0,0,,The fuck is going on?
 Dialogue: 69,0:17:03.34,0:17:04.75,Default,,0,0,0,,Look at that!
-Dialogue: 69,0:17:12.34,0:17:13.85,Default,,0,0,0,,What's that thing?
+Dialogue: 69,0:17:12.34,0:17:13.85,Default,,0,0,0,,What the hell is that thing?
 Dialogue: 69,0:17:13.85,0:17:15.31,Default,,0,0,0,,Is that a Noise?
-Dialogue: 69,0:17:15.31,0:17:18.10,Default,,0,0,0,,Hey, no one warned me about that thing!
-Dialogue: 69,0:17:18.10,0:17:20.31,Default,,0,0,0,,That wasn't enough to clear the mission?!
+Dialogue: 69,0:17:15.31,0:17:18.10,Default,,0,0,0,,What, no one warned me \Nabout something like that!
+Dialogue: 69,0:17:18.10,0:17:20.31,Default,,0,0,0,,Was that not enough to clear the mission?!
 Dialogue: 69,0:17:37.45,0:17:38.50,Default,,0,0,0,,There's no use.
-Dialogue: 69,0:17:39.66,0:17:40.87,Default,,0,0,0,,We're done for. {Alternatively; We're going to get erased.}
+Dialogue: 69,0:17:39.66,0:17:40.87,Default,,0,0,0,,We're gonna be erased.{Alternatively; We're going to get erased.}
 Dialogue: 69,0:17:59.43,0:18:00.52,Default,,0,0,0,,What...
 Dialogue: 69,0:18:01.27,0:18:02.64,Default,,0,0,0,,...just happened?
-Dialogue: 69,0:18:03.81,0:18:05.94,Default,,0,0,0,,Looks like we cleared the mission.
-Dialogue: 69,0:18:07.15,0:18:09.74,Default,,0,0,0,,So... we're safe for now?
-Dialogue: 69,0:18:10.65,0:18:13.11,Default,,0,0,0,,That wasn't normal, right?
+Dialogue: 69,0:18:03.81,0:18:05.94,Default,,0,0,0,,Looks like the mission was cleared at least.
+Dialogue: 69,0:18:07.15,0:18:09.74,Default,,0,0,0,,So... guess we're safe for now?
+Dialogue: 69,0:18:10.65,0:18:13.11,Default,,0,0,0,,That didn't feel normal, right?
 Dialogue: 69,0:18:13.11,0:18:14.16,Default,,0,0,0,,Yeah.
-Dialogue: 69,0:18:14.16,0:18:17.53,Default,,0,0,0,,A lot of other Players got erased too.
+Dialogue: 69,0:18:14.16,0:18:17.53,Default,,0,0,0,,Lot's of Players were erased just now.
 Dialogue: 69,0:18:17.53,0:18:20.12,Default,,0,0,0,,One wrong move, and we'd have joined them.
 Dialogue: 69,0:18:21.91,0:18:24.37,Default,,0,0,0,,You've been saving my neck all day, Neku.
 Dialogue: 69,0:18:25.50,0:18:27.25,Default,,0,0,0,,I need to get it together.
-Dialogue: 69,0:18:29.13,0:18:31.80,Default,,0,0,0,,I think you're doing more than enough.
+Dialogue: 69,0:18:29.13,0:18:31.80,Default,,0,0,0,,I think you're holding up just fine
 Dialogue: 69,0:18:33.55,0:18:35.39,Default,,0,0,0,,You saved that part-timer from back then,
-Dialogue: 69,0:18:36.51,0:18:38.81,Default,,0,0,0,,and stopped those schoolgirls fighting yesterday—
+Dialogue: 69,0:18:36.51,0:18:38.81,Default,,0,0,0,,and stopped those schoolgirls from fighting yesterday—
 Dialogue: 69,0:18:39.35,0:18:42.27,Default,,0,0,0,,we've made it this far because you didn't abandon anyone.
 Dialogue: 69,0:18:42.89,0:18:44.06,Default,,0,0,0,,{\t(848,1140,\3c&HFFFFFF&\4c&HFFFFFF&)}Plus...
-Dialogue: 69,0:18:45.44,0:18:48.73,Default,,0,0,0,,...you didn't give up on me, even after what I did.
+Dialogue: 69,0:18:45.44,0:18:48.73,Default,,0,0,0,,...you didn't abandon me, even after everything I've done.
 Dialogue: 69,0:18:49.40,0:18:53.24,Default,,0,0,0,,Lots of people have been saved 'cause of something that you did.
-Dialogue: 69,0:18:53.78,0:18:56.99,Default,,0,0,0,,So, you're pretty... {phrasing  is ???}
+Dialogue: 69,0:18:53.78,0:18:56.99,Default,,0,0,0,,So, you're pretty... {phrasing  is ???} {&&&the phrasing feels off here... not sure how to fix it}
 Dialogue: 69,0:18:56.99,0:18:57.87,Default,,0,0,0,,...incredible.
 Dialogue: 69,0:18:59.99,0:19:02.00,Default,,0,0,0,,Thanks, Neku.
-Dialogue: 69,0:19:02.37,0:19:05.37,Default,,0,0,0,,You know, you've changed quite a lot\Nin such a short space of time.
+Dialogue: 69,0:19:02.37,0:19:05.37,Default,,0,0,0,,You know, you've sure changed quite a bit\Nin such a short amount of time.
 Dialogue: 69,0:19:05.87,0:19:06.75,Default,,0,0,0,,Have I?
 Dialogue: 69,0:19:07.54,0:19:09.25,Default,,0,0,0,,I just...
-Dialogue: 69,0:19:09.92,0:19:13.63,Default,,0,0,0,,...never want to screw up like that again.
+Dialogue: 69,0:19:09.92,0:19:13.63,Default,,0,0,0,,...never want to fuck up like that again.
 Dialogue: 69,0:19:15.18,0:19:16.39,Default,,0,0,0,,Don't worry.
 Dialogue: 69,0:19:16.72,0:19:18.26,Default,,0,0,0,,I know you'll be fine, Neku.
-Dialogue: 69,0:19:21.26,0:19:24.31,Default,,0,0,0,,You seem down today, Eri. You okay?
-Dialogue: 69,0:19:24.56,0:19:25.60,Default,,0,0,0,,Yeah.
-Dialogue: 69,0:19:25.60,0:19:28.31,Default,,0,0,0,,Sorry. I know we're here to have fun.
+Dialogue: 69,0:19:21.26,0:19:24.31,Default,,0,0,0,,You seem down today, Eri. \NYou holding up okay?
+Dialogue: 69,0:19:24.56,0:19:25.60,Default,,0,0,0,,I'm okay.
+Dialogue: 69,0:19:25.60,0:19:28.31,Default,,0,0,0,,Sorry. I know we're \Nsupposed to be here for fun
 Dialogue: 69,0:19:28.31,0:19:30.90,Default,,0,0,0,,So you do have something on your mind. Talk to me.
 Dialogue: 69,0:19:30.90,0:19:31.61,Default,,0,0,0,,Okay.
 Dialogue: 69,0:19:32.15,0:19:33.40,Default,,0,0,0,,You see,
 Dialogue: 69,0:19:33.40,0:19:36.82,Default,,0,0,0,,I'm thinking of giving up designing completely.
 Dialogue: 69,0:19:34.82,0:19:35.36,Default,,0,0,0,,Hey!
 Dialogue: 69,0:19:36.82,0:19:37.74,Default,,0,0,0,,What?!
-Dialogue: 69,0:19:37.74,0:19:39.83,Default,,0,0,0,,Why?! You're so good at it!
+Dialogue: 69,0:19:37.74,0:19:39.83,Default,,0,0,0,,Why?! But you're the best at it!
 Dialogue: 69,0:19:40.12,0:19:42.12,Default,,0,0,0,,Eri, why?
 Dialogue: 69,0:19:43.37,0:19:45.29,Default,,0,0,0,,If you wanna know, just scan her.
-Dialogue: 69,0:19:45.29,0:19:48.83,Default,,0,0,0,,There's no way I could ever do something like that.
+Dialogue: 69,0:19:45.29,0:19:48.83,Default,,0,0,0,,There's no way I could ever do that to someone.
 Dialogue: 69,0:19:48.83,0:19:52.09,Default,,0,0,0,,{\an8}I loved the outfit you showed me the other day.
 Dialogue: 69,0:19:52.09,0:19:54.26,Default,,0,0,0,,{\an8}I want to see more of your designs.
-Dialogue: 69,0:19:49.50,0:19:52.88,Default,,0,0,0,,I'd feel like I'd be intruding on my friend's thoughts.
-Dialogue: 69,0:19:52.88,0:19:55.17,Default,,0,0,0,,It's not like she'll know.
+Dialogue: 69,0:19:49.50,0:19:52.88,Default,,0,0,0,,I feel like I'd be intruding on my best friend's thoughts.
+Dialogue: 69,0:19:52.88,0:19:55.17,Default,,0,0,0,,It's not like she will know.
 Dialogue: 69,0:19:55.17,0:19:56.17,Default,,0,0,0,,{\an8}Thanks.
-Dialogue: 69,0:19:55.17,0:19:56.68,Default,,0,0,0,,You're overcomplicating things. {He says "It's simple, isn't it?" with the implied meaning that I left in the TL}
+Dialogue: 69,0:19:55.17,0:19:56.68,Default,,0,0,0,,You're overthinking things. {He says "It's simple, isn't it?" with the implied meaning that I left in the TL}
 Dialogue: 69,0:19:56.68,0:19:57.84,Default,,0,0,0,,No, I'm not!
-Dialogue: 69,0:19:58.26,0:20:02.89,Default,,0,0,0,,The thought of finding out what Eri really thought of me...
+Dialogue: 69,0:19:58.26,0:20:02.89,Default,,0,0,0,,The thought of finding out what Eri truly thought about me...
 Dialogue: 69,0:20:02.89,0:20:03.89,Default,,0,0,0,,...scares me.
-Dialogue: 69,0:20:05.81,0:20:09.23,Default,,0,0,0,,Didn't you say your dream was to be a fashion designer?
-Dialogue: 69,0:20:09.69,0:20:11.98,Default,,0,0,0,,I can't do it without Shiki.
+Dialogue: 69,0:20:05.81,0:20:09.23,Default,,0,0,0,,Wasn't your dream was to become a fashion designer?
+Dialogue: 69,0:20:09.69,0:20:11.98,Default,,0,0,0,,I just can't do it without Shiki.
 Dialogue: 69,0:20:14.11,0:20:16.03,Default,,0,0,0,,Shiki's incredible.
-Dialogue: 69,0:20:16.03,0:20:19.32,Default,,0,0,0,,She turns the smallest ideas into complete items.
-Dialogue: 69,0:20:19.32,0:20:23.54,Default,,0,0,0,,She's skilled, considerate, and a hard worker.
-Dialogue: 69,0:20:23.54,0:20:25.91,Default,,0,0,0,,I think she had more talent than me.
-Dialogue: 69,0:20:26.75,0:20:29.67,Default,,0,0,0,,But I couldn't find the right way to tell her.
+Dialogue: 69,0:20:16.03,0:20:19.32,Default,,0,0,0,,She's able to turn the smallest ideas into complete garments.
+Dialogue: 69,0:20:19.32,0:20:23.54,Default,,0,0,0,,She's skilled, considerate, and a really hard worker.
+Dialogue: 69,0:20:23.54,0:20:25.91,Default,,0,0,0,,Honestly, I feel like she was more talented than me.
+Dialogue: 69,0:20:26.75,0:20:29.67,Default,,0,0,0,,But I just couldn't find a way to tell her properly.
 Dialogue: 69,0:20:29.67,0:20:31.84,Default,,0,0,0,,I really hurt her.
 Dialogue: 69,0:20:31.84,0:20:36.55,Default,,0,0,0,,You see, Shiki was worrying that she wasn't good at designing clothes.
 Dialogue: 69,0:20:37.17,0:20:41.05,Default,,0,0,0,,"You don't have to be a designer", was what I wanted to tell her. {Alternatively, "You should do what you do best", was what I wanted to say.}
-Dialogue: 69,0:20:41.89,0:20:45.35,Default,,0,0,0,,But what came out was: "You're not meant to be a designer."
+Dialogue: 69,0:20:41.89,0:20:45.35,Default,,0,0,0,,But what ended up caming out was: "You're not meant to be a designer."
 Dialogue: 69,0:20:45.35,0:20:47.68,Default,,0,0,0,,"You're a great seamstress, anyways."
-Dialogue: 69,0:20:49.35,0:20:51.40,Default,,0,0,0,,I wanted to apologise right away.
-Dialogue: 69,0:20:51.40,0:20:54.61,Default,,0,0,0,,I was going to say sorry first thing the next morning.
+Dialogue: 69,0:20:49.35,0:20:51.40,Default,,0,0,0,,I felt guilty, and wanted \Nto apologise right away.
+Dialogue: 69,0:20:51.40,0:20:54.61,Default,,0,0,0,,I was going to say sorry first thing in the morning.
 Dialogue: 69,0:20:55.19,0:20:57.86,Default,,0,0,0,,But now...
 Dialogue: 69,0:20:59.24,0:21:01.07,Default,,0,0,0,,...I can never see her again.
-Dialogue: 69,0:21:05.04,0:21:10.62,Default,,0,0,0,,The clothes I design only become real when Shiki makes them for me.
+Dialogue: 69,0:21:05.04,0:21:10.62,Default,,0,0,0,,Only when Shiki makes the clothes, do the designs really come to life.
 Dialogue: 69,0:21:11.33,0:21:12.29,Default,,0,0,0,,So...
-Dialogue: 69,0:21:13.42,0:21:15.88,Default,,0,0,0,,...I can't do it without Shiki.
-Dialogue: 69,0:21:17.59,0:21:20.68,Default,,0,0,0,,That's... how she thought of me? {Not phrased like a question in JP but rhetorical because she's talking to herself out of disbelief}
-Dialogue: 69,0:21:20.68,0:21:22.59,Default,,0,0,0,,It was our dream
+Dialogue: 69,0:21:13.42,0:21:15.88,Default,,0,0,0,,...I can't do anything without Shiki.
+Dialogue: 69,0:21:17.59,0:21:20.68,Default,,0,0,0,,That's... what she really thought of me? {Not phrased like a question in JP but rhetorical because she's talking to herself out of disbelief}
+Dialogue: 69,0:21:20.68,0:21:22.59,Default,,0,0,0,,It was {\i1}our{\i0} dream {Italicised to make our have more emphasis}
 Dialogue: 69,0:21:22.59,0:21:27.39,Default,,0,0,0,,to make lots of people happy with the clothes we made together,
 Dialogue: 69,0:21:28.02,0:21:30.06,Default,,0,0,0,,but now...
 Dialogue: 69,0:21:30.52,0:21:34.23,Default,,0,0,0,,Even now... it still {\i1}is{\i0} our dream. {Present tense italicised to emphasise that the dream is not dead}
@@ -409,15 +409,15 @@ Dialogue: 69,0:21:37.15,0:21:39.61,Default,,0,0,0,,Neku, I'm sure now.
 Dialogue: 69,0:21:39.61,0:21:42.20,Default,,0,0,0,,I want to come back to life and make clothes with Eri.
 Dialogue: 69,0:21:42.95,0:21:45.83,Default,,0,0,0,,Excuse me? "Come back to life"?
 Dialogue: 69,0:21:45.83,0:21:47.16,Default,,0,0,0,,Oh, right.
-Dialogue: 69,0:21:47.16,0:21:49.20,Default,,0,0,0,,You don't remember that either.
+Dialogue: 69,0:21:47.16,0:21:49.20,Default,,0,0,0,,You musn't remember that either.
 Dialogue: 69,0:21:49.62,0:21:51.16,Default,,0,0,0,,This is the Reapers' Game.
 Dialogue: 69,0:21:51.67,0:21:55.21,Default,,0,0,0,,My entry fee was my appearance.
-Dialogue: 69,0:21:55.21,0:21:58.38,Default,,0,0,0,,I don't really look like I do now.
-Dialogue: 69,0:21:58.96,0:22:01.34,Default,,0,0,0,,This is how Eri looks.
+Dialogue: 69,0:21:55.21,0:21:58.38,Default,,0,0,0,,I don't look like this in the RG.
+Dialogue: 69,0:21:58.96,0:22:01.34,Default,,0,0,0,,This is what Eri looks like.
 Dialogue: 69,0:22:02.18,0:22:03.93,Default,,0,0,0,,What do you mean?
-Dialogue: 69,0:22:03.93,0:22:08.97,Default,,0,0,0,,The Reapers' Game is where Players are assessed\Nto see who deserves a second chance at life.
+Dialogue: 69,0:22:03.93,0:22:08.97,Default,,0,0,0,,{\q2}The Reapers' Game is where the Players \Nwho deserve a second chance prove themselves.
 Dialogue: 69,0:22:09.47,0:22:11.52,Default,,0,0,0,,I died in an accident.
-Dialogue: 69,0:22:11.98,0:22:13.69,Default,,0,0,0,,Then I'm...
+Dialogue: 69,0:22:11.98,0:22:13.69,Default,,0,0,0,,That means...
 Dialogue: 69,0:22:15.61,0:22:16.48,Default,,0,0,0,,I'm...
 Dialogue: 69,0:22:17.82,0:22:19.19,Default,,0,0,0,,...dead?!
 Dialogue: 69,0:23:52.58,0:23:54.96,Default,,0,0,0,,Next time: "Erased."

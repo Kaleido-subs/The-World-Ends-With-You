@@ -46,7 +46,6 @@ Dialogue: 0,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1616,86)\f
 Dialogue: 0,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1774,108)\fscx220\fscy220\frz337.5\fnSplit splat splodge\b1\c&H000000&\blur0.5}x
 Dialogue: 0,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1738,142)\fscx220\fscy220\frz299.6\fnSplit splat splodge\b1\c&H000000&\blur0.5}r
 Dialogue: 0,0:01:58.01,0:02:02.02,Light_signs,ep_title,0,0,0,02,{\pos(1679,137)\fscx50\fscy80\frz303.8\fry180\fnGhost Everywhere\fs500\shad0.01\1a&HFE&\3a&HFE&\blur0.5}z
-Dialogue: 0,0:07:29.76,0:07:33.14,Light_signs,,0,0,0,,Free Spain Hill from the Noise. You have 200 minutes. Fail and face erasure. The Reapers. {double-check all times}
 Dialogue: 5,0:07:33.39,0:07:35.39,Light_signs,location_sign,0,0,0,,{\an7\pos(661.4,857.03)\fscx201.6\fscy100.8\frz302.3\fry186\fnLeafs\c&H000000&\blur0.7\fad(300,0)}D
 Dialogue: 4,0:07:33.39,0:07:35.39,Light_signs,location_sign,0,0,0,,{\an7\pos(661.4,857.03)\fscx201.6\fscy100.8\frz302.3\fry186\fnLeafs\bord3.6\xshad0.01\4c&H3FB940&\1a&HFE&\3a&HFE&\blur0.7\fad(300,0)}D
 Dialogue: 3,0:07:33.39,0:07:35.39,Light_signs,location_sign,0,0,0,,{\an7\pos(661.4,857.03)\fscx201.6\fscy100.8\frz302.3\fry186\fnLeafs\bord9\xshad0.01\1a&HFE&\3a&HFE&\blur0.7\fad(300,0)}D

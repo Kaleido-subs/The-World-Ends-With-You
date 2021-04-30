@@ -118,7 +118,7 @@ Dialogue: 1,0:11:38.64,0:11:41.89,Riku_Signs,phone_sign,0,0,0,bg_art,{\pos(1247.
 Dialogue: 0,0:11:38.64,0:11:41.89,Riku_Signs,phone_sign,0,0,0,bg_mask,{\an7\pos(0,0)\blur1\p1}m 644 401 l 1263 520 1225 701 1188 751 b 1169 778 1196 815 1199 823 l 1179 916 1110 978 b 1091 1028 1107 1063 1118 1083 l 936 1081 499 1000
 Dialogue: 3,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1218.4,776.8)\frz351.8\fnGrain\c&H060606&\blur0.8\clip(m 1006.4 673.6 l 979.2 779.2 1004.8 849.6 1456 876.8 1452.8 769.6 1292.8 721.6)}asdasdas\Nksdasgal
 Dialogue: 3,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1218.4,776.8)\frz351.8\fnGrain\c&H060606&\blur0.8\clip(m 1006.4 673.6 l 979.2 779.2 1004.8 849.6 1456 876.8 1452.8 769.6 1292.8 721.6)}ksdasgalasdasdas
-Dialogue: 2,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1392,772.8)\frz58.76\fnSplit splat splodge\fs100\c&H5E5E5E&}f
+Dialogue: 2,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1400,782.8)\frz58.76\fnSplit splat splodge\fs100\c&H5E5E5E&}f
 Dialogue: 2,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1032,705.6)\frz184.2\fnWC Rhesus B Bta\fs200\c&H5E5E5E&}c
 Dialogue: 2,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1023.47,806.13)\fnSplit splat splodge\fs100\c&H5E5E5E&}f
 Dialogue: 2,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1060.8,708.8)\frz30\fnSplit splat splodge\fs150\c&H5E5E5E&}p
@@ -126,6 +126,5 @@ Dialogue: 1,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1038.4,744)\fr
 Dialogue: 1,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1096.4,773.2)\frz343.3\fnWrong Free Trial\fs200\c&H5E5E5E&\blur0.8}r
 Dialogue: 1,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1162,784)\frz344.8\fnWrong Free Trial\fs180\c&H5E5E5E&\blur0.8}a
 Dialogue: 1,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1222.8,786.8)\frz340\fnBalibrush\fs140\c&H5E5E5E&\blur0.8}s
-Dialogue: 1,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1283.2,800.4)\frz345.3\fnBalibrush\fs125\c&H5E5E5E&\blur0.8}U
-Dialogue: 1,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1342,812)\frz340\fnWrong Free Trial\fs210\c&H5E5E5E&\blur0.8}r
-Dialogue: 1,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1414,820)\frz342\fnWrong Free Trial\fs200\c&H5E5E5E&\blur0.8}e
+Dialogue: 1,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1283.2,800.4)\frz345.3\fnBalibrush\fs125\c&H5E5E5E&\blur0.8}e
+Dialogue: 1,0:23:51.95,0:23:54.96,Riku_Signs,pv_sign,0,0,0,,{\pos(1342,812)\frz340\fnWrong Free Trial\fs210\c&H5E5E5E&\blur0.8}d

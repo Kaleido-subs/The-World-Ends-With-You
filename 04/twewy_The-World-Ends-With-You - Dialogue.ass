@@ -1,0 +1,327 @@
+﻿[Script Info]
+Title: [Kaleido-subs] The World Ends With You - The-World-Ends-With-You
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
+Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
+
+Dialogue: 0,0:00:17.68,0:00:17.93,Default,,0,0,0,,My second game's started.
+Dialogue: 0,0:00:17.93,0:00:20.06,Default,,0,0,0,,
+Dialogue: 0,0:00:24.94,0:00:28.94,Default,,0,0,0,,This isn't the end.\NWe'll win and come back to life.
+Dialogue: 0,0:00:30.28,0:00:35.03,Default,,0,0,0,,When we come back to life,\NI want all of us to meet up again.
+Dialogue: 0,0:00:36.07,0:00:39.58,Default,,0,0,0,,You can recognize me by Mr. Mew.
+Dialogue: 0,0:00:39.58,0:00:40.79,Default,,0,0,0,,OK.
+Dialogue: 0,0:00:42.08,0:00:44.08,Default,,0,0,0,,Sorry I'm late!
+Dialogue: 0,0:00:44.08,0:00:45.29,Default,,0,0,0,,Shiki--
+Dialogue: 0,0:00:46.67,0:00:49.00,Default,,0,0,0,,Clothes shopping, right? Where to?
+Dialogue: 0,0:00:49.00,0:00:52.42,Default,,0,0,0,,How about Modi and Parco?
+Dialogue: 0,0:00:52.42,0:00:54.17,Default,,0,0,0,,Wanna swing by Tokyu Hands?
+Dialogue: 0,0:00:54.17,0:00:54.47,Default,,0,0,0,,--Sure! Let's go.
+Dialogue: 0,0:00:54.47,0:00:56.51,Default,,0,0,0,,--Shiki should've been like them.\N--Sure! Let's go.
+Dialogue: 0,0:00:57.68,0:01:01.06,Default,,0,0,0,,But I...
+Dialogue: 0,0:01:01.06,0:01:03.39,Default,,0,0,0,,Neku...
+Dialogue: 0,0:01:10.52,0:01:15.61,Default,,0,0,0,,If I survive these seven days,\NShiki will come back.
+Dialogue: 0,0:02:51.25,0:02:53.13,Default,,0,0,0,,A mission?
+Dialogue: 0,0:02:53.13,0:02:54.17,Default,,0,0,0,,Listen up, Players!
+Dialogue: 0,0:02:54.17,0:02:55.25,Default,,0,0,0,,What?!
+Dialogue: 0,0:02:55.25,0:02:57.38,Default,,0,0,0,,You're all pawns!
+Dialogue: 0,0:02:57.38,0:02:59.47,Default,,0,0,0,,Do what I tell you!
+Dialogue: 0,0:02:59.47,0:03:00.34,Default,,0,0,0,,Game one!
+Dialogue: 0,0:03:00.34,0:03:04.43,Default,,0,0,0,,Calculate the square root of 10,816
+Dialogue: 0,0:03:04.43,0:03:06.97,Default,,0,0,0,,and seek out the solution!
+Dialogue: 0,0:03:06.97,0:03:09.02,Default,,0,0,0,,You have 60 minutes!
+Dialogue: 0,0:03:09.02,0:03:11.77,Default,,0,0,0,,I'll only spare the ones who show up!
+Dialogue: 0,0:03:11.77,0:03:15.23,Default,,0,0,0,,Incompletes get destroyed!\NDestroyed! Destroyed!
+Dialogue: 0,0:03:16.78,0:03:19.65,Default,,0,0,0,,It's a lot different from last time.
+Dialogue: 0,0:03:19.65,0:03:21.41,Default,,0,0,0,,We beat Higashizawa.
+Dialogue: 0,0:03:21.41,0:03:24.07,Default,,0,0,0,,So, was that the new Game Master?
+Dialogue: 0,0:03:27.79,0:03:29.45,Default,,0,0,0,,These are nothing!
+Dialogue: 0,0:03:30.87,0:03:32.58,Default,,0,0,0,,I can't use psychs?!
+Dialogue: 0,0:03:39.76,0:03:42.05,Default,,0,0,0,,Struggling your second time around?
+Dialogue: 0,0:03:46.31,0:03:47.68,Default,,0,0,0,,All right,
+Dialogue: 0,0:03:47.68,0:03:49.35,Default,,0,0,0,,I'll be your partner.
+Dialogue: 0,0:03:57.48,0:03:58.69,Default,,0,0,0,,I can fight!
+Dialogue: 0,0:04:14.21,0:04:16.08,Default,,0,0,0,,I knew you could do it, Neku.
+Dialogue: 0,0:04:20.71,0:04:23.68,Default,,0,0,0,,I've been watching you for a long time.
+Dialogue: 0,0:04:23.68,0:04:27.60,Default,,0,0,0,,The way you fought was wonderful.
+Dialogue: 0,0:04:27.60,0:04:29.26,Default,,0,0,0,,You were?
+Dialogue: 0,0:04:29.26,0:04:31.31,Default,,0,0,0,,I don't know you.
+Dialogue: 0,0:04:33.44,0:04:35.31,Default,,0,0,0,,I'm Yoshiya Kiryu.
+Dialogue: 0,0:04:35.31,0:04:37.86,Default,,0,0,0,,Please, call me Joshua.
+Dialogue: 0,0:04:37.86,0:04:40.65,Default,,0,0,0,,Was he a Player in the last game?
+Dialogue: 0,0:04:40.65,0:04:44.61,Default,,0,0,0,,No. He wasn't one of the survivors.
+Dialogue: 0,0:04:44.61,0:04:47.37,Default,,0,0,0,,Don't look so intimidating.
+Dialogue: 0,0:04:47.37,0:04:50.24,Default,,0,0,0,,It's day one, so let's take it easy.
+Dialogue: 0,0:04:51.37,0:04:52.58,Default,,0,0,0,,Hey!
+Dialogue: 0,0:04:55.92,0:04:57.88,Default,,0,0,0,,Enjoy every moment.
+Dialogue: 0,0:05:00.59,0:05:03.47,Default,,0,0,0,,What was that?
+Dialogue: 0,0:05:03.47,0:05:05.63,Default,,0,0,0,,Did I scan him?
+Dialogue: 0,0:05:05.63,0:05:07.34,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:05:07.34,0:05:11.52,Default,,0,0,0,,No, Players aren't supposed\Nto be able to scan each other.
+Dialogue: 0,0:05:13.18,0:05:16.98,Default,,0,0,0,,That's not good. I need you to escort me.
+Dialogue: 0,0:05:16.98,0:05:20.98,Default,,0,0,0,,You'll never win if you\Ndon't trust your partner.
+Dialogue: 0,0:05:20.98,0:05:24.78,Default,,0,0,0,,I can't trust this guy yet.
+Dialogue: 0,0:05:24.78,0:05:27.36,Default,,0,0,0,,But the mission's already started.
+Dialogue: 0,0:05:30.28,0:05:32.41,Default,,0,0,0,,I'll team up with you.
+Dialogue: 0,0:05:32.41,0:05:35.16,Default,,0,0,0,,I think we'll make a great team.
+Dialogue: 0,0:05:36.00,0:05:38.96,Default,,0,0,0,,Now, let's get going to 104.
+Dialogue: 0,0:05:38.96,0:05:40.50,Default,,0,0,0,,What for?
+Dialogue: 0,0:05:40.50,0:05:42.55,Default,,0,0,0,,Couldn't solve the mission?
+Dialogue: 0,0:05:44.59,0:05:48.64,Default,,0,0,0,,The square root of 10,816 is 104.
+Dialogue: 0,0:05:48.64,0:05:51.93,Default,,0,0,0,,Meaning that's where we should go.
+Dialogue: 0,0:05:51.93,0:05:53.14,Default,,0,0,0,,Come on.
+Dialogue: 0,0:06:03.57,0:06:06.70,Default,,0,0,0,,Has the game ever run two\Nweeks in a row before?
+Dialogue: 0,0:06:06.70,0:06:09.78,Default,,0,0,0,,Yeah, once, a long time ago.
+Dialogue: 0,0:06:09.78,0:06:12.33,Default,,0,0,0,,A rookie like you wouldn't know, Uzuki.
+Dialogue: 0,0:06:12.33,0:06:15.37,Default,,0,0,0,,"Rookie"? This is my second year.
+Dialogue: 0,0:06:15.37,0:06:18.79,Default,,0,0,0,,How long have you been a Reaper?
+Dialogue: 0,0:06:18.79,0:06:21.92,Default,,0,0,0,,Don't sweat the small stuff.
+Dialogue: 0,0:06:21.92,0:06:25.67,Default,,0,0,0,,For now, all we've got\Nto do is stand around.
+Dialogue: 0,0:06:25.67,0:06:28.63,Default,,0,0,0,,This is why I hate working under that guy.
+Dialogue: 0,0:06:28.63,0:06:31.22,Default,,0,0,0,,I can't score any points.
+Dialogue: 0,0:06:31.22,0:06:36.43,Default,,0,0,0,,I bet he's got some crazy plan that'd\Ngo right over our ordinary heads.
+Dialogue: 0,0:06:37.52,0:06:39.06,Default,,0,0,0,,I mean, he's the solitary genius\Nwho made that thing.
+Dialogue: 0,0:06:42.02,0:06:43.11,Default,,0,0,0,,What's this thing?
+Dialogue: 0,0:06:43.11,0:06:45.32,Default,,0,0,0,,Is that "guerilla art"?
+Dialogue: 0,0:06:47.65,0:06:49.61,Default,,0,0,0,,Wh-What the...?!
+Dialogue: 0,0:06:49.61,0:06:52.45,Default,,0,0,0,,This junk wasn't here last time.
+Dialogue: 0,0:06:52.45,0:06:53.87,Default,,0,0,0,,Someone's here.
+Dialogue: 0,0:06:59.79,0:07:01.58,Default,,0,0,0,,Zetta slow!
+Dialogue: 0,0:07:01.58,0:07:03.21,Default,,0,0,0,,You're zetta slow!
+Dialogue: 0,0:07:03.21,0:07:07.13,Default,,0,0,0,,How long did it take you to crack\Nthat code, you hectopascals?!
+Dialogue: 0,0:07:07.13,0:07:08.88,Default,,0,0,0,,H-Hecto... what?
+Dialogue: 0,0:07:08.88,0:07:11.68,Default,,0,0,0,,Does this mean we've cleared the mission?
+Dialogue: 0,0:07:13.30,0:07:15.60,Default,,0,0,0,,Oh, you're right.
+Dialogue: 0,0:07:16.97,0:07:20.94,Default,,0,0,0,,I'm Sho Minamimoto,\Nyour Game Master this time around!
+Dialogue: 0,0:07:20.94,0:07:25.27,Default,,0,0,0,,Putting in an appearance on day one?\NHow unconventional of you.
+Dialogue: 0,0:07:25.27,0:07:27.36,Default,,0,0,0,,Convention is trash!
+Dialogue: 0,0:07:27.36,0:07:28.94,Default,,0,0,0,,Crush!
+Dialogue: 0,0:07:28.94,0:07:31.11,Default,,0,0,0,,On the scrap heap it goes!
+Dialogue: 0,0:07:31.11,0:07:32.32,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:07:35.33,0:07:37.91,Default,,0,0,0,,You're a Player this time?
+Dialogue: 0,0:07:37.91,0:07:40.04,Default,,0,0,0,,You recognize me?
+Dialogue: 0,0:07:42.12,0:07:44.63,Default,,0,0,0,,A happy miscalculation.
+Dialogue: 0,0:07:44.63,0:07:47.71,Default,,0,0,0,,This brings me closer\Nto my desired solution.
+Dialogue: 0,0:07:47.71,0:07:49.01,Default,,0,0,0,,"Solution"?
+Dialogue: 0,0:07:49.01,0:07:50.67,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:07:52.34,0:07:56.85,Default,,0,0,0,,The games I design require\Nflawless calculations...
+Dialogue: 0,0:07:56.85,0:07:58.35,Default,,0,0,0,,...and beauty!
+Dialogue: 0,0:07:58.35,0:08:00.93,Default,,0,0,0,,I see the rumors were true.
+Dialogue: 0,0:08:00.93,0:08:04.10,Default,,0,0,0,,Some Old Horses Can Always\NHear Their Owner Approach.
+Dialogue: 0,0:08:06.73,0:08:08.44,Default,,0,0,0,,Listen up!
+Dialogue: 0,0:08:08.44,0:08:13.45,Default,,0,0,0,,The weight I'm gonna let you\NPlayers carry in the Underground...
+Dialogue: 0,0:08:13.45,0:08:15.78,Default,,0,0,0,,...is 1 yoctogram!
+Dialogue: 0,0:08:15.78,0:08:17.78,Default,,0,0,0,,Would that be at the atomic level?
+Dialogue: 0,0:08:17.78,0:08:19.62,Default,,0,0,0,,I'm totally lost.
+Dialogue: 0,0:08:24.46,0:08:26.38,Default,,0,0,0,,No dice. It didn't open either.
+Dialogue: 0,0:08:26.38,0:08:31.13,Default,,0,0,0,,So, Route 4 is open,\Nand 1 and 2 are sealed.
+Dialogue: 0,0:08:32.63,0:08:35.14,Default,,0,0,0,,Routes 5 and 6 are sealed too, right?
+Dialogue: 0,0:08:35.14,0:08:39.10,Default,,0,0,0,,Told you he's a genius. He works fast.
+Dialogue: 0,0:08:39.10,0:08:42.56,Default,,0,0,0,,He didn't even let us know\Nwhat areas are open.
+Dialogue: 0,0:08:42.56,0:08:45.27,Default,,0,0,0,,Doesn't he care about us\NReapers on the ground?
+Dialogue: 0,0:08:45.27,0:08:47.23,Default,,0,0,0,,I can't stand him.
+Dialogue: 0,0:08:47.23,0:08:49.23,Default,,0,0,0,,What's the big deal?
+Dialogue: 0,0:08:49.23,0:08:53.53,Default,,0,0,0,,Let's take a good look\Nat what the boss can do.
+Dialogue: 0,0:08:53.53,0:08:55.91,Default,,0,0,0,,Isn't getting here enough to clear it?!
+Dialogue: 0,0:08:55.91,0:08:58.37,Default,,0,0,0,,Weren't you going to spare us?!
+Dialogue: 0,0:08:58.37,0:09:00.16,Default,,0,0,0,,--What do we have to do now?\N--Is there another mission?
+Dialogue: 0,0:09:00.16,0:09:01.70,Default,,0,0,0,,--I just wanna live again.\N--Is there another mission?
+Dialogue: 0,0:09:01.70,0:09:02.87,Default,,0,0,0,,Those guys...
+Dialogue: 0,0:09:04.54,0:09:06.46,Default,,0,0,0,,Don't tell me...
+Dialogue: 0,0:09:06.46,0:09:07.08,Default,,0,0,0,,All you worthless little yoctograms!
+Dialogue: 0,0:09:07.08,0:09:09.92,Default,,0,0,0,,
+Dialogue: 0,0:09:09.92,0:09:11.71,Default,,0,0,0,,I want all of you...
+Dialogue: 0,0:09:11.71,0:09:13.42,Default,,0,0,0,,...to die here!
+Dialogue: 0,0:09:37.61,0:09:40.78,Default,,0,0,0,,Listen up! I just added a new mission!
+Dialogue: 0,0:09:40.78,0:09:43.37,Default,,0,0,0,,Player vs. Player. To the death.
+Dialogue: 0,0:09:43.37,0:09:45.71,Default,,0,0,0,,I'll save the winners.
+Dialogue: 0,0:09:55.30,0:09:58.64,Default,,0,0,0,,Don't listen to that Reaper!
+Dialogue: 0,0:09:58.64,0:10:00.39,Default,,0,0,0,,Trust your partners!
+Dialogue: 0,0:10:02.26,0:10:04.81,Default,,0,0,0,,If you don't work together,\Nyou'll get erased!
+Dialogue: 0,0:10:18.20,0:10:19.82,Default,,0,0,0,,That was a close one.
+Dialogue: 0,0:10:21.24,0:10:23.79,Default,,0,0,0,,Its weak point is its back.
+Dialogue: 0,0:10:26.21,0:10:29.54,Default,,0,0,0,,Hear that?! We've gotta fight too!
+Dialogue: 0,0:10:31.79,0:10:33.84,Default,,0,0,0,,Wh-What the hell?!
+Dialogue: 0,0:10:33.84,0:10:36.26,Default,,0,0,0,,I-I don't want to die.
+Dialogue: 0,0:10:37.55,0:10:39.64,Default,,0,0,0,,S-Stop! Calm down!
+Dialogue: 0,0:10:41.51,0:10:42.68,Default,,0,0,0,,Good work!
+Dialogue: 0,0:10:42.68,0:10:44.10,Default,,0,0,0,,Next,
+Dialogue: 0,0:10:44.10,0:10:47.23,Default,,0,0,0,,I'll save whoever takes down that Reaper.
+Dialogue: 0,0:10:47.23,0:10:48.44,Default,,0,0,0,,What?!
+Dialogue: 0,0:10:53.07,0:10:54.82,Default,,0,0,0,,Come and...
+Dialogue: 0,0:10:56.90,0:10:58.11,Default,,0,0,0,,...get it!
+Dialogue: 0,0:11:08.16,0:11:09.71,Default,,0,0,0,,This is our chance.
+Dialogue: 0,0:11:11.12,0:11:13.59,Default,,0,0,0,,Let's show them what we can do.
+Dialogue: 0,0:11:13.59,0:11:16.42,Default,,0,0,0,,Come on, Neku.
+Dialogue: 0,0:11:16.42,0:11:17.88,Default,,0,0,0,,Try asking first.
+Dialogue: 0,0:11:27.06,0:11:28.93,Default,,0,0,0,,Is this to your liking?
+Dialogue: 0,0:12:02.93,0:12:05.22,Default,,0,0,0,,What is this power?
+Dialogue: 0,0:12:05.22,0:12:08.81,Default,,0,0,0,,It looks like we really\Ndo make a good team.
+Dialogue: 0,0:12:10.31,0:12:12.85,Default,,0,0,0,,This will make all seven days a cakewalk.
+Dialogue: 0,0:12:12.85,0:12:16.90,Default,,0,0,0,,As long as you and I keep up\Nour wonderful teamwork, that is.
+Dialogue: 0,0:12:18.65,0:12:21.07,Default,,0,0,0,,I still barely know you.
+Dialogue: 0,0:12:22.78,0:12:27.03,Default,,0,0,0,,But if you want to survive\Nany more Reapers' Games,
+Dialogue: 0,0:12:27.03,0:12:30.41,Default,,0,0,0,,you'll have to trust me, Neku.
+Dialogue: 0,0:12:33.79,0:12:37.79,Default,,0,0,0,,It looks like this game\Nis gonna be zetta fun!
+Dialogue: 0,0:12:41.47,0:12:44.22,Default,,0,0,0,,Don't you think so too?
+Dialogue: 0,0:12:50.47,0:12:52.06,Default,,0,0,0,,Hi there. It's me.
+Dialogue: 0,0:12:55.65,0:12:57.65,Default,,0,0,0,,In front of Hachiko again?
+Dialogue: 0,0:12:59.69,0:13:02.03,Default,,0,0,0,,The whole area's sealed?
+Dialogue: 0,0:13:02.44,0:13:04.82,Default,,0,0,0,,Hmm. I see.
+Dialogue: 0,0:13:04.82,0:13:07.07,Default,,0,0,0,,Who's he talking to?
+Dialogue: 0,0:13:07.07,0:13:10.29,Default,,0,0,0,,Then, if the wall on Route 3 opens,
+Dialogue: 0,0:13:10.29,0:13:13.62,Default,,0,0,0,,I might be able to slip under\Nthe guard in Miyashita Park.
+Dialogue: 0,0:13:13.62,0:13:14.96,Default,,0,0,0,,--Route 3? Miyashita Park?
+Dialogue: 0,0:13:14.96,0:13:16.92,Default,,0,0,0,,--That's fine.\N--Route 3? Miyashita Park?
+Dialogue: 0,0:13:16.92,0:13:19.29,Default,,0,0,0,,Is he gonna swing by Cat Street?
+Dialogue: 0,0:13:21.55,0:13:22.88,Default,,0,0,0,,I remember now!
+Dialogue: 0,0:13:24.51,0:13:26.51,Default,,0,0,0,,I know Shibuya!
+Dialogue: 0,0:13:27.76,0:13:32.39,Default,,0,0,0,,I know where I am and\Nthe connecting streets.
+Dialogue: 0,0:13:33.68,0:13:38.06,Default,,0,0,0,,Until a little while ago, I didn't\Neven know I was in Shibuya.
+Dialogue: 0,0:13:38.06,0:13:39.98,Default,,0,0,0,,So, why now?
+Dialogue: 0,0:13:39.98,0:13:41.86,Default,,0,0,0,,Of course!
+Dialogue: 0,0:13:41.86,0:13:44.36,Default,,0,0,0,,When you enter the Reapers' Game,
+Dialogue: 0,0:13:44.36,0:13:49.20,Default,,0,0,0,,they take whatever is most\Nimportant to you. No exceptions.
+Dialogue: 0,0:13:49.20,0:13:54.04,Default,,0,0,0,,Remember yesterday, when Rhyme said\Nshe didn't know what dreams are?
+Dialogue: 0,0:13:54.04,0:13:58.67,Default,,0,0,0,,I bet that was because it\Nwas taken as her entry fee.
+Dialogue: 0,0:13:58.67,0:14:02.80,Default,,0,0,0,,Just like how I can't remember anything.
+Dialogue: 0,0:14:02.80,0:14:04.38,Default,,0,0,0,,It came back!
+Dialogue: 0,0:14:04.38,0:14:06.47,Default,,0,0,0,,My first entry fee!
+Dialogue: 0,0:14:06.47,0:14:10.68,Default,,0,0,0,,My memories from when I was alive!
+Dialogue: 0,0:14:10.68,0:14:13.22,Default,,0,0,0,,Enjoy every moment.
+Dialogue: 0,0:14:13.22,0:14:15.85,Default,,0,0,0,,To do that with all I've got,
+Dialogue: 0,0:14:15.85,0:14:18.77,Default,,0,0,0,,I'll do what I want, how I want,\Nas much as I want.
+Dialogue: 0,0:14:20.98,0:14:24.15,Default,,0,0,0,,That graffiti is from Udagawa!
+Dialogue: 0,0:14:24.15,0:14:26.28,Default,,0,0,0,,I saw it when I scanned him.
+Dialogue: 0,0:14:27.32,0:14:31.58,Default,,0,0,0,,And he's supposed to be a Player,\Nso how'd I scan him at all?
+Dialogue: 0,0:14:31.58,0:14:34.37,Default,,0,0,0,,Call me when it's ready. Later.
+Dialogue: 0,0:14:36.12,0:14:39.33,Default,,0,0,0,,What's wrong? You're looking grim.
+Dialogue: 0,0:14:39.33,0:14:41.29,Default,,0,0,0,,None of your business.
+Dialogue: 0,0:14:42.92,0:14:47.76,Default,,0,0,0,,Your last partner? That was a shame.
+Dialogue: 0,0:14:47.76,0:14:51.30,Default,,0,0,0,,Hey... how much do you know?
+Dialogue: 0,0:14:51.30,0:14:52.72,Default,,0,0,0,,It happens all the time.
+Dialogue: 0,0:14:52.72,0:14:56.35,Default,,0,0,0,,Every Player has something\Ndear to them on the line.
+Dialogue: 0,0:14:58.94,0:15:00.65,Default,,0,0,0,,"Square root of 3."
+Dialogue: 0,0:15:00.65,0:15:01.86,Default,,0,0,0,,"Root 3."
+Dialogue: 0,0:15:02.48,0:15:04.36,Default,,0,0,0,,Can you figure this one out?
+Dialogue: 0,0:15:04.36,0:15:06.07,Default,,0,0,0,,What?
+Dialogue: 0,0:15:06.07,0:15:09.07,Default,,0,0,0,,Route 3. You mentioned it on the phone.
+Dialogue: 0,0:15:12.74,0:15:17.29,Default,,0,0,0,,The Reapers refer to the streets\Nof Shibuya by numbers.
+Dialogue: 0,0:15:17.29,0:15:21.54,Default,,0,0,0,,Route 1, Route 2, etc. in each area.
+Dialogue: 0,0:15:21.54,0:15:23.13,Default,,0,0,0,,You know a lot.
+Dialogue: 0,0:15:24.29,0:15:26.21,Default,,0,0,0,,Let me give you a tip.
+Dialogue: 0,0:15:28.09,0:15:29.80,Default,,0,0,0,,This is a Reaper decal.
+Dialogue: 0,0:15:29.80,0:15:31.64,Default,,0,0,0,,A Reaper what?
+Dialogue: 0,0:15:31.64,0:15:35.68,Default,,0,0,0,,They're pasted on stores where\Nthe Reapers allow us to shop.
+Dialogue: 0,0:15:35.68,0:15:36.64,Default,,0,0,0,,Shop?
+Dialogue: 0,0:15:36.64,0:15:37.85,Default,,0,0,0,,Hang on.
+Dialogue: 0,0:15:41.73,0:15:43.06,Default,,0,0,0,,How'd you buy that?
+Dialogue: 0,0:15:43.06,0:15:46.78,Default,,0,0,0,,I thought people in the\NRealground couldn't see us.
+Dialogue: 0,0:15:46.78,0:15:47.99,Default,,0,0,0,,Not normally.
+Dialogue: 0,0:15:47.99,0:15:49.03,Default,,0,0,0,,Here.
+Dialogue: 0,0:15:50.03,0:15:54.53,Default,,0,0,0,,We're made corporeal inside stores\Nwith Reaper decals on them.
+Dialogue: 0,0:15:54.53,0:15:55.99,Default,,0,0,0,,Why?
+Dialogue: 0,0:15:55.99,0:16:00.71,Default,,0,0,0,,Who knows. It seems like Reapers\Ncan become corporeal at will.
+Dialogue: 0,0:16:01.87,0:16:05.09,Default,,0,0,0,,What a shame. The Route 2 wall is sealed.
+Dialogue: 0,0:16:12.22,0:16:14.30,Default,,0,0,0,,Skater-Brain.
+Dialogue: 0,0:16:14.30,0:16:15.76,Default,,0,0,0,,Something wrong?
+Dialogue: 0,0:16:15.76,0:16:17.43,Default,,0,0,0,,No, it's nothing.
+Dialogue: 0,0:16:17.43,0:16:19.98,Default,,0,0,0,,Take us to Route 3.
+Dialogue: 0,0:16:19.98,0:16:22.19,Default,,0,0,0,,This is Route 3.
+Dialogue: 0,0:16:22.19,0:16:25.40,Default,,0,0,0,,It's the street that cuts\Nthrough from Modi to Parco.
+Dialogue: 0,0:16:28.65,0:16:30.53,Default,,0,0,0,,The countdown's still going.
+Dialogue: 0,0:16:32.95,0:16:34.62,Default,,0,0,0,,Let's try walking.
+Dialogue: 0,0:16:39.79,0:16:41.50,Default,,0,0,0,,There's one here too?
+Dialogue: 0,0:16:51.51,0:16:52.42,Default,,0,0,0,,Noise?
+Dialogue: 0,0:16:52.42,0:16:54.68,Default,,0,0,0,,They seem different from usual.
+Dialogue: 0,0:17:02.48,0:17:03.69,Default,,0,0,0,,As if!
+Dialogue: 0,0:17:09.15,0:17:10.82,Default,,0,0,0,,My attacks don't work?!
+Dialogue: 0,0:17:24.83,0:17:26.67,Default,,0,0,0,,Thank you, Neku.
+Dialogue: 0,0:17:26.67,0:17:28.59,Default,,0,0,0,,Let's do this together.
+Dialogue: 0,0:17:29.92,0:17:31.26,Default,,0,0,0,,Fine.
+Dialogue: 0,0:17:35.30,0:17:36.97,Default,,0,0,0,,Focus.
+Dialogue: 0,0:17:36.97,0:17:38.85,Default,,0,0,0,,Sharpen your senses.
+Dialogue: 0,0:17:54.78,0:17:55.99,Default,,0,0,0,,I can do this!
+Dialogue: 0,0:17:56.53,0:17:57.82,Default,,0,0,0,,One more!
+Dialogue: 0,0:17:58.95,0:18:00.45,Default,,0,0,0,,Chew on this!
+Dialogue: 0,0:18:09.33,0:18:12.17,Default,,0,0,0,,What was that black Noise just now?
+Dialogue: 0,0:18:12.17,0:18:17.09,Default,,0,0,0,,It seemed as though we could only\Ndamage it by attacking together.
+Dialogue: 0,0:18:17.09,0:18:19.26,Default,,0,0,0,,Oh, was that it?
+Dialogue: 0,0:18:19.26,0:18:21.72,Default,,0,0,0,,Don't tell me you didn't realize.
+Dialogue: 0,0:18:21.72,0:18:24.14,Default,,0,0,0,,As your partner, that's concerning.
+Dialogue: 0,0:18:24.14,0:18:26.48,Default,,0,0,0,,There weren't any like that before.
+Dialogue: 0,0:18:29.52,0:18:32.61,Default,,0,0,0,,Yes. It's odd.
+Dialogue: 0,0:18:32.61,0:18:34.40,Default,,0,0,0,,Taboo Noise?
+Dialogue: 0,0:18:35.53,0:18:36.74,Default,,0,0,0,,You say something?
+Dialogue: 0,0:18:36.74,0:18:38.66,Default,,0,0,0,,Nothing at all.
+Dialogue: 0,0:18:38.66,0:18:41.12,Default,,0,0,0,,It seems like that cleared the mission.
+Dialogue: 0,0:18:45.37,0:18:47.21,Default,,0,0,0,,That girl.
+Dialogue: 0,0:18:47.21,0:18:48.42,Default,,0,0,0,,She's Shiki's...
+Dialogue: 0,0:18:57.55,0:18:59.30,Default,,0,0,0,,You always buy these.
+Dialogue: 0,0:19:00.89,0:19:02.85,Default,,0,0,0,,My friend liked them.
+Dialogue: 0,0:19:02.85,0:19:06.23,Default,,0,0,0,,I don't want her to be lonely,\Nso every day I go to visit--
+Dialogue: 0,0:19:08.85,0:19:12.15,Default,,0,0,0,,I mean, leave offerings for her.
+Dialogue: 0,0:19:12.15,0:19:14.82,Default,,0,0,0,,Oh, wait a moment.
+Dialogue: 0,0:19:20.74,0:19:22.82,Default,,0,0,0,,I'm the one who's lonely.
+Dialogue: 0,0:19:24.49,0:19:25.66,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:19:27.87,0:19:29.41,Default,,0,0,0,,It's my fault.
+Dialogue: 0,0:19:33.04,0:19:35.84,Default,,0,0,0,,Shiki... I miss you.
+Dialogue: 0,0:19:37.26,0:19:38.67,Default,,0,0,0,,Please, take this.
+Dialogue: 0,0:19:38.67,0:19:40.05,Default,,0,0,0,,Huh?
+Dialogue: 0,0:19:40.05,0:19:43.72,Default,,0,0,0,,I put it in the back because\Nthe flowers finished blooming,
+Dialogue: 0,0:19:43.72,0:19:46.35,Default,,0,0,0,,but it's still pretty, so take it.
+Dialogue: 0,0:19:46.35,0:19:49.14,Default,,0,0,0,,Thank you so much.
+Dialogue: 0,0:19:49.14,0:19:51.23,Default,,0,0,0,,Isn't that nice, Shiki?
+Dialogue: 0,0:20:00.90,0:20:04.53,Default,,0,0,0,,She's skillful, sensitive,\Nand a hard worker.
+Dialogue: 0,0:20:04.53,0:20:06.41,Default,,0,0,0,,But now...
+Dialogue: 0,0:20:06.41,0:20:08.04,Default,,0,0,0,,It's still...
+Dialogue: 0,0:20:08.04,0:20:10.75,Default,,0,0,0,,...our dream.
+Dialogue: 0,0:20:10.75,0:20:14.71,Default,,0,0,0,,I'll come back to life and\Nmake clothes with her!
+Dialogue: 0,0:20:14.71,0:20:16.34,Default,,0,0,0,,Do I...?
+Dialogue: 0,0:20:28.97,0:20:31.56,Default,,0,0,0,,When did I die?
+Dialogue: 0,0:20:31.56,0:20:33.65,Default,,0,0,0,,Where? How?
+Dialogue: 0,0:20:34.86,0:20:37.02,Default,,0,0,0,,The memories I lost are coming back.
+Dialogue: 0,0:20:37.02,0:20:39.61,Default,,0,0,0,,But... I don't remember my death.
+Dialogue: 0,0:20:39.61,0:20:40.86,Default,,0,0,0,,Neku.
+Dialogue: 0,0:20:42.07,0:20:46.62,Default,,0,0,0,,If you want to live,\Nyou'd better listen to me.
+Dialogue: 0,0:20:46.62,0:20:49.62,Default,,0,0,0,,I knew it! You do know something!
+Dialogue: 0,0:20:55.08,0:20:58.21,Default,,0,0,0,,Why... am I lying there?
+Dialogue: 0,0:21:01.42,0:21:03.97,Default,,0,0,0,,That's... Udagawa.
+Dialogue: 0,0:21:07.60,0:21:09.47,Default,,0,0,0,,Blood.
+Dialogue: 0,0:21:09.47,0:21:11.77,Default,,0,0,0,,Is this my death?
+Dialogue: 0,0:21:11.77,0:21:14.81,Default,,0,0,0,,Is Udagawa where...
+Dialogue: 0,0:21:14.81,0:21:16.40,Default,,0,0,0,,...I died?
+Dialogue: 0,0:21:19.07,0:21:20.36,Default,,0,0,0,,Neku?
+Dialogue: 0,0:21:21.94,0:21:25.49,Default,,0,0,0,,Did you scan me, by any chance?
+Dialogue: 0,0:21:38.63,0:21:39.63,Default,,0,0,0,,Beat?!
+Dialogue: 0,0:21:39.63,0:21:41.00,Default,,0,0,0,,Hey...
+Dialogue: 0,0:21:41.00,0:21:43.26,Default,,0,0,0,,...those wings!
+Dialogue: 0,0:21:43.26,0:21:45.76,Default,,0,0,0,,You his new partner?
+Dialogue: 0,0:21:45.76,0:21:47.68,Default,,0,0,0,,Yes, I am.
+Dialogue: 0,0:21:47.68,0:21:48.80,Default,,0,0,0,,Who cares.
+Dialogue: 0,0:21:48.80,0:21:51.77,Default,,0,0,0,,This order came straight from Kitaniji.
+Dialogue: 0,0:21:51.77,0:21:53.98,Default,,0,0,0,,I'll wipe the floor with you!
+Dialogue: 0,0:21:59.19,0:22:00.44,Default,,0,0,0,,You're weak!
+Dialogue: 0,0:22:01.53,0:22:05.40,Default,,0,0,0,,You think you'll stand\Na chance like that?!
+Dialogue: 0,0:22:05.40,0:22:07.20,Default,,0,0,0,,Beat.
+Dialogue: 0,0:22:07.20,0:22:10.45,Default,,0,0,0,,Shiki was taken as my entry fee.
+Dialogue: 0,0:22:10.45,0:22:12.58,Default,,0,0,0,,So...
+Dialogue: 0,0:22:12.58,0:22:15.62,Default,,0,0,0,,...I want to bring Shiki back to life!
+Dialogue: 0,0:22:15.62,0:22:17.71,Default,,0,0,0,,You wanted Rhyme to...
+Dialogue: 0,0:22:17.71,0:22:20.21,Default,,0,0,0,,I'll call it here for today.
+Dialogue: 0,0:22:21.96,0:22:23.92,Default,,0,0,0,,Wait, Beat!
+Dialogue: 0,0:22:23.92,0:22:27.09,Default,,0,0,0,,Beat!
+Dialogue: 0,0:23:59.48,0:24:01.31,Default,,0,0,0,,Next time: "CAT."

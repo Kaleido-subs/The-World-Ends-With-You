@@ -15,10 +15,10 @@ Audio File: ../../TWEWY_03 (Premux).mkv
 Video File: ../../TWEWY_03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 3
-Active Line: 14
-Video Position: 896
+Video Zoom Percent: 0.500000
+Scroll Position: 54
+Active Line: 59
+Video Position: 6567
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,48 +42,48 @@ Dialogue: 10,0:00:28.09,0:00:29.18,Default,,0,0,0,,But then...
 Dialogue: 10,0:00:30.09,0:00:32.68,Default,,0,0,0,,... how did I die?
 Dialogue: 10,0:00:34.31,0:00:36.52,Default,,0,0,0,,Oh, Neku.
 Dialogue: 10,0:00:37.35,0:00:38.69,Default,,0,0,0,,It's no use.
-Dialogue: 10,0:00:39.27,0:00:40.90,Default,,0,0,0,,I can't remember anything.
-Dialogue: 10,0:00:42.73,0:00:47.40,Default,,0,0,0,,Your amnesia might have something\Nto do with your entry fee.
+Dialogue: 10,0:00:39.27,0:00:40.90,Default,,0,0,0,,I still can't remember anything.
+Dialogue: 10,0:00:42.73,0:00:47.40,Default,,0,0,0,,Your amnesia, it might have \Nsomething to do with your entry fee. 
 Dialogue: 10,0:00:47.86,0:00:48.95,Default,,0,0,0,,Entry fee?
-Dialogue: 10,0:00:49.65,0:00:52.20,Default,,0,0,0,,When you enter the Reapers' Game,
-Dialogue: 10,0:00:52.20,0:00:56.58,Default,,0,0,0,,they take whatever is most\Nimportant to you. No exceptions.
-Dialogue: 10,0:00:54.87,0:00:58.26,Default,,0,0,0,,{\an8}She's so late. It's been 20 minutes.
-Dialogue: 10,0:00:58.26,0:00:59.36,Default,,0,0,0,,{\an8}I wonder what the hold up is. {Missing Line; Added dialogue- Waffles}
+Dialogue: 10,0:00:49.65,0:00:52.20,Default,,0,0,0,,When you play the Reapers' Game,
+Dialogue: 10,0:00:52.20,0:00:56.58,Default,,0,0,0,,they take the thing that is most \Nimportant to you. No Exceptions.
+Dialogue: 10,0:00:54.87,0:00:58.26,Default,,0,0,0,,{\an8}She's so late. It's been 20 minutes already.
+Dialogue: 10,0:00:58.26,0:00:59.36,Default,,0,0,0,,{\an8}I wonder why she's late. {Missing Line; Added dialogue- Waffles}
 Dialogue: 10,0:00:59.36,0:00:59.83,Default,,0,0,0,,{\an8}Right? {Missing Line; Added dialogue- Waffles}
-Dialogue: 10,0:01:00.71,0:01:05.50,Default,,0,0,0,,Remember when Rhyme said\Nshe didn't have a dream yesterday?
-Dialogue: 10,0:01:05.50,0:01:08.05,Default,,0,0,0,,Yeah, 'cause Skater-Brain got mad at me.
-Dialogue: 10,0:01:08.46,0:01:12.80,Default,,0,0,0,,I bet that was because it was\Ntaken as her entry fee.
-Dialogue: 10,0:01:13.51,0:01:16.81,Default,,0,0,0,,Just like how I can't remember anything.
+Dialogue: 10,0:01:00.71,0:01:05.50,Default,,0,0,0,,Remember yesterday? When Rhyme said she didn't have a dream?
+Dialogue: 10,0:01:05.50,0:01:08.05,Default,,0,0,0,,Yeah, 'cause Sk8rboi got mad at me.
+Dialogue: 10,0:01:08.46,0:01:12.80,Default,,0,0,0,,I bet that her "dream" was what \Nwas taken as her entry fee.
+Dialogue: 10,0:01:13.51,0:01:16.81,Default,,0,0,0,,kinda like how I can't remember anything.
 Dialogue: 10,0:01:16.81,0:01:20.56,Default,,0,0,0,,In my case, I didn't like myself,
-Dialogue: 10,0:01:20.56,0:01:23.56,Default,,0,0,0,,so I didn't get why they\Ntook my appearance.
+Dialogue: 10,0:01:20.56,0:01:23.56,Default,,0,0,0,,so I don't get why they\Ntook my appearance.
 Dialogue: 10,0:01:24.11,0:01:25.61,Default,,0,0,0,,But now I know.
-Dialogue: 10,0:01:26.57,0:01:30.24,Default,,0,0,0,,When I saw that I look like Eri here,
+Dialogue: 10,0:01:26.57,0:01:30.24,Default,,0,0,0,,When I first realized that\NI looked like Eri in the UG,
 Dialogue: 10,0:01:30.24,0:01:33.82,Default,,0,0,0,,I was surprised, but happy.
-Dialogue: 10,0:01:34.95,0:01:37.29,Default,,0,0,0,,I always wanted to change. {Alternatively; I always wanted to be someone else.}
+Dialogue: 10,0:01:34.95,0:01:37.29,Default,,0,0,0,,I always wanted to look like someone else. {Alternatively; I always wanted to be someone else.}
 Dialogue: 10,0:01:37.29,0:01:40.66,Default,,0,0,0,,I thought that I could be like Eri,\Ncute and capable.
-Dialogue: 10,0:01:40.66,0:01:43.54,Default,,0,0,0,,But... I couldn't be like her.
-Dialogue: 10,0:01:43.54,0:01:46.46,Default,,0,0,0,,I realised I was still me inside.
-Dialogue: 10,0:01:46.46,0:01:48.71,Default,,0,0,0,,I didn't want to work on myself,
-Dialogue: 10,0:01:49.26,0:01:52.09,Default,,0,0,0,,so I envied Eri instead \Nand acted like I was a victim.
+Dialogue: 10,0:01:40.66,0:01:43.54,Default,,0,0,0,,But... I just couldn't be like her.
+Dialogue: 10,0:01:43.54,0:01:46.46,Default,,0,0,0,,I realised that it was still me inside.
+Dialogue: 10,0:01:46.46,0:01:48.71,Default,,0,0,0,,I rejected that it was my issue,
+Dialogue: 10,0:01:49.26,0:01:52.09,Default,,0,0,0,,so I envied Eri instead \Nand pretended like I was a victim.
 Dialogue: 10,0:01:52.09,0:01:54.18,Default,,0,0,0,,But I did that to protect myself.
-Dialogue: 10,0:01:56.43,0:02:00.31,Default,,0,0,0,,Now I realise that being myself \Nis the most important thing to me.
+Dialogue: 10,0:01:56.43,0:02:00.31,Default,,0,0,0,,Now I realise that my individuality \Nis the most important thing to me.
 Dialogue: 10,0:02:00.31,0:02:03.98,Default,,0,0,0,,That's why they took my\Nappearance as my entry fee.
 Dialogue: 10,0:02:04.44,0:02:08.65,Default,,0,0,0,,But that doesn't matter since \NI finally understand myself now.
 Dialogue: 10,0:02:10.23,0:02:11.36,Default,,0,0,0,,Is that so?
-Dialogue: 10,0:02:12.82,0:02:17.08,Default,,0,0,0,,If we survive seven days, we'll get our\Nentry fees back along with our lives.
-Dialogue: 10,0:02:17.99,0:02:20.33,Default,,0,0,0,,Two days left. Let's do this!
+Dialogue: 10,0:02:12.82,0:02:17.08,Default,,0,0,0,,If we survive all seven days, we'll get our entry fees back and, a second chance at life.
+Dialogue: 10,0:02:17.99,0:02:20.33,Default,,0,0,0,,Two days left. Let's get this bread!
 Dialogue: 10,0:02:22.25,0:02:23.00,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:02:24.08,0:02:27.50,Default,,0,0,0,,That said, I don't see\NBeat and Rhyme around.
-Dialogue: 10,0:02:28.42,0:02:30.76,Default,,0,0,0,,{\an8}They must be around here somewhere.
-Dialogue: 10,0:02:29.46,0:02:32.67,Default,,0,0,0,,What will I do if I survive?
-Dialogue: 10,0:04:07.60,0:04:09.06,Default,,0,0,0,,Seems like everything's going smoothly.
+Dialogue: 10,0:02:24.08,0:02:27.50,Default,,0,0,0,,That said, I haven't seen\NBeat and Rhyme for a while.
+Dialogue: 10,0:02:28.42,0:02:30.76,Default,,0,0,0,,{\an8}They've gotta be around here somewhere.
+Dialogue: 10,0:02:29.46,0:02:32.67,Default,,0,0,0,,What will I do if I come back to life?
+Dialogue: 10,0:04:07.60,0:04:09.06,Default,,0,0,0,,Thing's are going smoothly, I see.
 Dialogue: 10,0:04:09.06,0:04:09.77,Default,,0,0,0,,Yes, sir!
 Dialogue: 10,0:04:10.65,0:04:12.57,Default,,0,0,0,,Four Players remain.
-Dialogue: 10,0:04:12.57,0:04:15.65,Default,,0,0,0,,I'll cook them all up\Nbefore tomorrow ends.
-Dialogue: 10,0:04:15.65,0:04:17.61,Default,,0,0,0,,I expect great things from you.
+Dialogue: 10,0:04:12.57,0:04:15.65,Default,,0,0,0,,I'll cook them all up\Nbefore tomorrow ends. 
+Dialogue: 10,0:04:15.65,0:04:17.61,Default,,0,0,0,,I'm expecting great things, Higashizawa.
 Dialogue: 10,0:04:17.61,0:04:20.16,Default,,0,0,0,,I will not fail you.
 Dialogue: 10,0:04:20.62,0:04:24.54,Default,,0,0,0,,When this game ends,\Nyou'll officially be...
-Dialogue: 10,0:04:24.54,0:04:26.20,Default,,0,0,0,,You have my utmost thanks and appreciation.
+Dialogue: 10,0:04:24.54,0:04:26.20,Default,,0,0,0,,You have my most sincere gratitude.
 Dialogue: 10,0:04:28.87,0:04:32.04,Default,,0,0,0,,Oh! Beat! Rhyme!
 Dialogue: 10,0:04:32.04,0:04:33.46,Default,,0,0,0,,Over here!
 Dialogue: 10,0:04:33.88,0:04:37.47,Default,,0,0,0,,No need ta shout. You're gonna embarrass us.

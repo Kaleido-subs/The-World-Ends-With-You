@@ -15,10 +15,10 @@ Audio File: ../../TWEWY_03 (Premux).mkv
 Video File: ../../TWEWY_03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 54
-Active Line: 59
-Video Position: 6567
+Video Zoom Percent: 0.375000
+Scroll Position: 65
+Active Line: 77
+Video Position: 7516
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,7 +43,7 @@ Dialogue: 10,0:00:30.09,0:00:32.68,Default,,0,0,0,,... how did I die?
 Dialogue: 10,0:00:34.31,0:00:36.52,Default,,0,0,0,,Oh, Neku.
 Dialogue: 10,0:00:37.35,0:00:38.69,Default,,0,0,0,,It's no use.
 Dialogue: 10,0:00:39.27,0:00:40.90,Default,,0,0,0,,I still can't remember anything.
-Dialogue: 10,0:00:42.73,0:00:47.40,Default,,0,0,0,,Your amnesia, it might have \Nsomething to do with your entry fee. 
+Dialogue: 10,0:00:42.73,0:00:47.40,Default,,0,0,0,,Your amnesia, it might have \Nsomething to do with your entry fee.
 Dialogue: 10,0:00:47.86,0:00:48.95,Default,,0,0,0,,Entry fee?
 Dialogue: 10,0:00:49.65,0:00:52.20,Default,,0,0,0,,When you play the Reapers' Game,
 Dialogue: 10,0:00:52.20,0:00:56.58,Default,,0,0,0,,they take the thing that is most \Nimportant to you. No Exceptions.
@@ -79,14 +79,14 @@ Dialogue: 10,0:02:29.46,0:02:32.67,Default,,0,0,0,,What will I do if I come back
 Dialogue: 10,0:04:07.60,0:04:09.06,Default,,0,0,0,,Thing's are going smoothly, I see.
 Dialogue: 10,0:04:09.06,0:04:09.77,Default,,0,0,0,,Yes, sir!
 Dialogue: 10,0:04:10.65,0:04:12.57,Default,,0,0,0,,Four Players remain.
-Dialogue: 10,0:04:12.57,0:04:15.65,Default,,0,0,0,,I'll cook them all up\Nbefore tomorrow ends. 
+Dialogue: 10,0:04:12.57,0:04:15.65,Default,,0,0,0,,I'll cook them all up\Nbefore tomorrow ends.
 Dialogue: 10,0:04:15.65,0:04:17.61,Default,,0,0,0,,I'm expecting great things, Higashizawa.
 Dialogue: 10,0:04:17.61,0:04:20.16,Default,,0,0,0,,I will not fail you.
 Dialogue: 10,0:04:20.62,0:04:24.54,Default,,0,0,0,,When this game ends,\Nyou'll officially be...
 Dialogue: 10,0:04:24.54,0:04:26.20,Default,,0,0,0,,You have my most sincere gratitude.
 Dialogue: 10,0:04:28.87,0:04:32.04,Default,,0,0,0,,Oh! Beat! Rhyme!
 Dialogue: 10,0:04:32.04,0:04:33.46,Default,,0,0,0,,Over here!
-Dialogue: 10,0:04:33.88,0:04:37.47,Default,,0,0,0,,No need ta shout. You're gonna embarrass us.
+Dialogue: 10,0:04:33.88,0:04:37.47,Default,,0,0,0,,No need ta shout. Ya gonna embarrass us.
 Dialogue: 10,0:04:37.47,0:04:39.22,Default,,0,0,0,,Sorry about that.
 Dialogue: 10,0:04:39.63,0:04:42.39,Default,,0,0,0,,It's fine. Only other Players \Ncan hear us, remember?
 Dialogue: 10,0:04:42.39,0:04:44.97,Default,,0,0,0,,Well... I guess so.
@@ -95,16 +95,16 @@ Dialogue: 10,0:04:47.89,0:04:49.60,Default,,0,0,0,,Stay focused out there!
 Dialogue: 10,0:04:49.60,0:04:50.39,Default,,0,0,0,,{\pos(1600,1024)}Yeah!
 Dialogue: 10,0:04:49.94,0:04:50.39,Default,,0,0,0,,{\pos(760, 1024)}Yeah!
 Dialogue: 10,0:04:51.27,0:04:52.27,Default,,0,0,0,,Whoa!
-Dialogue: 10,0:04:53.19,0:04:55.11,Default,,0,0,0,,Oh, it's just the mission.
+Dialogue: 10,0:04:53.19,0:04:55.11,Default,,0,0,0,,Oh, was jus' the mission.
 Dialogue: 10,0:04:55.11,0:04:56.98,Default,,0,0,0,,You totally overreacted there.
 Dialogue: 10,0:04:57.90,0:04:59.99,Default,,0,0,0,,"Reach Tower Records."
 Dialogue: 10,0:05:00.36,0:05:02.99,Default,,0,0,0,,"No time limit"?
 Dialogue: 10,0:05:02.99,0:05:05.41,Default,,0,0,0,,Huh? But that sounds so simple...
-Dialogue: 10,0:05:05.41,0:05:07.37,Default,,0,0,0,,It's ten minutes by foot.
+Dialogue: 10,0:05:05.41,0:05:07.37,Default,,0,0,0,,It's only a 10 minute walk away.
 Dialogue: 10,0:05:07.37,0:05:08.66,Default,,0,0,0,,Aight!
-Dialogue: 10,0:05:08.66,0:05:12.12,Default,,0,0,0,,Let's race to see who can\Nget there first, us or you guys!
+Dialogue: 10,0:05:08.66,0:05:12.12,Default,,0,0,0,,Let's 'ave a race ta see who can \Nget there the fastest! Us vs. you guys!
 Dialogue: 10,0:05:12.12,0:05:13.08,Default,,0,0,0,,Huh?
-Dialogue: 10,0:05:13.46,0:05:16.42,Default,,0,0,0,,No issues, right? Besides, \Nwe can clear the mission faster this way.
+Dialogue: 10,0:05:13.46,0:05:16.42,Default,,0,0,0,,No problems, right? This way, \Nwe can clear the mission faster.
 Dialogue: 10,0:05:17.21,0:05:18.55,Default,,0,0,0,,I mean...
 Dialogue: 10,0:05:18.55,0:05:20.05,Default,,0,0,0,,No cheating.
 Dialogue: 10,0:05:20.97,0:05:22.39,Default,,0,0,0,,Let's move, Rhyme!
@@ -114,35 +114,35 @@ Dialogue: 10,0:05:27.64,0:05:27.77,Default,,0,0,0,,{\pos(900,1024)}Here we go!
 Dialogue: 10,0:05:27.77,0:05:27.89,Default,,0,0,0,,{\pos(700,1024)}Here we go!
 Dialogue: 10,0:05:27.89,0:05:28.02,Default,,0,0,0,,{\pos(400,1024}Here we go!
 Dialogue: 10,0:05:28.02,0:05:28.14,Default,,0,0,0,,{\pos(0,1024)}Here we go!
-Dialogue: 10,0:05:29.73,0:05:31.27,Default,,0,0,0,,And {\i1}that's {\i0}not cheating?
+Dialogue: 10,0:05:29.73,0:05:31.27,Default,,0,0,0,,And {\i1}that {\i0}ain't cheating?
 Dialogue: 10,0:05:34.73,0:05:36.98,Default,,0,0,0,,Hey, this is way too lax!
-Dialogue: 10,0:05:36.98,0:05:39.11,Default,,0,0,0,,"No time limit"?! What the hell?!
+Dialogue: 10,0:05:36.98,0:05:39.11,Default,,0,0,0,,"No time limit"?! The hell?!
 Dialogue: 10,0:05:39.11,0:05:40.86,Default,,0,0,0,,Are they making us work overtime?!
 Dialogue: 10,0:05:40.86,0:05:44.03,Default,,0,0,0,,Yeah, yeah. Don't get your\Npanties in a bunch.
 Dialogue: 10,0:05:49.00,0:05:50.79,Default,,0,0,0,,Oh! There they are!
 Dialogue: 10,0:05:50.79,0:05:52.75,Default,,0,0,0,,Beat! Rhyme!
 Dialogue: 10,0:05:52.75,0:05:56.00,Default,,0,0,0,,Slowpokes! Didn't I say this was a race?!
 Dialogue: 10,0:05:56.34,0:05:58.34,Default,,0,0,0,,Are ya even tryin'?
-Dialogue: 10,0:05:58.34,0:06:00.42,Default,,0,0,0,,You're the only one who wanted to race.
-Dialogue: 10,0:06:00.42,0:06:02.43,Default,,0,0,0,,Don't you wanna win?!
-Dialogue: 10,0:06:02.43,0:06:04.76,Default,,0,0,0,,Why didn't you clear the mission yet?
+Dialogue: 10,0:05:58.34,0:06:00.42,Default,,0,0,0,,The only one who wanted to race here was you.
+Dialogue: 10,0:06:00.42,0:06:02.43,Default,,0,0,0,,Where's ya fighting spirit?!
+Dialogue: 10,0:06:02.43,0:06:04.76,Default,,0,0,0,,Well, why didn't you clear the mission then?
 Dialogue: 10,0:06:04.76,0:06:05.55,Default,,0,0,0,,What?
 Dialogue: 10,0:06:05.55,0:06:07.64,Default,,0,0,0,,Tower Records is right there.
 Dialogue: 10,0:06:07.64,0:06:09.56,Default,,0,0,0,,W-Well, about that...
-Dialogue: 10,0:06:11.56,0:06:13.27,Default,,0,0,0,,Beat's the one who said we should wait.
-Dialogue: 10,0:06:13.27,0:06:16.36,Default,,0,0,0,,Wait, no! Come on, \Ndidja really have to tell them?
-Dialogue: 10,0:06:16.81,0:06:18.19,Default,,0,0,0,,You're not as mean as you look.
+Dialogue: 10,0:06:11.56,0:06:13.27,Default,,0,0,0,,Beat said that we should wait for you guys.
+Dialogue: 10,0:06:13.27,0:06:16.36,Default,,0,0,0,,Wait, no! Come on, \Ndidja really 'ave to tell 'em?
+Dialogue: 10,0:06:16.81,0:06:18.19,Default,,0,0,0,,You're a softie, aren't you.
 Dialogue: 10,0:06:18.19,0:06:19.94,Default,,0,0,0,,Don't {\i1}you{\i0} make this weird too!
-Dialogue: 10,0:06:19.94,0:06:23.45,Default,,0,0,0,,I just wanted to see the\Nsalty look on Phones' face!
+Dialogue: 10,0:06:19.94,0:06:23.45,Default,,0,0,0,,I just wanted ta see Phones' salty face!
 Dialogue: 10,0:06:25.24,0:06:26.28,Default,,0,0,0,,Wait up!
 Dialogue: 10,0:06:26.28,0:06:27.91,Default,,0,0,0,,Think about it.
-Dialogue: 10,0:06:28.37,0:06:31.25,Default,,0,0,0,,It's day six. The game's going well.
+Dialogue: 10,0:06:28.37,0:06:31.25,Default,,0,0,0,,It's day six. The game's going smoothly.
 Dialogue: 10,0:06:31.25,0:06:33.29,Default,,0,0,0,,The mission is simple.
-Dialogue: 10,0:06:33.29,0:06:35.46,Default,,0,0,0,,What will the Players do?
-Dialogue: 10,0:06:36.88,0:06:39.00,Default,,0,0,0,,It's so they let their guards down, right?
+Dialogue: 10,0:06:33.29,0:06:35.46,Default,,0,0,0,,What do you think the \NPlayers are going to do?
+Dialogue: 10,0:06:36.88,0:06:39.00,Default,,0,0,0,,They're going to let their guards down, right?
 Dialogue: 10,0:06:39.00,0:06:43.26,Default,,0,0,0,,And then all we have to do is \Nfollow the Boss' orders.
-Dialogue: 10,0:06:44.88,0:06:46.26,Default,,0,0,0,,I guess so.
-Dialogue: 10,0:06:46.26,0:06:48.14,Default,,0,0,0,,I can't wait to see the result.
+Dialogue: 10,0:06:44.88,0:06:46.26,Default,,0,0,0,,I guess you're right.
+Dialogue: 10,0:06:46.26,0:06:48.14,Default,,0,0,0,,Im excited to see the result.
 Dialogue: 10,0:06:50.89,0:06:52.60,Default,,0,0,0,,This way, Rhyme!
 Dialogue: 10,0:06:53.27,0:06:53.85,Default,,0,0,0,,Huh?
 Dialogue: 10,0:06:57.02,0:06:58.06,Default,,0,0,0,,That's...!
@@ -151,22 +151,22 @@ Dialogue: 10,0:07:17.79,0:07:18.88,Default,,0,0,0,,Mr. Mew!
 Dialogue: 10,0:07:24.51,0:07:25.22,Default,,0,0,0,,Shiki!
 Dialogue: 10,0:07:45.32,0:07:46.32,Default,,0,0,0,,Rhyme?
 Dialogue: 10,0:07:47.78,0:07:48.91,Default,,0,0,0,,Ugh.
-Dialogue: 10,0:07:49.66,0:07:52.41,Default,,0,0,0,,I was hoping it'd get you all in one bite too.
+Dialogue: 10,0:07:49.66,0:07:52.41,Default,,0,0,0,,And here I was, hoping it'd \Nget you all in one chomp too.
 Dialogue: 10,0:07:52.74,0:07:53.91,Default,,0,0,0,,Reapers!
 Dialogue: 10,0:07:54.62,0:07:55.91,Default,,0,0,0,,Rhyme...
 Dialogue: 10,0:07:57.12,0:07:59.13,Default,,0,0,0,,Where's Rhyme?
-Dialogue: 10,0:07:59.46,0:08:03.46,Default,,0,0,0,,Weren't you watching? She got erased.
+Dialogue: 10,0:07:59.46,0:08:03.46,Default,,0,0,0,,Weren't you watching? She's been erased. 
 Dialogue: 10,0:08:03.46,0:08:07.38,Default,,0,0,0,,She bit the dust. Her soul is \Nnow scattered across Shibuya.
 Dialogue: 10,0:08:07.68,0:08:10.89,Default,,0,0,0,,You bastards did this, didn't you?
-Dialogue: 10,0:08:11.43,0:08:13.18,Default,,0,0,0,,Well, it {\i1}is {\i0}our job.
+Dialogue: 10,0:08:11.43,0:08:13.18,Default,,0,0,0,,Well, who {\i1}else{\i0} could it be?
 Dialogue: 10,0:08:13.18,0:08:14.39,Default,,0,0,0,,Cut the crap!
 Dialogue: 10,0:08:14.89,0:08:17.85,Default,,0,0,0,,You... You erased Rhyme!
 Dialogue: 10,0:08:18.81,0:08:20.90,Default,,0,0,0,,Oh no, I'm {\i1}so {\i0}scared.
 Dialogue: 10,0:08:21.23,0:08:24.23,Default,,0,0,0,,The lil' shrimp protected you.
-Dialogue: 10,0:08:24.98,0:08:27.24,Default,,0,0,0,,Well, up until she got erased.
+Dialogue: 10,0:08:24.98,0:08:27.24,Default,,0,0,0,,That is, until she was erased.
 Dialogue: 10,0:08:27.24,0:08:28.57,Default,,0,0,0,,Shut up!
 Dialogue: 10,0:08:28.57,0:08:30.99,Default,,0,0,0,,G-Give her back! Give back Rhyme!
-Dialogue: 10,0:08:36.45,0:08:39.87,Default,,0,0,0,,I'd really love to deal with you myself,
+Dialogue: 10,0:08:36.45,0:08:39.87,Default,,0,0,0,,I'd really love to deal with you myself, 
 Dialogue: 10,0:08:39.87,0:08:43.75,Default,,0,0,0,,but we're only allowed to summon Noise.\NWe can't attack Players.
 Dialogue: 10,0:08:43.75,0:08:46.46,Default,,0,0,0,,So we're leaving. See ya.
 Dialogue: 10,0:08:46.92,0:08:48.30,Default,,0,0,0,,Get back here!

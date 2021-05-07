@@ -16,9 +16,9 @@ Video File: ../../TWEWY_03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 203
-Active Line: 209
-Video Position: 18064
+Scroll Position: 221
+Active Line: 231
+Video Position: 19705
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -168,7 +168,7 @@ Dialogue: 10,0:08:27.24,0:08:28.57,Default,,0,0,0,,Shut up!
 Dialogue: 10,0:08:28.57,0:08:30.99,Default,,0,0,0,,G-Give her back! Give back Rhyme!
 Dialogue: 10,0:08:36.45,0:08:39.87,Default,,0,0,0,,I'd really love to deal with you myself,
 Dialogue: 10,0:08:39.87,0:08:43.75,Default,,0,0,0,,but we're forbidden from attacking Players. \NSo all I can do is harass you with Noise.
-Dialogue: 10,0:08:43.75,0:08:46.46,Default,,0,0,0,,We're gonna leave now. See ya later, skater boy. 
+Dialogue: 10,0:08:43.75,0:08:46.46,Default,,0,0,0,,We're gonna leave now. See ya later, skater boy.
 Dialogue: 10,0:08:46.92,0:08:48.30,Default,,0,0,0,,Get back here!
 Dialogue: 10,0:08:48.30,0:08:50.26,Default,,0,0,0,,Rules are rules.
 Dialogue: 10,0:08:53.60,0:08:55.10,Default,,0,0,0,,Get back here.
@@ -187,7 +187,7 @@ Dialogue: 10,0:09:26.34,0:09:27.34,Default,,0,0,0,,Name's Hanekoma.
 Dialogue: 10,0:09:27.34,0:09:28.80,Default,,0,0,0,,Lemme go!
 Dialogue: 10,0:09:29.13,0:09:31.72,Default,,0,0,0,,Ya won't be able to do shit to the Noise without a partner.
 Dialogue: 10,0:09:31.72,0:09:33.14,Default,,0,0,0,,As if I give a damn.
-Dialogue: 10,0:09:33.14,0:09:37.01,Default,,0,0,0,,A Player who loses their partner\Nonly has a few minutes left to live. 
+Dialogue: 10,0:09:33.14,0:09:37.01,Default,,0,0,0,,A Player who loses their partner\Nonly has a few minutes left to live.
 Dialogue: 10,0:09:37.64,0:09:39.48,Default,,0,0,0,,I don't wanna be alive without Rhyme!
 Dialogue: 10,0:09:39.48,0:09:42.35,Default,,0,0,0,,So you'd rather let your \Npartner's death be in vain?
 Dialogue: 10,0:09:44.65,0:09:45.52,Default,,0,0,0,,Don't just give up.
@@ -238,11 +238,11 @@ Dialogue: 10,0:12:24.89,0:12:26.10,Default,,0,0,0,,You'll know someday.
 Dialogue: 10,0:12:30.19,0:12:33.40,Default,,0,0,0,,Neku, let's end this Reapers' Game.
 Dialogue: 10,0:12:33.40,0:12:34.15,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:12:35.03,0:12:36.61,Default,,0,0,0,,Let's do everything we can.
-Dialogue: 10,0:12:41.12,0:12:43.12,Default,,0,0,0,,We've got nothing to do on day seven.
-Dialogue: 10,0:12:43.12,0:12:46.75,Default,,0,0,0,,The last day is the\NGame Master's time to shine.
-Dialogue: 10,0:12:47.33,0:12:50.33,Default,,0,0,0,,In other words, our job's done.
-Dialogue: 10,0:12:50.33,0:12:54.46,Default,,0,0,0,,Sigh. I could have scored some extra \Npoints if I'd managed to take them out.
-Dialogue: 10,0:12:54.46,0:12:55.38,Default,,0,0,0,,Thank you for waiting.
+Dialogue: 10,0:12:41.12,0:12:43.12,Default,,0,0,0,,Day seven is always so boring.
+Dialogue: 10,0:12:43.12,0:12:46.75,Default,,0,0,0,,The last day is always the\NGame Master's time to shine.
+Dialogue: 10,0:12:47.33,0:12:50.33,Default,,0,0,0,,In other words, our job here is done.
+Dialogue: 10,0:12:50.33,0:12:54.46,Default,,0,0,0,,Sigh. If only I could've erased those Players, \Nmight've scored some extra points.
+Dialogue: 10,0:12:54.46,0:12:55.38,Default,,0,0,0,,Thanks for waiting.
 Dialogue: 10,0:12:56.09,0:12:57.38,Default,,0,0,0,,Two Mexican dogs.
 Dialogue: 10,0:12:57.38,0:12:58.72,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:12:58.72,0:13:00.68,Default,,0,0,0,,It's always a pleasure eating here.
@@ -255,8 +255,8 @@ Dialogue: 10,0:13:11.19,0:13:12.35,Default,,0,0,0,,I know.
 Dialogue: 10,0:13:12.35,0:13:14.36,Default,,0,0,0,,Is this some kind of harassment?!
 Dialogue: 10,0:13:14.36,0:13:15.61,Default,,0,0,0,,You...
 Dialogue: 10,0:13:16.36,0:13:20.24,Default,,0,0,0,,Let's recharge our batteries for our next job.
-Dialogue: 10,0:13:20.82,0:13:24.37,Default,,0,0,0,,Don't just take what's dear from other people...
-Dialogue: 10,0:13:25.74,0:13:28.87,Default,,0,0,0,,...and then sit around chatting,\Nyou damn Reapers!
+Dialogue: 10,0:13:20.82,0:13:24.37,Default,,0,0,0,,Don't you dare take what someone treasures...
+Dialogue: 10,0:13:25.74,0:13:28.87,Default,,0,0,0,,...and then sit around chatting,\Nyou shitty Reapers!
 Dialogue: 10,0:13:40.09,0:13:41.05,Default,,0,0,0,,What's up?
 Dialogue: 10,0:13:41.84,0:13:45.10,Default,,0,0,0,,I was just thinking that...\NI've experienced so much here.
 Dialogue: 10,0:13:45.10,0:13:50.48,Default,,0,0,0,,Happiness. Sadness. \NI've never felt so alive.

@@ -16,7 +16,8 @@ Video File: ../../TWEWY_03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 349
+Scroll Position: 21
+Active Line: 36
 Video Position: 34394
 
 [V4+ Styles]
@@ -54,7 +55,7 @@ Dialogue: 10,0:01:05.50,0:01:08.05,Default,,0,0,0,,Yeah, 'cause skater boy got m
 Dialogue: 10,0:01:08.46,0:01:12.80,Default,,0,0,0,,I bet that her "dream" was what \Nwas taken as her entry fee.
 Dialogue: 10,0:01:13.51,0:01:16.81,Default,,0,0,0,,kinda like how I can't remember anything.
 Dialogue: 10,0:01:16.81,0:01:20.56,Default,,0,0,0,,In my case, I didn't like myself,
-Dialogue: 10,0:01:20.56,0:01:23.56,Default,,0,0,0,,so I don't get why they\Ntook my appearance.
+Dialogue: 10,0:01:20.56,0:01:23.56,Default,,0,0,0,,so I didn't get why they\Ntook my appearance.
 Dialogue: 10,0:01:24.11,0:01:25.61,Default,,0,0,0,,But now I know.
 Dialogue: 10,0:01:26.57,0:01:30.24,Default,,0,0,0,,When I first realized that\NI looked like Eri in the UG,
 Dialogue: 10,0:01:30.24,0:01:33.82,Default,,0,0,0,,I was surprised, but happy.
@@ -62,20 +63,20 @@ Dialogue: 10,0:01:34.95,0:01:37.29,Default,,0,0,0,,I always wanted to look like 
 Dialogue: 10,0:01:37.29,0:01:40.66,Default,,0,0,0,,I thought that I could be like Eri,\Ncute and capable.
 Dialogue: 10,0:01:40.66,0:01:43.54,Default,,0,0,0,,But... I just couldn't be like her.
 Dialogue: 10,0:01:43.54,0:01:46.46,Default,,0,0,0,,I realised that it was still me inside.
-Dialogue: 10,0:01:46.46,0:01:48.71,Default,,0,0,0,,I rejected that it was my issue,
+Dialogue: 10,0:01:46.46,0:01:48.71,Default,,0,0,0,,I rejected that it was my issue, {Does: "I told myself that I wasn't the problem." sound better here? This makes it sound like she thinks that it's not her problem imo; rather, she's deliberately ignoring her own shortcomings--Waffles}
 Dialogue: 10,0:01:49.26,0:01:52.09,Default,,0,0,0,,so I envied Eri instead \Nand pretended like I was a victim.
 Dialogue: 10,0:01:52.09,0:01:54.18,Default,,0,0,0,,But I did that to protect myself.
 Dialogue: 10,0:01:56.43,0:02:00.31,Default,,0,0,0,,Now I realise that my individuality \Nis the most important thing to me.
 Dialogue: 10,0:02:00.31,0:02:03.98,Default,,0,0,0,,That's why they took my\Nappearance as my entry fee.
 Dialogue: 10,0:02:04.44,0:02:08.65,Default,,0,0,0,,But that doesn't matter since \NI finally understand myself now.
 Dialogue: 10,0:02:10.23,0:02:11.36,Default,,0,0,0,,Is that so?
-Dialogue: 10,0:02:12.82,0:02:17.08,Default,,0,0,0,,If we survive all seven days, we'll get our entry fees back and, a second chance at life.
+Dialogue: 10,0:02:12.82,0:02:17.08,Default,,0,0,0,,If we survive all seven days, we'll get our entry fees back, and a second chance at life.
 Dialogue: 10,0:02:17.99,0:02:20.33,Default,,0,0,0,,Two days left. Let's get this bread!
 Dialogue: 10,0:02:22.25,0:02:23.00,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:02:24.08,0:02:27.50,Default,,0,0,0,,That said, I haven't seen\NBeat and Rhyme for a while.
 Dialogue: 10,0:02:28.42,0:02:30.76,Default,,0,0,0,,{\an8}They've gotta be around here somewhere.
 Dialogue: 10,0:02:29.46,0:02:32.67,Default,,0,0,0,,What will I do if I come back to life?
-Dialogue: 10,0:04:07.60,0:04:09.06,Default,,0,0,0,,Thing's are going smoothly, I see.
+Dialogue: 10,0:04:07.60,0:04:09.06,Default,,0,0,0,,Things are going smoothly, I see.
 Dialogue: 10,0:04:09.06,0:04:09.77,Default,,0,0,0,,Yes, sir!
 Dialogue: 10,0:04:10.65,0:04:12.57,Default,,0,0,0,,Four Players remain.
 Dialogue: 10,0:04:12.57,0:04:15.65,Default,,0,0,0,,I'll cook them all up\Nbefore tomorrow ends.
@@ -197,7 +198,7 @@ Dialogue: 10,0:09:54.24,0:09:55.45,Default,,0,0,0,,We'll handle it.
 Dialogue: 10,0:09:55.45,0:09:55.91,Default,,0,0,0,,Roger.
 Dialogue: 10,0:09:57.74,0:09:59.04,Default,,0,0,0,,Don't let us down.
 Dialogue: 10,0:10:01.54,0:10:03.08,Default,,0,0,0,,Looks like things could get messy.
-Dialogue: 10,0:10:03.08,0:10:04.67,Default,,0,0,0,,Let's start with taking out small fry.
+Dialogue: 10,0:10:03.08,0:10:04.67,Default,,0,0,0,,Let's start with taking out the small fry.
 Dialogue: 10,0:10:04.67,0:10:05.17,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:10:13.59,0:10:16.18,Default,,0,0,0,,I'll erase... every last one!
 Dialogue: 10,0:10:34.91,0:10:36.57,Default,,0,0,0,,Just the big one left.
@@ -206,10 +207,10 @@ Dialogue: 10,0:10:43.66,0:10:44.46,Default,,0,0,0,,Neku.
 Dialogue: 10,0:10:44.46,0:10:45.75,Default,,0,0,0,,Not yet.
 Dialogue: 10,0:10:45.75,0:10:46.96,Default,,0,0,0,,Focus.
 Dialogue: 10,0:10:50.17,0:10:51.17,Default,,0,0,0,,Now!
-Dialogue: 10,0:10:59.14,0:11:01.10,Default,,0,0,0,,Be Gone!
+Dialogue: 10,0:10:59.14,0:11:01.10,Default,,0,0,0,,Begone!
 Dialogue: 10,0:11:10.90,0:11:13.61,Default,,0,0,0,,We did it, right?
 Dialogue: 10,0:11:13.61,0:11:14.45,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:11:18.41,0:11:20.49,Default,,0,0,0,,Guess we're the last one's left, huh?
+Dialogue: 10,0:11:18.41,0:11:20.49,Default,,0,0,0,,Guess we're the last ones left, huh?
 Dialogue: 10,0:11:22.70,0:11:26.37,Default,,0,0,0,,You're gonna come back to life\Nand make clothes with Eri, remember?
 Dialogue: 10,0:11:26.96,0:11:27.67,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:11:28.25,0:11:29.25,Default,,0,0,0,,One day left.
@@ -240,7 +241,7 @@ Dialogue: 10,0:12:35.03,0:12:36.61,Default,,0,0,0,,Let's do everything we can.
 Dialogue: 10,0:12:41.12,0:12:43.12,Default,,0,0,0,,Day seven is always so boring.
 Dialogue: 10,0:12:43.12,0:12:46.75,Default,,0,0,0,,The last day is always the\NGame Master's time to shine.
 Dialogue: 10,0:12:47.33,0:12:50.33,Default,,0,0,0,,In other words, our job here is done.
-Dialogue: 10,0:12:50.33,0:12:54.46,Default,,0,0,0,,Sigh. If only I could've erased those Players, \Nmight've scored some extra points.
+Dialogue: 10,0:12:50.33,0:12:54.46,Default,,0,0,0,,Sigh. If only I could've erased those Players, \NI might've scored some extra points.
 Dialogue: 10,0:12:54.46,0:12:55.38,Default,,0,0,0,,Thanks for waiting.
 Dialogue: 10,0:12:56.09,0:12:57.38,Default,,0,0,0,,Two Mexican dogs.
 Dialogue: 10,0:12:57.38,0:12:58.72,Default,,0,0,0,,Thanks.
@@ -259,8 +260,8 @@ Dialogue: 10,0:13:25.74,0:13:28.87,Default,,0,0,0,,...and then sit around chatti
 Dialogue: 10,0:13:40.09,0:13:41.05,Default,,0,0,0,,What's up?
 Dialogue: 10,0:13:41.84,0:13:45.10,Default,,0,0,0,,I was just thinking that...\NI've experienced so much in the Game.
 Dialogue: 10,0:13:45.10,0:13:50.48,Default,,0,0,0,,Happiness. Sadness. \NI've never felt so alive.
-Dialogue: 10,0:13:50.93,0:13:52.19,Default,,0,0,0,,Even though I died.
-Dialogue: 10,0:13:52.94,0:13:56.36,Default,,0,0,0,,This is just the beginning.\NWe'll beat this game, and come back to life. 
+Dialogue: 10,0:13:50.93,0:13:52.19,Default,,0,0,0,,Even though I'm dead.
+Dialogue: 10,0:13:52.94,0:13:56.36,Default,,0,0,0,,This is just the beginning.\NWe'll beat this game, and come back to life.
 Dialogue: 10,0:13:58.03,0:13:59.28,Default,,0,0,0,,Neku.
 Dialogue: 10,0:14:01.95,0:14:04.11,Default,,0,0,0,,Thanks for these past seven days.
 Dialogue: 10,0:14:04.11,0:14:06.99,Default,,0,0,0,,I wouldn't have made it\Nthis far without you.
@@ -270,7 +271,7 @@ Dialogue: 10,0:14:12.21,0:14:16.92,Default,,0,0,0,,When we come back to life,\NI
 Dialogue: 10,0:14:20.17,0:14:21.26,Default,,0,0,0,,I'll think about it.
 Dialogue: 10,0:14:22.47,0:14:23.09,Default,,0,0,0,,Great.
 Dialogue: 10,0:14:23.93,0:14:26.97,Default,,0,0,0,,I probably won't look like this...
-Dialogue: 10,0:14:29.60,0:14:32.85,Default,,0,0,0,,...so you can just look out for Mr. Mew.
+Dialogue: 10,0:14:29.60,0:14:32.85,Default,,0,0,0,,...so you can just use Mr. Mew to find me.
 Dialogue: 10,0:14:33.48,0:14:34.27,Default,,0,0,0,,Right.
 Dialogue: 10,0:14:35.31,0:14:36.27,Default,,0,0,0,,I'll find you.
 Dialogue: 10,0:14:49.58,0:14:52.04,Default,,0,0,0,,Can you smell what the wok is cooking?
@@ -310,12 +311,12 @@ Dialogue: 10,0:18:13.70,0:18:17.03,Default,,0,0,0,,To think that I... could lose
 Dialogue: 10,0:18:18.20,0:18:23.12,Default,,0,0,0,,My sincere... apologies... Mr. Kitaniji.
 Dialogue: 10,0:18:29.71,0:18:32.34,Default,,0,0,0,,Is it over?
 Dialogue: 10,0:18:32.34,0:18:35.30,Default,,0,0,0,,Yeah. We won.
-Dialogue: 10,0:18:36.60,0:18:40.06,Default,,0,0,0,,We, get to come back to life then?
+Dialogue: 10,0:18:36.60,0:18:40.06,Default,,0,0,0,,We... get to come back to life then?
 Dialogue: 10,0:18:40.43,0:18:42.52,Default,,0,0,0,,It looks like we're being blessed.
 Dialogue: 10,0:18:43.27,0:18:44.06,Default,,0,0,0,,Neku.
 Dialogue: 10,0:18:59.16,0:19:01.66,Default,,0,0,0,,Where are we?
 Dialogue: 10,0:19:02.04,0:19:04.62,Default,,0,0,0,,Are we alive again?
-Dialogue: 10,0:19:04.62,0:19:07.13,Default,,0,0,0,,Im sorry to say. But, not yet.
+Dialogue: 10,0:19:04.62,0:19:07.13,Default,,0,0,0,,I'm sorry to say. But, not yet. {Sounds off. A simple "Unfortunately" is better imo, or you can run with something more like "Hate to break it to ya but," or "Hate to burst your bubble but," if you really want something more spicy}
 Dialogue: 10,0:19:07.13,0:19:08.00,Default,,0,0,0,,Who're you?
 Dialogue: 10,0:19:08.38,0:19:10.67,Default,,0,0,0,,A humble servant of the Composer.
 Dialogue: 10,0:19:11.59,0:19:14.59,Default,,0,0,0,,Kitaniji, Conductor of the Reapers' Game.
@@ -331,14 +332,14 @@ Dialogue: 10,0:19:38.70,0:19:40.49,Default,,0,0,0,,...Shiki Misaki. {??? How com
 Dialogue: 10,0:19:40.49,0:19:41.49,Default,,0,0,0,,Me?
 Dialogue: 10,0:19:41.99,0:19:44.12,Default,,0,0,0,,But why?!
 Dialogue: 10,0:19:44.79,0:19:48.17,Default,,0,0,0,,We monitor every Players' growth.
-Dialogue: 10,0:19:48.17,0:19:51.71,Default,,0,0,0,,You confronted your demons and\Novercame your own short comings.
+Dialogue: 10,0:19:48.17,0:19:51.71,Default,,0,0,0,,You confronted your demons and\Novercame your own shortcomings.
 Dialogue: 10,0:19:51.71,0:19:55.17,Default,,0,0,0,,Thus, you were deemed the worthiest of rebirth.
 Dialogue: 10,0:19:55.17,0:19:59.22,Default,,0,0,0,,Then Neku is the one that \Nshould come back and not me!
 Dialogue: 10,0:19:59.51,0:20:02.56,Default,,0,0,0,,Neku's changed in these seven days!
 Dialogue: 10,0:20:02.56,0:20:05.48,Default,,0,0,0,,He pushed everyone away at first,
 Dialogue: 10,0:20:05.93,0:20:08.23,Default,,0,0,0,,but he listened to my story.
 Dialogue: 10,0:20:08.85,0:20:12.23,Default,,0,0,0,,He told me that I'm fine the way I am!
-Dialogue: 10,0:20:12.94,0:20:16.74,Default,,0,0,0,,That made me so, so happy.
+Dialogue: 10,0:20:12.94,0:20:16.74,Default,,0,0,0,,And that made me so, so happy.
 Dialogue: 10,0:20:17.86,0:20:20.16,Default,,0,0,0,,Shiki, you go back to life.
 Dialogue: 10,0:20:20.16,0:20:22.03,Default,,0,0,0,,Huh? Why?
 Dialogue: 10,0:20:22.03,0:20:23.87,Default,,0,0,0,,I want you to live instead!
@@ -361,14 +362,14 @@ Dialogue: 10,0:21:16.59,0:21:17.51,Default,,0,0,0,,I can't touch her?!
 Dialogue: 10,0:21:18.17,0:21:21.51,Default,,0,0,0,,Is this what you call "rebirth"?!
 Dialogue: 10,0:21:22.22,0:21:26.47,Default,,0,0,0,,No. I've simply collected your second entry fee.
 Dialogue: 10,0:21:26.47,0:21:27.02,Default,,0,0,0,,What?!
-Dialogue: 10,0:21:27.52,0:21:32.65,Default,,0,0,0,,Neku Sakuraba, you desire to play\Nthe Reapers' Game a second time.
+Dialogue: 10,0:21:27.52,0:21:32.65,Default,,0,0,0,,Sakuraba Neku, you desire to play\Nthe Reapers' Game a second time. {Missed fixing the name order first time around, woops}
 Dialogue: 10,0:21:33.27,0:21:35.98,Default,,0,0,0,,You cannot do that without an entry fee.
 Dialogue: 10,0:21:37.03,0:21:38.03,Default,,0,0,0,,Don't tell me...
 Dialogue: 10,0:21:39.24,0:21:40.24,Default,,0,0,0,,Exactly.
 Dialogue: 10,0:21:40.65,0:21:44.78,Default,,0,0,0,,Your entry fee, the thing that\Ncurrently matters the most to you...
 Dialogue: 10,0:21:45.20,0:21:46.74,Default,,0,0,0,,No way...
 Dialogue: 10,0:21:46.74,0:21:47.79,Default,,0,0,0,,Neku.
-Dialogue: 10,0:21:48.20,0:21:49.79,Default,,0,0,0,,...is Shiki Misaki.
+Dialogue: 10,0:21:48.20,0:21:49.79,Default,,0,0,0,,...is Misaki Shiki. {Name order fixed}
 Dialogue: 10,0:21:51.25,0:21:52.17,Default,,0,0,0,,Neku!
 Dialogue: 10,0:21:52.17,0:21:53.04,Default,,0,0,0,,Stop.
 Dialogue: 10,0:21:53.75,0:21:54.54,Default,,0,0,0,,Stop this!

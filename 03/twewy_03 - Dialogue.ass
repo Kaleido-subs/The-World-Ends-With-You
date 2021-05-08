@@ -16,9 +16,8 @@ Video File: ../../TWEWY_03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 221
-Active Line: 231
-Video Position: 19705
+Active Line: 349
+Video Position: 34394
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -258,37 +257,37 @@ Dialogue: 10,0:13:16.36,0:13:20.24,Default,,0,0,0,,Let's recharge our batteries 
 Dialogue: 10,0:13:20.82,0:13:24.37,Default,,0,0,0,,Don't you dare take what someone treasures...
 Dialogue: 10,0:13:25.74,0:13:28.87,Default,,0,0,0,,...and then sit around chatting,\Nyou shitty Reapers!
 Dialogue: 10,0:13:40.09,0:13:41.05,Default,,0,0,0,,What's up?
-Dialogue: 10,0:13:41.84,0:13:45.10,Default,,0,0,0,,I was just thinking that...\NI've experienced so much here.
+Dialogue: 10,0:13:41.84,0:13:45.10,Default,,0,0,0,,I was just thinking that...\NI've experienced so much in the Game.
 Dialogue: 10,0:13:45.10,0:13:50.48,Default,,0,0,0,,Happiness. Sadness. \NI've never felt so alive.
-Dialogue: 10,0:13:50.93,0:13:52.19,Default,,0,0,0,,Even though I'm dead.
-Dialogue: 10,0:13:52.94,0:13:56.36,Default,,0,0,0,,This is just the beginning.\NWe'll win and come back to life.
+Dialogue: 10,0:13:50.93,0:13:52.19,Default,,0,0,0,,Even though I died.
+Dialogue: 10,0:13:52.94,0:13:56.36,Default,,0,0,0,,This is just the beginning.\NWe'll beat this game, and come back to life. 
 Dialogue: 10,0:13:58.03,0:13:59.28,Default,,0,0,0,,Neku.
 Dialogue: 10,0:14:01.95,0:14:04.11,Default,,0,0,0,,Thanks for these past seven days.
 Dialogue: 10,0:14:04.11,0:14:06.99,Default,,0,0,0,,I wouldn't have made it\Nthis far without you.
-Dialogue: 10,0:14:08.54,0:14:10.00,Default,,0,0,0,,We're not done yet.
+Dialogue: 10,0:14:08.54,0:14:10.00,Default,,0,0,0,,It's not over yet.
 Dialogue: 10,0:14:10.45,0:14:11.54,Default,,0,0,0,,You're right.
 Dialogue: 10,0:14:12.21,0:14:16.92,Default,,0,0,0,,When we come back to life,\NI want all of us to meet up again.
 Dialogue: 10,0:14:20.17,0:14:21.26,Default,,0,0,0,,I'll think about it.
 Dialogue: 10,0:14:22.47,0:14:23.09,Default,,0,0,0,,Great.
 Dialogue: 10,0:14:23.93,0:14:26.97,Default,,0,0,0,,I probably won't look like this...
-Dialogue: 10,0:14:29.60,0:14:32.85,Default,,0,0,0,,...so you can recognise me by Mr. Mew.
+Dialogue: 10,0:14:29.60,0:14:32.85,Default,,0,0,0,,...so you can just look out for Mr. Mew.
 Dialogue: 10,0:14:33.48,0:14:34.27,Default,,0,0,0,,Right.
 Dialogue: 10,0:14:35.31,0:14:36.27,Default,,0,0,0,,I'll find you.
-Dialogue: 10,0:14:49.58,0:14:52.04,Default,,0,0,0,,Now I can finally start cooking.
-Dialogue: 10,0:14:52.58,0:14:54.29,Default,,0,0,0,,We're not gonna lose!
+Dialogue: 10,0:14:49.58,0:14:52.04,Default,,0,0,0,,Can you smell what the wok is cooking?
+Dialogue: 10,0:14:52.58,0:14:54.29,Default,,0,0,0,,We won't lose to the likes of you!
 Dialogue: 10,0:14:55.67,0:14:57.71,Default,,0,0,0,,What's this? Young lady,
-Dialogue: 10,0:14:57.71,0:15:01.80,Default,,0,0,0,,that squid ink-like jealousy that was \Nbrewing inside of you—what happened to it?
+Dialogue: 10,0:14:57.71,0:15:01.80,Default,,0,0,0,,that squid ink-like jealousy that was \Nseething inside of you—what happened to it?
 Dialogue: 10,0:15:02.30,0:15:03.97,Default,,0,0,0,,It's still inside of me,
-Dialogue: 10,0:15:03.97,0:15:07.89,Default,,0,0,0,,but... I'm no longer ashamed of how I feel!
-Dialogue: 10,0:15:08.55,0:15:11.97,Default,,0,0,0,,Of your dark, boiling \Nenvy of your friend?
+Dialogue: 10,0:15:03.97,0:15:07.89,Default,,0,0,0,,but... I'm no longer ashamed of my feelings!
+Dialogue: 10,0:15:08.55,0:15:11.97,Default,,0,0,0,,Of that dark, boiling \Nenvy you have for your friend?
 Dialogue: 10,0:15:12.81,0:15:16.23,Default,,0,0,0,,Yeah. My best friend Eri is so \Namazing that I can't help but be jealous.
 Dialogue: 10,0:15:16.23,0:15:19.36,Default,,0,0,0,,But she's waiting for me in the Realground!
 Dialogue: 10,0:15:19.69,0:15:22.82,Default,,0,0,0,,So I'm gonna come back to life \Nand make clothes with her!
 Dialogue: 10,0:15:23.36,0:15:25.74,Default,,0,0,0,,I see you've gone stale, young lady.
-Dialogue: 10,0:15:26.32,0:15:28.53,Default,,0,0,0,,But a great chef like me...
+Dialogue: 10,0:15:26.32,0:15:28.53,Default,,0,0,0,,But a master chef like me...
 Dialogue: 10,0:15:28.95,0:15:30.70,Default,,0,0,0,,...can make an excellent meal...
 Dialogue: 10,0:15:31.08,0:15:33.08,Default,,0,0,0,,...out of any ingredients!
-Dialogue: 10,0:15:50.30,0:15:51.39,Default,,0,0,0,,I'll take the lead!
+Dialogue: 10,0:15:50.30,0:15:51.39,Default,,0,0,0,,I'll take the front!
 Dialogue: 10,0:15:57.31,0:15:59.10,Default,,0,0,0,,Go!
 Dialogue: 10,0:16:28.88,0:16:29.43,Default,,0,0,0,,What now?
 Dialogue: 10,0:16:29.43,0:16:30.05,Default,,0,0,0,,Watch out!
@@ -296,7 +295,7 @@ Dialogue: 10,0:16:36.73,0:16:37.56,Default,,0,0,0,,Move!
 Dialogue: 10,0:16:43.11,0:16:43.82,Default,,0,0,0,,Neku!
 Dialogue: 10,0:16:47.11,0:16:47.86,Default,,0,0,0,,Shiki!
 Dialogue: 10,0:16:49.91,0:16:51.32,Default,,0,0,0,,I'm fine!
-Dialogue: 10,0:16:53.24,0:16:55.24,Default,,0,0,0,,We can't take another one of those.
+Dialogue: 10,0:16:53.24,0:16:55.24,Default,,0,0,0,,We can't take another hit like that.
 Dialogue: 10,0:16:56.58,0:16:57.75,Default,,0,0,0,,Let's make this quick.
 Dialogue: 10,0:16:58.71,0:16:59.71,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:17:00.50,0:17:01.42,Default,,0,0,0,,Let's go!
@@ -308,17 +307,17 @@ Dialogue: 10,0:17:33.99,0:17:34.99,Default,,0,0,0,,My bad.
 Dialogue: 10,0:17:49.59,0:17:51.13,Default,,0,0,0,,This is...
 Dialogue: 10,0:17:53.51,0:17:55.43,Default,,0,0,0,,...the end!
 Dialogue: 10,0:18:13.70,0:18:17.03,Default,,0,0,0,,To think that I... could lose.
-Dialogue: 10,0:18:18.20,0:18:23.12,Default,,0,0,0,,Mr. Kitaniji... my sincere... apologies.
+Dialogue: 10,0:18:18.20,0:18:23.12,Default,,0,0,0,,My sincere... apologies... Mr. Kitaniji.
 Dialogue: 10,0:18:29.71,0:18:32.34,Default,,0,0,0,,Is it over?
 Dialogue: 10,0:18:32.34,0:18:35.30,Default,,0,0,0,,Yeah. We won.
-Dialogue: 10,0:18:36.60,0:18:40.06,Default,,0,0,0,,Then, we get to come back to life.
+Dialogue: 10,0:18:36.60,0:18:40.06,Default,,0,0,0,,We, get to come back to life then?
 Dialogue: 10,0:18:40.43,0:18:42.52,Default,,0,0,0,,It looks like we're being blessed.
 Dialogue: 10,0:18:43.27,0:18:44.06,Default,,0,0,0,,Neku.
 Dialogue: 10,0:18:59.16,0:19:01.66,Default,,0,0,0,,Where are we?
 Dialogue: 10,0:19:02.04,0:19:04.62,Default,,0,0,0,,Are we alive again?
-Dialogue: 10,0:19:04.62,0:19:07.13,Default,,0,0,0,,Not yet, I'm sorry to say.
+Dialogue: 10,0:19:04.62,0:19:07.13,Default,,0,0,0,,Im sorry to say. But, not yet.
 Dialogue: 10,0:19:07.13,0:19:08.00,Default,,0,0,0,,Who're you?
-Dialogue: 10,0:19:08.38,0:19:10.67,Default,,0,0,0,,A loyal servant of the Composer.
+Dialogue: 10,0:19:08.38,0:19:10.67,Default,,0,0,0,,A humble servant of the Composer.
 Dialogue: 10,0:19:11.59,0:19:14.59,Default,,0,0,0,,Kitaniji, Conductor of the Reapers' Game.
 Dialogue: 10,0:19:15.05,0:19:17.64,Default,,0,0,0,,Congratulations on your victory.
 Dialogue: 10,0:19:18.39,0:19:22.14,Default,,0,0,0,,First of all, this game\Nallows for the rebirth...
@@ -332,7 +331,7 @@ Dialogue: 10,0:19:38.70,0:19:40.49,Default,,0,0,0,,...Shiki Misaki. {??? How com
 Dialogue: 10,0:19:40.49,0:19:41.49,Default,,0,0,0,,Me?
 Dialogue: 10,0:19:41.99,0:19:44.12,Default,,0,0,0,,But why?!
 Dialogue: 10,0:19:44.79,0:19:48.17,Default,,0,0,0,,We monitor every Players' growth.
-Dialogue: 10,0:19:48.17,0:19:51.71,Default,,0,0,0,,You confronted yourself and\Novercame your own weaknesses.
+Dialogue: 10,0:19:48.17,0:19:51.71,Default,,0,0,0,,You confronted your demons and\Novercame your own short comings.
 Dialogue: 10,0:19:51.71,0:19:55.17,Default,,0,0,0,,Thus, you were deemed the worthiest of rebirth.
 Dialogue: 10,0:19:55.17,0:19:59.22,Default,,0,0,0,,Then Neku is the one that \Nshould come back and not me!
 Dialogue: 10,0:19:59.51,0:20:02.56,Default,,0,0,0,,Neku's changed in these seven days!
@@ -344,9 +343,9 @@ Dialogue: 10,0:20:17.86,0:20:20.16,Default,,0,0,0,,Shiki, you go back to life.
 Dialogue: 10,0:20:20.16,0:20:22.03,Default,,0,0,0,,Huh? Why?
 Dialogue: 10,0:20:22.03,0:20:23.87,Default,,0,0,0,,I want you to live instead!
 Dialogue: 10,0:20:23.87,0:20:25.91,Default,,0,0,0,,If you are attached to the idea of rebirth,
-Dialogue: 10,0:20:26.33,0:20:28.79,Default,,0,0,0,,you may enter the game again.
+Dialogue: 10,0:20:26.33,0:20:28.79,Default,,0,0,0,,you may choose to enter the game again.
 Dialogue: 10,0:20:28.79,0:20:30.79,Default,,0,0,0,,If you fancy the idea of destruction,
-Dialogue: 10,0:20:31.38,0:20:33.25,Default,,0,0,0,,you can become a Reaper.
+Dialogue: 10,0:20:31.38,0:20:33.25,Default,,0,0,0,,you can become a Reaper, instead.
 Dialogue: 10,0:20:33.71,0:20:36.05,Default,,0,0,0,,I won't become a Reaper.
 Dialogue: 10,0:20:36.05,0:20:39.43,Default,,0,0,0,,I still don't know why I died.
 Dialogue: 10,0:20:40.55,0:20:44.06,Default,,0,0,0,,I don't even really know if I\Nwant to come back to life.
@@ -360,10 +359,10 @@ Dialogue: 10,0:21:10.33,0:21:11.50,Default,,0,0,0,,Shiki?!
 Dialogue: 10,0:21:11.96,0:21:13.08,Default,,0,0,0,,Shiki!
 Dialogue: 10,0:21:16.59,0:21:17.51,Default,,0,0,0,,I can't touch her?!
 Dialogue: 10,0:21:18.17,0:21:21.51,Default,,0,0,0,,Is this what you call "rebirth"?!
-Dialogue: 10,0:21:22.22,0:21:26.47,Default,,0,0,0,,No. I've collected your second entry fee.
+Dialogue: 10,0:21:22.22,0:21:26.47,Default,,0,0,0,,No. I've simply collected your second entry fee.
 Dialogue: 10,0:21:26.47,0:21:27.02,Default,,0,0,0,,What?!
 Dialogue: 10,0:21:27.52,0:21:32.65,Default,,0,0,0,,Neku Sakuraba, you desire to play\Nthe Reapers' Game a second time.
-Dialogue: 10,0:21:33.27,0:21:35.98,Default,,0,0,0,,You can't do that without an entry fee.
+Dialogue: 10,0:21:33.27,0:21:35.98,Default,,0,0,0,,You cannot do that without an entry fee.
 Dialogue: 10,0:21:37.03,0:21:38.03,Default,,0,0,0,,Don't tell me...
 Dialogue: 10,0:21:39.24,0:21:40.24,Default,,0,0,0,,Exactly.
 Dialogue: 10,0:21:40.65,0:21:44.78,Default,,0,0,0,,Your entry fee, the thing that\Ncurrently matters the most to you...

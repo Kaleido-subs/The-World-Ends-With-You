@@ -321,7 +321,7 @@ Dialogue: 69,0:16:38.27,0:16:39.77,Default,,0,0,0,,Good for 'em.
 Dialogue: 69,0:16:39.77,0:16:41.56,Default,,0,0,0,,Two birds with one stone again.
 Dialogue: 69,0:16:42.52,0:16:43.86,Default,,0,0,0,,Let's hope you're right.
 Dialogue: 69,0:16:45.07,0:16:46.11,Default,,0,0,0,,It's 3 P.M.
-Dialogue: 69,0:17:01.33,0:17:03.34,Default,,0,0,0,,The fuck's going on? {### Bit too strong here perhaps? I'm not opposed to swearing, but I don't recall we made Neku swear like this before}
+Dialogue: 69,0:17:01.33,0:17:03.34,Default,,0,0,0,,The fuck's going on?
 Dialogue: 69,0:17:03.34,0:17:04.75,Default,,0,0,0,,Look at that!
 Dialogue: 69,0:17:12.34,0:17:13.85,Default,,0,0,0,,What the hell is that thing?
 Dialogue: 69,0:17:13.85,0:17:15.31,Default,,0,0,0,,Is that Noise?
@@ -352,13 +352,13 @@ Dialogue: 69,0:18:59.99,0:19:02.00,Default,,0,0,0,,Thanks, Neku.
 Dialogue: 69,0:19:02.37,0:19:05.37,Default,,0,0,0,,{\q2}You know, you've sure changed quite a bit \Nin such a short time.
 Dialogue: 69,0:19:05.87,0:19:06.75,Default,,0,0,0,,Have I?
 Dialogue: 69,0:19:07.54,0:19:09.25,Default,,0,0,0,,I just...
-Dialogue: 69,0:19:09.92,0:19:13.63,Default,,0,0,0,,never want to fuck up like that again. {### same here, although I'm much less opposed to this one}
+Dialogue: 69,0:19:09.92,0:19:13.63,Default,,0,0,0,,never want to fuck up like that again.
 Dialogue: 69,0:19:15.18,0:19:16.39,Default,,0,0,0,,Don't worry.
 Dialogue: 69,0:19:16.72,0:19:18.26,Default,,0,0,0,,I know you'll be fine, Neku.
 Dialogue: 69,0:19:21.26,0:19:24.31,Default,,0,0,0,,{\q2}You seem down today, Eri. \NYou holding up okay?
 Dialogue: 69,0:19:24.56,0:19:25.60,Default,,0,0,0,,I'm okay.
 Dialogue: 69,0:19:25.60,0:19:28.31,Default,,0,0,0,,Sorry. I know we're supposed to be here for fun.
-Dialogue: 69,0:19:28.31,0:19:30.90,Default,,0,0,0,,{\q2}So you do have something \Non your mind. Out with it.
+Dialogue: 69,0:19:28.31,0:19:30.90,Default,,0,0,0,,{\q2}So you {\i1}do{\i0} have something on your mind. Talk to me.
 Dialogue: 69,0:19:30.90,0:19:31.61,Default,,0,0,0,,Okay.
 Dialogue: 69,0:19:32.15,0:19:33.40,Default,,0,0,0,,You see,
 Dialogue: 69,0:19:33.40,0:19:36.82,Default,,0,0,0,,I'm thinking of giving up designing completely.
@@ -373,7 +373,7 @@ Dialogue: 69,0:19:49.50,0:19:52.88,Default,,0,0,0,,I feel like I'd be intruding 
 Dialogue: 69,0:19:52.09,0:19:54.26,Default,,0,0,0,,{\an8}I want to see more of your designs.
 Dialogue: 69,0:19:52.88,0:19:55.17,Default,,0,0,0,,It's not like she'll know.
 Dialogue: 69,0:19:55.17,0:19:56.17,Default,,0,0,0,,{\an8}Thanks.
-Dialogue: 69,0:19:55.17,0:19:56.68,Default,,0,0,0,,You're overthinking things. {He says "It's simple, isn't it?" with the implied meaning that I left in the TL}
+Dialogue: 69,0:19:55.17,0:19:56.68,Default,,0,0,0,,You're overthinking things.
 Dialogue: 69,0:19:56.68,0:19:57.84,Default,,0,0,0,,No, I'm not!
 Dialogue: 69,0:19:58.26,0:20:03.89,Default,,0,0,0,,{\q2}The thought of finding out what Eri \Ntruly thought about me scares me.
 Dialogue: 69,0:20:05.81,0:20:09.23,Default,,0,0,0,,Wasn't your dream to become a fashion designer?
@@ -385,7 +385,7 @@ Dialogue: 69,0:20:23.54,0:20:25.91,Default,,0,0,0,,Honestly, I feel like she was
 Dialogue: 69,0:20:26.75,0:20:29.67,Default,,0,0,0,,But I just couldn't find a way to tell her properly.
 Dialogue: 69,0:20:29.67,0:20:31.84,Default,,0,0,0,,I really hurt her.
 Dialogue: 69,0:20:31.84,0:20:36.55,Default,,0,0,0,,{\q2}You see, Shiki was worried that \Nshe wasn't any good at designing clothes.
-Dialogue: 69,0:20:37.17,0:20:41.05,Default,,0,0,0,,I wanted to tell her "You don't have to be a designer".{Alternatively, "You should do what you do best", was what I wanted to say.}
+Dialogue: 69,0:20:37.17,0:20:41.05,Default,,0,0,0,,I wanted to tell her "You don't have to be a designer".
 Dialogue: 69,0:20:41.89,0:20:45.35,Default,,0,0,0,,{\q2}But what ended up coming out was: \N"You're not meant to be a designer".
 Dialogue: 69,0:20:45.35,0:20:47.68,Default,,0,0,0,,"You're a great seamstress, anyways."
 Dialogue: 69,0:20:49.35,0:20:51.40,Default,,0,0,0,,{\q2}I felt guilty and wanted \Nto apologise right away.

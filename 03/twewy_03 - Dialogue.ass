@@ -16,9 +16,9 @@ Video File: ../../TWEWY_03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 21
-Active Line: 36
-Video Position: 34394
+Scroll Position: 340
+Active Line: 349
+Video Position: 34346
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,7 +39,7 @@ Dialogue: 10,0:00:18.62,0:00:21.17,Default,,0,0,0,,And are then gathered to the 
 Dialogue: 10,0:00:23.17,0:00:25.13,Default,,0,0,0,,She's dead, and so am I.
 Dialogue: 10,0:00:25.13,0:00:27.63,Default,,0,0,0,,And if we win, then we're given a second chance at life?
 Dialogue: 10,0:00:28.09,0:00:29.18,Default,,0,0,0,,But then...
-Dialogue: 10,0:00:30.09,0:00:32.68,Default,,0,0,0,,... how did I die?
+Dialogue: 10,0:00:30.09,0:00:32.68,Default,,0,0,0,,...how did I die?
 Dialogue: 10,0:00:34.31,0:00:36.52,Default,,0,0,0,,Oh, Neku.
 Dialogue: 10,0:00:37.35,0:00:38.69,Default,,0,0,0,,It's no use.
 Dialogue: 10,0:00:39.27,0:00:40.90,Default,,0,0,0,,I still can't remember anything.
@@ -63,7 +63,7 @@ Dialogue: 10,0:01:34.95,0:01:37.29,Default,,0,0,0,,I always wanted to look like 
 Dialogue: 10,0:01:37.29,0:01:40.66,Default,,0,0,0,,I thought that I could be like Eri,\Ncute and capable.
 Dialogue: 10,0:01:40.66,0:01:43.54,Default,,0,0,0,,But... I just couldn't be like her.
 Dialogue: 10,0:01:43.54,0:01:46.46,Default,,0,0,0,,I realised that it was still me inside.
-Dialogue: 10,0:01:46.46,0:01:48.71,Default,,0,0,0,,I rejected that it was my issue, {Does: "I told myself that I wasn't the problem." sound better here? This makes it sound like she thinks that it's not her problem imo; rather, she's deliberately ignoring her own shortcomings--Waffles}
+Dialogue: 10,0:01:46.46,0:01:48.71,Default,,0,0,0,,I kept telling myself that I wasn't the issue,{Does: "I told myself that I wasn't the problem." sound better here? This makes it sound like she thinks that it's not her problem imo; rather, she's deliberately ignoring her own shortcomings--Waffles}
 Dialogue: 10,0:01:49.26,0:01:52.09,Default,,0,0,0,,so I envied Eri instead \Nand pretended like I was a victim.
 Dialogue: 10,0:01:52.09,0:01:54.18,Default,,0,0,0,,But I did that to protect myself.
 Dialogue: 10,0:01:56.43,0:02:00.31,Default,,0,0,0,,Now I realise that my individuality \Nis the most important thing to me.
@@ -165,7 +165,7 @@ Dialogue: 10,0:08:18.81,0:08:20.90,Default,,0,0,0,,Oh no, I'm {\i1}so {\i0}scare
 Dialogue: 10,0:08:21.23,0:08:24.23,Default,,0,0,0,,The lil' shrimp protected you.
 Dialogue: 10,0:08:24.98,0:08:27.24,Default,,0,0,0,,That is, until she was erased.
 Dialogue: 10,0:08:27.24,0:08:28.57,Default,,0,0,0,,Shut up!
-Dialogue: 10,0:08:28.57,0:08:30.99,Default,,0,0,0,,G-Give her back! Give back Rhyme!
+Dialogue: 10,0:08:28.57,0:08:30.99,Default,,0,0,0,,G-Give her back! Give Rhyme back!
 Dialogue: 10,0:08:36.45,0:08:39.87,Default,,0,0,0,,I'd really love to deal with you myself,
 Dialogue: 10,0:08:39.87,0:08:43.75,Default,,0,0,0,,but we're forbidden from attacking Players. \NSo all I can do is harass you with Noise.
 Dialogue: 10,0:08:43.75,0:08:46.46,Default,,0,0,0,,We're gonna leave now. See ya later, skater boy.
@@ -187,7 +187,7 @@ Dialogue: 10,0:09:26.34,0:09:27.34,Default,,0,0,0,,Name's Hanekoma.
 Dialogue: 10,0:09:27.34,0:09:28.80,Default,,0,0,0,,Lemme go!
 Dialogue: 10,0:09:29.13,0:09:31.72,Default,,0,0,0,,Ya won't be able to do shit to the Noise without a partner.
 Dialogue: 10,0:09:31.72,0:09:33.14,Default,,0,0,0,,As if I give a damn.
-Dialogue: 10,0:09:33.14,0:09:37.01,Default,,0,0,0,,A Player who loses their partner\Nonly has a few minutes left to live.
+Dialogue: 10,0:09:33.14,0:09:37.01,Default,,0,0,0,,A Player who loses their partner\Nonly has a few minutes to live.
 Dialogue: 10,0:09:37.64,0:09:39.48,Default,,0,0,0,,I don't wanna be alive without Rhyme!
 Dialogue: 10,0:09:39.48,0:09:42.35,Default,,0,0,0,,So you'd rather let your \Npartner's death be in vain?
 Dialogue: 10,0:09:44.65,0:09:45.52,Default,,0,0,0,,Don't just give up.
@@ -217,7 +217,7 @@ Dialogue: 10,0:11:28.25,0:11:29.25,Default,,0,0,0,,One day left.
 Dialogue: 10,0:11:31.13,0:11:32.38,Default,,0,0,0,,Let's survive and win this,
 Dialogue: 10,0:11:32.88,0:11:34.09,Default,,0,0,0,,no matter what it takes.
 Dialogue: 10,0:11:39.09,0:11:41.01,Default,,0,0,0,,Today's the last day.
-Dialogue: 10,0:11:41.85,0:11:44.43,Default,,0,0,0,,"Defeat the Game Master\Nat the Shuto Expressway."
+Dialogue: 10,0:11:41.85,0:11:44.43,Default,,0,0,0,,"Defeat the Game Master\Nat the Shuto Expressway".
 Dialogue: 10,0:11:45.48,0:11:47.52,Default,,0,0,0,,And that'll be the end of the game?
 Dialogue: 10,0:11:48.85,0:11:49.61,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:11:50.81,0:11:51.77,Default,,0,0,0,,Rhyme.
@@ -271,7 +271,7 @@ Dialogue: 10,0:14:12.21,0:14:16.92,Default,,0,0,0,,When we come back to life,\NI
 Dialogue: 10,0:14:20.17,0:14:21.26,Default,,0,0,0,,I'll think about it.
 Dialogue: 10,0:14:22.47,0:14:23.09,Default,,0,0,0,,Great.
 Dialogue: 10,0:14:23.93,0:14:26.97,Default,,0,0,0,,I probably won't look like this...
-Dialogue: 10,0:14:29.60,0:14:32.85,Default,,0,0,0,,...so you can just use Mr. Mew to find me.
+Dialogue: 10,0:14:29.60,0:14:32.85,Default,,0,0,0,,...so you can just look for Mr. Mew to find me.
 Dialogue: 10,0:14:33.48,0:14:34.27,Default,,0,0,0,,Right.
 Dialogue: 10,0:14:35.31,0:14:36.27,Default,,0,0,0,,I'll find you.
 Dialogue: 10,0:14:49.58,0:14:52.04,Default,,0,0,0,,Can you smell what the wok is cooking?
@@ -316,7 +316,7 @@ Dialogue: 10,0:18:40.43,0:18:42.52,Default,,0,0,0,,It looks like we're being ble
 Dialogue: 10,0:18:43.27,0:18:44.06,Default,,0,0,0,,Neku.
 Dialogue: 10,0:18:59.16,0:19:01.66,Default,,0,0,0,,Where are we?
 Dialogue: 10,0:19:02.04,0:19:04.62,Default,,0,0,0,,Are we alive again?
-Dialogue: 10,0:19:04.62,0:19:07.13,Default,,0,0,0,,I'm sorry to say. But, not yet. {Sounds off. A simple "Unfortunately" is better imo, or you can run with something more like "Hate to break it to ya but," or "Hate to burst your bubble but," if you really want something more spicy}
+Dialogue: 10,0:19:04.62,0:19:07.13,Default,,0,0,0,,Unfortunately, not yet. 
 Dialogue: 10,0:19:07.13,0:19:08.00,Default,,0,0,0,,Who're you?
 Dialogue: 10,0:19:08.38,0:19:10.67,Default,,0,0,0,,A humble servant of the Composer.
 Dialogue: 10,0:19:11.59,0:19:14.59,Default,,0,0,0,,Kitaniji, Conductor of the Reapers' Game.
@@ -324,9 +324,9 @@ Dialogue: 10,0:19:15.05,0:19:17.64,Default,,0,0,0,,Congratulations on your victo
 Dialogue: 10,0:19:18.39,0:19:22.14,Default,,0,0,0,,First of all, this game\Nallows for the rebirth...
 Dialogue: 10,0:19:23.60,0:19:24.73,Default,,0,0,0,,...of only one person.
 Dialogue: 10,0:19:24.73,0:19:25.48,Default,,0,0,0,,What?!
-Dialogue: 10,0:19:25.94,0:19:29.40,Default,,0,0,0,,Not all of the survivors get to come back?!
+Dialogue: 10,0:19:25.94,0:19:29.40,Default,,0,0,0,,Don't all of the survivors get to come back?!
 Dialogue: 10,0:19:29.40,0:19:32.94,Default,,0,0,0,,This is a rule set by the Composer.
-Dialogue: 10,0:19:32.94,0:19:34.53,Default,,0,0,0,,It cannot be overturned.
+Dialogue: 10,0:19:32.94,0:19:34.53,Default,,0,0,0,,It cannot be overwritten.
 Dialogue: 10,0:19:35.15,0:19:37.66,Default,,0,0,0,,The judges have chosen to revive...
 Dialogue: 10,0:19:38.70,0:19:40.49,Default,,0,0,0,,...Shiki Misaki. {??? How come they use Japanese name order here LMAO}
 Dialogue: 10,0:19:40.49,0:19:41.49,Default,,0,0,0,,Me?

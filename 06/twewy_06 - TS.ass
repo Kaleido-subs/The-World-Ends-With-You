@@ -1,0 +1,28 @@
+﻿[Script Info]
+Title: [Kaleido-subs] The World Ends With You - 06
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,100,100,56,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
+
+Dialogue: 0,0:02:32.23,0:02:34.11,Signs,,0,0,0,,"The World Ends With You The Animation"
+Dialogue: 0,0:03:57.57,0:04:00.53,Signs,,0,0,0,,"#06: Turf"
+Dialogue: 0,0:04:47.82,0:04:50.70,Signs,,0,0,0,,"Miyashita Park Underpass"
+Dialogue: 0,0:08:11.28,0:08:11.70,Signs,,0,0,0,,"Cat Street"
+Dialogue: 0,0:08:11.70,0:08:14.28,Signs,,0,0,0,,"Cat Street"
+Dialogue: 0,0:10:28.87,0:10:29.37,Signs,,0,0,0,,"Under Construction"\N"We appreciate your cooperation\Nand apologize for theinconvenience"
+Dialogue: 0,0:10:29.37,0:10:31.88,Signs,,0,0,0,,"Under Construction"\N"We appreciate your cooperation\Nand apologize for theinconvenience"
+Dialogue: 0,0:12:44.13,0:12:47.05,Signs,,0,0,0,,"Miyashita"
+Dialogue: 0,0:16:05.92,0:16:08.80,Signs,,0,0,0,,"Shibuya Station Underpass"

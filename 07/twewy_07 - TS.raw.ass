@@ -1,0 +1,24 @@
+﻿[Script Info]
+Title: [Kaleido-subs] The World Ends With You - 07
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,100,100,56,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
+
+Dialogue: 0,0:00:47.25,0:00:49.13,Signs,,0,0,0,,"The World Ends With You The Animation"
+Dialogue: 0,0:02:09.25,0:02:11.38,Signs,,0,0,0,,"#07: Joshua"
+Dialogue: 0,0:02:11.38,0:02:13.17,Signs,,0,0,0,,"#07: Joshua"
+Dialogue: 0,0:04:34.52,0:04:36.98,Signs,,0,0,0,,"Center Street"
+Dialogue: 0,0:09:25.06,0:09:27.69,Signs,,0,0,0,,"Udagawa"

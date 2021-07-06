@@ -17,7 +17,6 @@ fun EventLine.isKaraTemplate(): Boolean {
 	return this.comment && this.effect.isKaraTemplate()
 }
 
-
 subs {
     readProperties("sub.properties")
     episodes(getList("episodes"))
@@ -104,7 +103,7 @@ subs {
 				lang("eng")
                 name(get("group"))
 				default(true)
-				forced(true)
+				forced(false)
 				compression(CompressionType.ZLIB)
 			}
 		}
